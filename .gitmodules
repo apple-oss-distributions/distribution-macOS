@@ -136,9 +136,6 @@
 [submodule "groff"]
 	path = groff
 	url = https://github.com/apple-oss-distributions/groff
-[submodule "headerdoc"]
-	path = headerdoc
-	url = https://github.com/apple-oss-distributions/headerdoc
 [submodule "hfs"]
 	path = hfs
 	url = https://github.com/apple-oss-distributions/hfs

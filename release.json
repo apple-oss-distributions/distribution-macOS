@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.7",
-	"release": "Mac OS X 10.7",
+	"release": "Mac OS X 10.7.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -583,10 +583,6 @@
 			"tag": "gssd-53"
 		},
 		{
-			"project": "headerdoc",
-			"tag": "headerdoc-8.8.38"
-		},
-		{
 			"project": "hfs",
 			"tag": "hfs-191"
 		},
@@ -840,7 +836,8 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-320.5"
+			"tag": "mDNSResponder-320.5.1",
+			"updated": true
 		},
 		{
 			"project": "mail_cmds",
@@ -1128,7 +1125,8 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-1699.22.73"
+			"tag": "xnu-1699.22.81",
+			"updated": true
 		},
 		{
 			"project": "zip",
