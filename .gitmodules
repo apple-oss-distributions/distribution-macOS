@@ -622,3 +622,9 @@
 [submodule "webdavfs"]
 	path = webdavfs
 	url = https://github.com/apple-oss-distributions/webdavfs
+[submodule "cups"]
+	path = cups
+	url = https://github.com/apple-oss-distributions/cups
+[submodule "mDNSResponder"]
+	path = mDNSResponder
+	url = https://github.com/apple-oss-distributions/mDNSResponder

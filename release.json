@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.2",
-	"release": "Mac OS X 10.2",
+	"release": "Mac OS X 10.2.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -44,7 +44,8 @@
 		},
 		{
 			"project": "AppleGMACEthernet",
-			"tag": "AppleGMACEthernet-121.2.3"
+			"tag": "AppleGMACEthernet-121.2.5",
+			"updated": true
 		},
 		{
 			"project": "AppleGenericPCATA",
@@ -132,7 +133,8 @@
 		},
 		{
 			"project": "AppleUSBProKeyboard",
-			"tag": "AppleUSBProKeyboard-200.0.1"
+			"tag": "AppleUSBProKeyboard-202.4.0",
+			"updated": true
 		},
 		{
 			"project": "AppleVIA",
@@ -192,7 +194,8 @@
 		},
 		{
 			"project": "IOAudioFamily",
-			"tag": "IOAudioFamily-130.2.10"
+			"tag": "IOAudioFamily-131.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOCDStorageFamily",
@@ -204,19 +207,23 @@
 		},
 		{
 			"project": "IOFWDVComponents",
-			"tag": "IOFWDVComponents-120.4.2"
+			"tag": "IOFWDVComponents-121.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireAVC",
-			"tag": "IOFireWireAVC-120.0.5"
+			"tag": "IOFireWireAVC-121.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireFamily",
-			"tag": "IOFireWireFamily-120.4.3"
+			"tag": "IOFireWireFamily-121.4.2",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireSBP2",
-			"tag": "IOFireWireSBP2-120.4.0"
+			"tag": "IOFireWireSBP2-121.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireSerialBusProtocolTransport",
@@ -252,7 +259,8 @@
 		},
 		{
 			"project": "IOSCSIArchitectureModelFamily",
-			"tag": "IOSCSIArchitectureModelFamily-120.3.10"
+			"tag": "IOSCSIArchitectureModelFamily-121.2.1",
+			"updated": true
 		},
 		{
 			"project": "IOSerialFamily",
@@ -264,7 +272,8 @@
 		},
 		{
 			"project": "IOUSBFamily",
-			"tag": "IOUSBFamily-190.4.1"
+			"tag": "IOUSBFamily-192.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOUSBMassStorageClass",
@@ -288,7 +297,8 @@
 		},
 		{
 			"project": "Libinfo",
-			"tag": "Libinfo-129"
+			"tag": "Libinfo-129.1",
+			"updated": true
 		},
 		{
 			"project": "Libkvm",
@@ -308,7 +318,8 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-60"
+			"tag": "Libsystem-60.2",
+			"updated": true
 		},
 		{
 			"project": "Liby",
@@ -332,7 +343,8 @@
 		},
 		{
 			"project": "OpenSSL",
-			"tag": "OpenSSL-10"
+			"tag": "OpenSSL-12",
+			"updated": true
 		},
 		{
 			"project": "PowerManagement",
@@ -340,11 +352,13 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-54"
+			"tag": "Security-54.1",
+			"updated": true
 		},
 		{
 			"project": "SharedIP",
-			"tag": "SharedIP-39.1"
+			"tag": "SharedIP-39.2",
+			"updated": true
 		},
 		{
 			"project": "SmartCardServices",
@@ -356,7 +370,8 @@
 		},
 		{
 			"project": "SystemKEXT",
-			"tag": "SystemKEXT-23"
+			"tag": "SystemKEXT-23.2",
+			"updated": true
 		},
 		{
 			"project": "UserNotification",
@@ -380,7 +395,8 @@
 		},
 		{
 			"project": "apache_mod_hfs_apple",
-			"tag": "apache_mod_hfs_apple-3"
+			"tag": "apache_mod_hfs_apple-4",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_perl",
@@ -493,6 +509,11 @@
 		{
 			"project": "cscope",
 			"tag": "cscope-5"
+		},
+		{
+			"project": "cups",
+			"tag": "cups-23",
+			"updated": true
 		},
 		{
 			"project": "curl",
@@ -641,6 +662,11 @@
 		{
 			"project": "lukemftpd",
 			"tag": "lukemftpd-4"
+		},
+		{
+			"project": "mDNSResponder",
+			"tag": "mDNSResponder-22",
+			"updated": true
 		},
 		{
 			"project": "mail_cmds",
@@ -812,11 +838,13 @@
 		},
 		{
 			"project": "webdavfs",
-			"tag": "webdavfs-112"
+			"tag": "webdavfs-112.1",
+			"updated": true
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-344"
+			"tag": "xnu-344.2",
+			"updated": true
 		},
 		{
 			"project": "yacc",
