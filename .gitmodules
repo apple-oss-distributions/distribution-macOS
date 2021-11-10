@@ -463,9 +463,6 @@
 [submodule "Security"]
 	path = Security
 	url = https://github.com/apple-oss-distributions/Security
-[submodule "SystemKEXT"]
-	path = SystemKEXT
-	url = https://github.com/apple-oss-distributions/SystemKEXT
 [submodule "apache_mod_hfs_apple"]
 	path = apache_mod_hfs_apple
 	url = https://github.com/apple-oss-distributions/apache_mod_hfs_apple
@@ -640,3 +637,6 @@
 [submodule "xinetd"]
 	path = xinetd
 	url = https://github.com/apple-oss-distributions/xinetd
+[submodule "gcc3"]
+	path = gcc3
+	url = https://github.com/apple-oss-distributions/gcc3
