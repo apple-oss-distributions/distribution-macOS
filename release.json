@@ -1,6 +1,6 @@
 {
 	"major_release": "OS X 10.9",
-	"release": "OS X 10.9",
+	"release": "OS X 10.9.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -68,7 +68,8 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-511.25"
+			"tag": "ICU-511.27",
+			"updated": true
 		},
 		{
 			"project": "IOATAFamily",
@@ -160,7 +161,8 @@
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7537.65"
+			"tag": "JavaScriptCore-7537.73.10",
+			"updated": true
 		},
 		{
 			"project": "KerberosHelper",
@@ -256,7 +258,8 @@
 		},
 		{
 			"project": "TimeZoneData",
-			"tag": "TimeZoneData-52"
+			"tag": "TimeZoneData-54",
+			"updated": true
 		},
 		{
 			"project": "Twisted",
@@ -268,15 +271,18 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7537.70"
+			"tag": "WebCore-7537.73.13",
+			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7537.71"
+			"tag": "WebKit-7537.73.11",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7537.71"
+			"tag": "WebKit2-7537.73.11",
+			"updated": true
 		},
 		{
 			"project": "adv_cmds",
@@ -760,7 +766,8 @@
 		},
 		{
 			"project": "securityd",
-			"tag": "securityd-55199"
+			"tag": "securityd-55199.0.1",
+			"updated": true
 		},
 		{
 			"project": "shell_cmds",
