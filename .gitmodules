@@ -232,9 +232,6 @@
 [submodule "OpenLDAP"]
 	path = OpenLDAP
 	url = https://github.com/apple-oss-distributions/OpenLDAP
-[submodule "PowerManagement"]
-	path = PowerManagement
-	url = https://github.com/apple-oss-distributions/PowerManagement
 [submodule "apache_mod_perl"]
 	path = apache_mod_perl
 	url = https://github.com/apple-oss-distributions/apache_mod_perl
