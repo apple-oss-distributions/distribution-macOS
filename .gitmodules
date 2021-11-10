@@ -79,9 +79,6 @@
 [submodule "bootp"]
 	path = bootp
 	url = https://github.com/apple-oss-distributions/bootp
-[submodule "cctools"]
-	path = cctools
-	url = https://github.com/apple-oss-distributions/cctools
 [submodule "configd"]
 	path = configd
 	url = https://github.com/apple-oss-distributions/configd
@@ -157,9 +154,6 @@
 [submodule "ppp"]
 	path = ppp
 	url = https://github.com/apple-oss-distributions/ppp
-[submodule "procmail"]
-	path = procmail
-	url = https://github.com/apple-oss-distributions/procmail
 [submodule "project_makefiles"]
 	path = project_makefiles
 	url = https://github.com/apple-oss-distributions/project_makefiles
@@ -322,9 +316,6 @@
 [submodule "screen"]
 	path = screen
 	url = https://github.com/apple-oss-distributions/screen
-[submodule "smb"]
-	path = smb
-	url = https://github.com/apple-oss-distributions/smb
 [submodule "texinfo"]
 	path = texinfo
 	url = https://github.com/apple-oss-distributions/texinfo
@@ -406,9 +397,6 @@
 [submodule "libxml2"]
 	path = libxml2
 	url = https://github.com/apple-oss-distributions/libxml2
-[submodule "mDNSResponder"]
-	path = mDNSResponder
-	url = https://github.com/apple-oss-distributions/mDNSResponder
 [submodule "mailman"]
 	path = mailman
 	url = https://github.com/apple-oss-distributions/mailman
@@ -436,18 +424,12 @@
 [submodule "AppleFileSystemDriver"]
 	path = AppleFileSystemDriver
 	url = https://github.com/apple-oss-distributions/AppleFileSystemDriver
-[submodule "AppleUSBCDCDriver"]
-	path = AppleUSBCDCDriver
-	url = https://github.com/apple-oss-distributions/AppleUSBCDCDriver
 [submodule "Chess"]
 	path = Chess
 	url = https://github.com/apple-oss-distributions/Chess
 [submodule "CommonCrypto"]
 	path = CommonCrypto
 	url = https://github.com/apple-oss-distributions/CommonCrypto
-[submodule "IOI2CFamily"]
-	path = IOI2CFamily
-	url = https://github.com/apple-oss-distributions/IOI2CFamily
 [submodule "Libcpp_kext"]
 	path = Libcpp_kext
 	url = https://github.com/apple-oss-distributions/Libcpp_kext
@@ -481,9 +463,6 @@
 [submodule "libfs"]
 	path = libfs
 	url = https://github.com/apple-oss-distributions/libfs
-[submodule "libsecurity_agent"]
-	path = libsecurity_agent
-	url = https://github.com/apple-oss-distributions/libsecurity_agent
 [submodule "libsecurity_apple_file_dl"]
 	path = libsecurity_apple_file_dl
 	url = https://github.com/apple-oss-distributions/libsecurity_apple_file_dl
@@ -562,15 +541,6 @@
 [submodule "TimeZoneData"]
 	path = TimeZoneData
 	url = https://github.com/apple-oss-distributions/TimeZoneData
-[submodule "Twisted"]
-	path = Twisted
-	url = https://github.com/apple-oss-distributions/Twisted
-[submodule "TwistedWords"]
-	path = TwistedWords
-	url = https://github.com/apple-oss-distributions/TwistedWords
-[submodule "TwistedXish"]
-	path = TwistedXish
-	url = https://github.com/apple-oss-distributions/TwistedXish
 [submodule "apache1"]
 	path = apache1
 	url = https://github.com/apple-oss-distributions/apache1
@@ -661,9 +631,6 @@
 [submodule "xar"]
 	path = xar
 	url = https://github.com/apple-oss-distributions/xar
-[submodule "CF"]
-	path = CF
-	url = https://github.com/apple-oss-distributions/CF
 [submodule "OpenPAM"]
 	path = OpenPAM
 	url = https://github.com/apple-oss-distributions/OpenPAM
@@ -754,12 +721,12 @@
 [submodule "bmalloc"]
 	path = bmalloc
 	url = https://github.com/apple-oss-distributions/bmalloc
-[submodule "bootstrap_cmds"]
-	path = bootstrap_cmds
-	url = https://github.com/apple-oss-distributions/bootstrap_cmds
 [submodule "libmalloc"]
 	path = libmalloc
 	url = https://github.com/apple-oss-distributions/libmalloc
 [submodule "libpthread"]
 	path = libpthread
 	url = https://github.com/apple-oss-distributions/libpthread
+[submodule "coreTLS"]
+	path = coreTLS
+	url = https://github.com/apple-oss-distributions/coreTLS
