@@ -640,3 +640,15 @@
 [submodule "gcc3"]
 	path = gcc3
 	url = https://github.com/apple-oss-distributions/gcc3
+[submodule "DSNSLPlugins"]
+	path = DSNSLPlugins
+	url = https://github.com/apple-oss-distributions/DSNSLPlugins
+[submodule "IOSCSIParallelFamily"]
+	path = IOSCSIParallelFamily
+	url = https://github.com/apple-oss-distributions/IOSCSIParallelFamily
+[submodule "kext_tools"]
+	path = kext_tools
+	url = https://github.com/apple-oss-distributions/kext_tools
+[submodule "samba"]
+	path = samba
+	url = https://github.com/apple-oss-distributions/samba
