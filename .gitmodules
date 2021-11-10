@@ -256,9 +256,6 @@
 [submodule "IOFireWireAVC"]
 	path = IOFireWireAVC
 	url = https://github.com/apple-oss-distributions/IOFireWireAVC
-[submodule "IOUSBFamily"]
-	path = IOUSBFamily
-	url = https://github.com/apple-oss-distributions/IOUSBFamily
 [submodule "OpenLDAP"]
 	path = OpenLDAP
 	url = https://github.com/apple-oss-distributions/OpenLDAP
@@ -478,9 +475,6 @@
 [submodule "gpt"]
 	path = gpt
 	url = https://github.com/apple-oss-distributions/gpt
-[submodule "graphviz"]
-	path = graphviz
-	url = https://github.com/apple-oss-distributions/graphviz
 [submodule "ksh"]
 	path = ksh
 	url = https://github.com/apple-oss-distributions/ksh
@@ -580,9 +574,6 @@
 [submodule "RubyGems"]
 	path = RubyGems
 	url = https://github.com/apple-oss-distributions/RubyGems
-[submodule "TargetConfig"]
-	path = TargetConfig
-	url = https://github.com/apple-oss-distributions/TargetConfig
 [submodule "TimeZoneData"]
 	path = TimeZoneData
 	url = https://github.com/apple-oss-distributions/TimeZoneData
@@ -622,9 +613,6 @@
 [submodule "expat"]
 	path = expat
 	url = https://github.com/apple-oss-distributions/expat
-[submodule "freeradius"]
-	path = freeradius
-	url = https://github.com/apple-oss-distributions/freeradius
 [submodule "gssd"]
 	path = gssd
 	url = https://github.com/apple-oss-distributions/gssd
@@ -772,3 +760,6 @@
 [submodule "WebKit2"]
 	path = WebKit2
 	url = https://github.com/apple-oss-distributions/WebKit2
+[submodule "libsecurity_ldap_dl"]
+	path = libsecurity_ldap_dl
+	url = https://github.com/apple-oss-distributions/libsecurity_ldap_dl
