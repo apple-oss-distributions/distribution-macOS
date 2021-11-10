@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.3",
-	"release": "Mac OS X 10.3.7",
+	"release": "Mac OS X 10.3.8",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -60,7 +60,8 @@
 		},
 		{
 			"project": "AppleI2C",
-			"tag": "AppleI2C-344.0.1"
+			"tag": "AppleI2C-345.0.2",
+			"updated": true
 		},
 		{
 			"project": "AppleI2S",
@@ -96,7 +97,8 @@
 		},
 		{
 			"project": "AppleKeyLargo",
-			"tag": "AppleKeyLargo-154.0.1"
+			"tag": "AppleKeyLargo-156.0.0",
+			"updated": true
 		},
 		{
 			"project": "AppleKiwiATA",
@@ -116,11 +118,13 @@
 		},
 		{
 			"project": "AppleMacRISC2PE",
-			"tag": "AppleMacRISC2PE-160.2.5"
+			"tag": "AppleMacRISC2PE-161.2.2",
+			"updated": true
 		},
 		{
 			"project": "AppleMacRISC4PE",
-			"tag": "AppleMacRISC4PE-140.2.1"
+			"tag": "AppleMacRISC4PE-151.0.3",
+			"updated": true
 		},
 		{
 			"project": "AppleMacRiscPCI",
@@ -132,7 +136,8 @@
 		},
 		{
 			"project": "AppleOnboardAudio",
-			"tag": "AppleOnboardAudio-241.2.1"
+			"tag": "AppleOnboardAudio-247.2.2",
+			"updated": true
 		},
 		{
 			"project": "ApplePCCardATA",
@@ -176,7 +181,8 @@
 		},
 		{
 			"project": "AppleUSBCDCDriver",
-			"tag": "AppleUSBCDCDriver-301.4.1"
+			"tag": "AppleUSBCDCDriver-302.2.1",
+			"updated": true
 		},
 		{
 			"project": "AppleUSBIrDA",
@@ -184,7 +190,8 @@
 		},
 		{
 			"project": "AppleVIA",
-			"tag": "AppleVIA-1.3"
+			"tag": "AppleVIA-150.0.1",
+			"updated": true
 		},
 		{
 			"project": "BerkeleyDB",
@@ -200,8 +207,7 @@
 		},
 		{
 			"project": "CF",
-			"tag": "CF-299.33",
-			"updated": true
+			"tag": "CF-299.33"
 		},
 		{
 			"project": "CMD646ATA",
@@ -217,8 +223,7 @@
 		},
 		{
 			"project": "CyrusIMAP",
-			"tag": "CyrusIMAP-125.6",
-			"updated": true
+			"tag": "CyrusIMAP-125.6"
 		},
 		{
 			"project": "DSAgent",
@@ -230,7 +235,8 @@
 		},
 		{
 			"project": "DSNSLPlugins",
-			"tag": "DSNSLPlugins-79.5"
+			"tag": "DSNSLPlugins-79.6",
+			"updated": true
 		},
 		{
 			"project": "DSPasswordServerPlugin",
@@ -266,7 +272,8 @@
 		},
 		{
 			"project": "IOAudioFamily",
-			"tag": "IOAudioFamily-150.2.9"
+			"tag": "IOAudioFamily-150.2.10",
+			"updated": true
 		},
 		{
 			"project": "IOCDStorageFamily",
@@ -302,11 +309,13 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-126"
+			"tag": "IOGraphics-127.1",
+			"updated": true
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-86.21"
+			"tag": "IOHIDFamily-86.26",
+			"updated": true
 		},
 		{
 			"project": "IOKitTools",
@@ -314,7 +323,8 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-182"
+			"tag": "IOKitUser-184",
+			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -330,8 +340,7 @@
 		},
 		{
 			"project": "IOSCSIArchitectureModelFamily",
-			"tag": "IOSCSIArchitectureModelFamily-138.3.1",
-			"updated": true
+			"tag": "IOSCSIArchitectureModelFamily-138.3.1"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -347,7 +356,8 @@
 		},
 		{
 			"project": "IOUSBFamily",
-			"tag": "IOUSBFamily-214.4.5"
+			"tag": "IOUSBFamily-215.4.4",
+			"updated": true
 		},
 		{
 			"project": "IOUSBMassStorageClass",
@@ -435,7 +445,8 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-63.3"
+			"tag": "PowerManagement-63.6",
+			"updated": true
 		},
 		{
 			"project": "Security",
@@ -467,7 +478,8 @@
 		},
 		{
 			"project": "SquirrelMail",
-			"tag": "SquirrelMail-12.1"
+			"tag": "SquirrelMail-12.2",
+			"updated": true
 		},
 		{
 			"project": "Startup",
@@ -479,7 +491,7 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-125.8.12",
+			"tag": "WebCore-125.8.13",
 			"updated": true
 		},
 		{
@@ -496,13 +508,11 @@
 		},
 		{
 			"project": "apache",
-			"tag": "apache-678",
-			"updated": true
+			"tag": "apache-678"
 		},
 		{
 			"project": "apache2",
-			"tag": "apache2-17",
-			"updated": true
+			"tag": "apache2-17"
 		},
 		{
 			"project": "apache_mod_dav",
@@ -514,11 +524,13 @@
 		},
 		{
 			"project": "apache_mod_perl",
-			"tag": "apache_mod_perl-5"
+			"tag": "apache_mod_perl-5.2",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-12"
+			"tag": "apache_mod_php-17.5",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_rendezvous_apple",
@@ -526,8 +538,7 @@
 		},
 		{
 			"project": "apache_mod_ssl",
-			"tag": "apache_mod_ssl-678",
-			"updated": true
+			"tag": "apache_mod_ssl-678"
 		},
 		{
 			"project": "architecture",
@@ -831,7 +842,8 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-7"
+			"tag": "libxml2-7.1",
+			"updated": true
 		},
 		{
 			"project": "lsof",
@@ -879,7 +891,7 @@
 		},
 		{
 			"project": "netinfo",
-			"tag": "netinfo-324.9",
+			"tag": "netinfo-324.11",
 			"updated": true
 		},
 		{
@@ -932,8 +944,7 @@
 		},
 		{
 			"project": "postfix",
-			"tag": "postfix-132.2",
-			"updated": true
+			"tag": "postfix-132.2"
 		},
 		{
 			"project": "ppp",
@@ -989,7 +1000,8 @@
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-279.6"
+			"tag": "system_cmds-279.6.1",
+			"updated": true
 		},
 		{
 			"project": "system_config",
@@ -1049,7 +1061,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-517.9.5",
+			"tag": "xnu-517.11.1",
 			"updated": true
 		},
 		{
