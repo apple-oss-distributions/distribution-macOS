@@ -379,9 +379,6 @@
 [submodule "bless"]
 	path = bless
 	url = https://github.com/apple-oss-distributions/bless
-[submodule "drvAppleCMD646Root"]
-	path = drvAppleCMD646Root
-	url = https://github.com/apple-oss-distributions/drvAppleCMD646Root
 [submodule "libpcap"]
 	path = libpcap
 	url = https://github.com/apple-oss-distributions/libpcap
@@ -1153,3 +1150,6 @@
 [submodule "xelf"]
 	path = xelf
 	url = https://github.com/apple-oss-distributions/xelf
+[submodule "CF"]
+	path = CF
+	url = https://github.com/apple-oss-distributions/CF
