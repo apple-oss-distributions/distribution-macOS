@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.1",
-	"release": "Mac OS X 10.1.1",
+	"release": "Mac OS X 10.1.2",
 	"projects": [
 		{
 			"project": "AppleADBButtons",
@@ -12,7 +12,8 @@
 		},
 		{
 			"project": "AppleADBKeyboard",
-			"tag": "AppleADBKeyboard-2.3"
+			"tag": "AppleADBKeyboard-2.3.2d1",
+			"updated": true
 		},
 		{
 			"project": "AppleADBMouse",
@@ -32,7 +33,8 @@
 		},
 		{
 			"project": "AppleGMACEthernet",
-			"tag": "AppleGMACEthernet-1.16"
+			"tag": "AppleGMACEthernet-1.20",
+			"updated": true
 		},
 		{
 			"project": "AppleGracklePCI",
@@ -56,13 +58,12 @@
 		},
 		{
 			"project": "AppleKeyLargo",
-			"tag": "AppleKeyLargo-1.1.1d2",
+			"tag": "AppleKeyLargo-1.1.2d2",
 			"updated": true
 		},
 		{
 			"project": "AppleMESH",
-			"tag": "AppleMESH-1.6",
-			"updated": true
+			"tag": "AppleMESH-1.6"
 		},
 		{
 			"project": "AppleMPIC",
@@ -82,7 +83,7 @@
 		},
 		{
 			"project": "AppleOnboardAudio",
-			"tag": "AppleOnboardAudio-1.5.2",
+			"tag": "AppleOnboardAudio-1.7d39",
 			"updated": true
 		},
 		{
@@ -103,7 +104,8 @@
 		},
 		{
 			"project": "AppleTalk",
-			"tag": "AppleTalk-66"
+			"tag": "AppleTalk-66.3",
+			"updated": true
 		},
 		{
 			"project": "AppleUSBProKeyboard",
@@ -135,19 +137,23 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-48.1"
+			"tag": "DiskArbitration-53",
+			"updated": true
 		},
 		{
 			"project": "IOATABlockStorage",
-			"tag": "IOATABlockStorage-24"
+			"tag": "IOATABlockStorage-25.2",
+			"updated": true
 		},
 		{
 			"project": "IOATAFamily",
-			"tag": "IOATAFamily-1.4.8f3"
+			"tag": "IOATAFamily-1.4.9f1",
+			"updated": true
 		},
 		{
 			"project": "IOATAPIProtocolTransport",
-			"tag": "IOATAPIProtocolTransport-28"
+			"tag": "IOATAPIProtocolTransport-30",
+			"updated": true
 		},
 		{
 			"project": "IOAudioFamily",
@@ -163,17 +169,17 @@
 		},
 		{
 			"project": "IOFWDVComponents",
-			"tag": "IOFWDVComponents-25",
+			"tag": "IOFWDVComponents-26",
 			"updated": true
 		},
 		{
 			"project": "IOFireWireFamily",
-			"tag": "IOFireWireFamily-40",
+			"tag": "IOFireWireFamily-43",
 			"updated": true
 		},
 		{
 			"project": "IOFireWireSBP2",
-			"tag": "IOFireWireSBP2-23",
+			"tag": "IOFireWireSBP2-24",
 			"updated": true
 		},
 		{
@@ -182,8 +188,7 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-16.1",
-			"updated": true
+			"tag": "IOGraphics-16.1"
 		},
 		{
 			"project": "IOHIDFamily",
@@ -195,7 +200,8 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-67"
+			"tag": "IOKitUser-67.1",
+			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -203,7 +209,8 @@
 		},
 		{
 			"project": "IOPCCardFamily",
-			"tag": "IOPCCardFamily-16"
+			"tag": "IOPCCardFamily-18",
+			"updated": true
 		},
 		{
 			"project": "IOPCIFamily",
@@ -211,7 +218,7 @@
 		},
 		{
 			"project": "IOSCSIArchitectureModelFamily",
-			"tag": "IOSCSIArchitectureModelFamily-1.1_40",
+			"tag": "IOSCSIArchitectureModelFamily-1.1_44",
 			"updated": true
 		},
 		{
@@ -220,11 +227,13 @@
 		},
 		{
 			"project": "IOStorageFamily",
-			"tag": "IOStorageFamily-10"
+			"tag": "IOStorageFamily-10.3",
+			"updated": true
 		},
 		{
 			"project": "IOUSBMassStorageClass",
-			"tag": "IOUSBMassStorageClass-1.1_12"
+			"tag": "IOUSBMassStorageClass-1.1.1_4",
+			"updated": true
 		},
 		{
 			"project": "IPFirewall",
@@ -248,7 +257,8 @@
 		},
 		{
 			"project": "Libinfo",
-			"tag": "Libinfo-89"
+			"tag": "Libinfo-89.1",
+			"updated": true
 		},
 		{
 			"project": "Libkvm",
@@ -284,8 +294,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-29",
-			"updated": true
+			"tag": "Security-29"
 		},
 		{
 			"project": "SharedIP",
@@ -297,7 +306,7 @@
 		},
 		{
 			"project": "SystemKEXT",
-			"tag": "SystemKEXT-9",
+			"tag": "SystemKEXT-10",
 			"updated": true
 		},
 		{
@@ -310,7 +319,8 @@
 		},
 		{
 			"project": "apache",
-			"tag": "apache-647"
+			"tag": "apache-649",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_dav",
@@ -318,7 +328,8 @@
 		},
 		{
 			"project": "apache_mod_hfs_apple",
-			"tag": "apache_mod_hfs_apple-2"
+			"tag": "apache_mod_hfs_apple-3",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_php",
@@ -326,7 +337,8 @@
 		},
 		{
 			"project": "apache_mod_ssl",
-			"tag": "apache_mod_ssl-6"
+			"tag": "apache_mod_ssl-7",
+			"updated": true
 		},
 		{
 			"project": "architecture",
@@ -374,7 +386,8 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-70"
+			"tag": "bootp-72",
+			"updated": true
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -446,8 +459,7 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-371",
-			"updated": true
+			"tag": "files-371"
 		},
 		{
 			"project": "flex",
@@ -543,7 +555,8 @@
 		},
 		{
 			"project": "netinfo",
-			"tag": "netinfo-233"
+			"tag": "netinfo-233.1",
+			"updated": true
 		},
 		{
 			"project": "network_cmds",
@@ -579,7 +592,7 @@
 		},
 		{
 			"project": "ppp",
-			"tag": "ppp-57.2",
+			"tag": "ppp-57.3",
 			"updated": true
 		},
 		{
@@ -656,7 +669,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-201.5",
+			"tag": "xnu-201.14",
 			"updated": true
 		},
 		{
