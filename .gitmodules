@@ -256,9 +256,6 @@
 [submodule "PowerManagement"]
 	path = PowerManagement
 	url = https://github.com/apple-oss-distributions/PowerManagement
-[submodule "SmartCardServices"]
-	path = SmartCardServices
-	url = https://github.com/apple-oss-distributions/SmartCardServices
 [submodule "apache_mod_perl"]
 	path = apache_mod_perl
 	url = https://github.com/apple-oss-distributions/apache_mod_perl
@@ -373,9 +370,6 @@
 [submodule "cups"]
 	path = cups
 	url = https://github.com/apple-oss-distributions/cups
-[submodule "efax"]
-	path = efax
-	url = https://github.com/apple-oss-distributions/efax
 [submodule "file"]
 	path = file
 	url = https://github.com/apple-oss-distributions/file
@@ -409,9 +403,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = https://github.com/apple-oss-distributions/postfix
-[submodule "srm"]
-	path = srm
-	url = https://github.com/apple-oss-distributions/srm
 [submodule "system_config"]
 	path = system_config
 	url = https://github.com/apple-oss-distributions/system_config
@@ -730,3 +721,12 @@
 [submodule "coreTLS"]
 	path = coreTLS
 	url = https://github.com/apple-oss-distributions/coreTLS
+[submodule "bootstrap_cmds"]
+	path = bootstrap_cmds
+	url = https://github.com/apple-oss-distributions/bootstrap_cmds
+[submodule "libplatform"]
+	path = libplatform
+	url = https://github.com/apple-oss-distributions/libplatform
+[submodule "mDNSResponder"]
+	path = mDNSResponder
+	url = https://github.com/apple-oss-distributions/mDNSResponder
