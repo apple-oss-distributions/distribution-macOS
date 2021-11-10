@@ -688,9 +688,6 @@
 [submodule "SecurityTool"]
 	path = SecurityTool
 	url = https://github.com/apple-oss-distributions/SecurityTool
-[submodule "WebCore"]
-	path = WebCore
-	url = https://github.com/apple-oss-distributions/WebCore
 [submodule "apache2"]
 	path = apache2
 	url = https://github.com/apple-oss-distributions/apache2
@@ -781,3 +778,12 @@
 [submodule "xinetd"]
 	path = xinetd
 	url = https://github.com/apple-oss-distributions/xinetd
+[submodule "SquirrelMail"]
+	path = SquirrelMail
+	url = https://github.com/apple-oss-distributions/SquirrelMail
+[submodule "gas"]
+	path = gas
+	url = https://github.com/apple-oss-distributions/gas
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
