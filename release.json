@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.4",
-	"release": "Mac OS X 10.4",
+	"release": "Mac OS X 10.4.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -260,7 +260,8 @@
 		},
 		{
 			"project": "CF",
-			"tag": "CF-368"
+			"tag": "CF-368.1",
+			"updated": true
 		},
 		{
 			"project": "CFNetwork",
@@ -292,7 +293,8 @@
 		},
 		{
 			"project": "CyrusIMAP",
-			"tag": "CyrusIMAP-156"
+			"tag": "CyrusIMAP-156.3",
+			"updated": true
 		},
 		{
 			"project": "DSAgent",
@@ -316,7 +318,8 @@
 		},
 		{
 			"project": "DirectoryService",
-			"tag": "DirectoryService-346"
+			"tag": "DirectoryService-349",
+			"updated": true
 		},
 		{
 			"project": "DiskArbitration",
@@ -480,7 +483,8 @@
 		},
 		{
 			"project": "Libm",
-			"tag": "Libm-92"
+			"tag": "Libm-93",
+			"updated": true
 		},
 		{
 			"project": "Libnotify",
@@ -576,7 +580,8 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-413"
+			"tag": "WebCore-415.5",
+			"updated": true
 		},
 		{
 			"project": "X11",
@@ -668,7 +673,8 @@
 		},
 		{
 			"project": "blojsom",
-			"tag": "blojsom-47.2"
+			"tag": "blojsom-48",
+			"updated": true
 		},
 		{
 			"project": "boot",
@@ -676,7 +682,8 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-133"
+			"tag": "bootp-133.3",
+			"updated": true
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -700,7 +707,8 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-576"
+			"tag": "cctools-576.2",
+			"updated": true
 		},
 		{
 			"project": "cddafs",
@@ -1360,7 +1368,8 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-792"
+			"tag": "xnu-792.1.5",
+			"updated": true
 		},
 		{
 			"project": "yacc",
