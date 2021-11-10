@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.6",
-	"release": "Mac OS X 10.6",
+	"release": "Mac OS X 10.6.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -264,7 +264,8 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-123"
+			"tag": "Libsystem-124.1.1",
+			"updated": true
 		},
 		{
 			"project": "Liby",
@@ -548,7 +549,8 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-218"
+			"tag": "cups-218.1",
+			"updated": true
 		},
 		{
 			"project": "curl",
@@ -557,6 +559,11 @@
 		{
 			"project": "cvs",
 			"tag": "cvs-42"
+		},
+		{
+			"project": "cvs_wrapped",
+			"tag": "cvs_wrapped-15",
+			"updated": true
 		},
 		{
 			"project": "cxxfilt",
@@ -755,16 +762,13 @@
 			"tag": "libarchive-13.1"
 		},
 		{
-			"project": "libauto",
-			"tag": "libauto-141"
-		},
-		{
 			"project": "libclosure",
 			"tag": "libclosure-38"
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-84.5"
+			"tag": "libdispatch-84.5.1",
+			"updated": true
 		},
 		{
 			"project": "libedit",
@@ -925,6 +929,10 @@
 		{
 			"project": "libstdcxx",
 			"tag": "libstdcxx-39"
+		},
+		{
+			"project": "libstdcxx_40",
+			"tag": "libstdcxx_40-5"
 		},
 		{
 			"project": "libtelnet",

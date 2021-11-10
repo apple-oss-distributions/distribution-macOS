@@ -1033,9 +1033,6 @@
 [submodule "libarchive"]
 	path = libarchive
 	url = https://github.com/apple-oss-distributions/libarchive
-[submodule "libauto"]
-	path = libauto
-	url = https://github.com/apple-oss-distributions/libauto
 [submodule "libclosure"]
 	path = libclosure
 	url = https://github.com/apple-oss-distributions/libclosure
@@ -1057,3 +1054,6 @@
 [submodule "pcre"]
 	path = pcre
 	url = https://github.com/apple-oss-distributions/pcre
+[submodule "libstdcxx_40"]
+	path = libstdcxx_40
+	url = https://github.com/apple-oss-distributions/libstdcxx_40
