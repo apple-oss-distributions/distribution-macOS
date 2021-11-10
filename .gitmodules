@@ -655,3 +655,21 @@
 [submodule "DSNISPlugin"]
 	path = DSNISPlugin
 	url = https://github.com/apple-oss-distributions/DSNISPlugin
+[submodule "AppleI2S"]
+	path = AppleI2S
+	url = https://github.com/apple-oss-distributions/AppleI2S
+[submodule "AppleK2SATA"]
+	path = AppleK2SATA
+	url = https://github.com/apple-oss-distributions/AppleK2SATA
+[submodule "AppleK2SATARoot"]
+	path = AppleK2SATARoot
+	url = https://github.com/apple-oss-distributions/AppleK2SATARoot
+[submodule "AppleMacRISC4PE"]
+	path = AppleMacRISC4PE
+	url = https://github.com/apple-oss-distributions/AppleMacRISC4PE
+[submodule "JavaScriptCore"]
+	path = JavaScriptCore
+	url = https://github.com/apple-oss-distributions/JavaScriptCore
+[submodule "WebCore"]
+	path = WebCore
+	url = https://github.com/apple-oss-distributions/WebCore
