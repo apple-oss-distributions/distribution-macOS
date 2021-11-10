@@ -19,9 +19,6 @@
 [submodule "IOKitUser"]
 	path = IOKitUser
 	url = https://github.com/apple-oss-distributions/IOKitUser
-[submodule "IOSerialFamily"]
-	path = IOSerialFamily
-	url = https://github.com/apple-oss-distributions/IOSerialFamily
 [submodule "Libc"]
 	path = Libc
 	url = https://github.com/apple-oss-distributions/Libc
@@ -709,3 +706,9 @@
 [submodule "mDNSResponder"]
 	path = mDNSResponder
 	url = https://github.com/apple-oss-distributions/mDNSResponder
+[submodule "libpcap"]
+	path = libpcap
+	url = https://github.com/apple-oss-distributions/libpcap
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
