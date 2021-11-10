@@ -709,3 +709,6 @@
 [submodule "mDNSResponder"]
 	path = mDNSResponder
 	url = https://github.com/apple-oss-distributions/mDNSResponder
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
