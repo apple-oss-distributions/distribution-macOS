@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.2",
-	"release": "Mac OS X 10.2.8.G5",
+	"release": "Mac OS X 10.2.8",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -28,7 +28,7 @@
 		},
 		{
 			"project": "AppleBMacEthernet",
-			"tag": "AppleBMacEthernet-112.4.1"
+			"tag": "AppleBMacEthernet-111"
 		},
 		{
 			"project": "AppleCore99NVRAM",
@@ -44,7 +44,8 @@
 		},
 		{
 			"project": "AppleGMACEthernet",
-			"tag": "AppleGMACEthernet-130.2.10"
+			"tag": "AppleGMACEthernet-130.2.15",
+			"updated": true
 		},
 		{
 			"project": "AppleGenericPCATA",
@@ -60,12 +61,7 @@
 		},
 		{
 			"project": "AppleI2C",
-			"tag": "AppleI2C-340.0.3",
-			"updated": true
-		},
-		{
-			"project": "AppleI2S",
-			"tag": "AppleI2S-100.0.2"
+			"tag": "AppleI2C-3.3.3"
 		},
 		{
 			"project": "AppleI386PCI",
@@ -84,16 +80,8 @@
 			"tag": "AppleIntelPIIXATA-6"
 		},
 		{
-			"project": "AppleK2SATA",
-			"tag": "AppleK2SATA-100.3.3"
-		},
-		{
-			"project": "AppleK2SATARoot",
-			"tag": "AppleK2SATARoot-100.1.7"
-		},
-		{
 			"project": "AppleKeyLargo",
-			"tag": "AppleKeyLargo-140.0.21"
+			"tag": "AppleKeyLargo-140.0.19"
 		},
 		{
 			"project": "AppleMESH",
@@ -101,19 +89,16 @@
 		},
 		{
 			"project": "AppleMPIC",
-			"tag": "AppleMPIC-1.2.3"
+			"tag": "AppleMPIC-1.1"
 		},
 		{
 			"project": "AppleMacRISC2PE",
-			"tag": "AppleMacRISC2PE-140.0.22"
-		},
-		{
-			"project": "AppleMacRISC4PE",
-			"tag": "AppleMacRISC4PE-101.2.3"
+			"tag": "AppleMacRISC2PE-141.0.1",
+			"updated": true
 		},
 		{
 			"project": "AppleMacRiscPCI",
-			"tag": "AppleMacRiscPCI-1.4.7"
+			"tag": "AppleMacRiscPCI-1.3.11"
 		},
 		{
 			"project": "AppleMediaBay",
@@ -121,7 +106,7 @@
 		},
 		{
 			"project": "AppleOnboardAudio",
-			"tag": "AppleOnboardAudio-200.2.26"
+			"tag": "AppleOnboardAudio-189.2.17"
 		},
 		{
 			"project": "ApplePS2Controller",
@@ -141,7 +126,7 @@
 		},
 		{
 			"project": "AppleSym8xx",
-			"tag": "AppleSym8xx-120.0.2"
+			"tag": "AppleSym8xx-110.0.2"
 		},
 		{
 			"project": "AppleTalk",
@@ -153,15 +138,15 @@
 		},
 		{
 			"project": "AppleVIA",
-			"tag": "AppleVIA-1.2"
+			"tag": "AppleVIA-1.1"
 		},
 		{
 			"project": "BootCache",
-			"tag": "BootCache-16"
+			"tag": "BootCache-12.3"
 		},
 		{
 			"project": "BootX",
-			"tag": "BootX-55.1"
+			"tag": "BootX-46"
 		},
 		{
 			"project": "CMD646ATA",
@@ -222,7 +207,7 @@
 		},
 		{
 			"project": "IOATAFamily",
-			"tag": "IOATAFamily-154.3.1"
+			"tag": "IOATAFamily-153.3.1"
 		},
 		{
 			"project": "IOATAPIProtocolTransport",
@@ -230,7 +215,7 @@
 		},
 		{
 			"project": "IOAudioFamily",
-			"tag": "IOAudioFamily-136.2.6"
+			"tag": "IOAudioFamily-135.4.0"
 		},
 		{
 			"project": "IOCDStorageFamily",
@@ -250,7 +235,8 @@
 		},
 		{
 			"project": "IOFireWireFamily",
-			"tag": "IOFireWireFamily-139.4.0"
+			"tag": "IOFireWireFamily-140.4.0",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireSBP2",
@@ -262,7 +248,7 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-48"
+			"tag": "IOGraphics-45.3"
 		},
 		{
 			"project": "IOHIDFamily",
@@ -274,11 +260,11 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-120.4"
+			"tag": "IOKitUser-120.3"
 		},
 		{
 			"project": "IONetworkingFamily",
-			"tag": "IONetworkingFamily-14"
+			"tag": "IONetworkingFamily-12"
 		},
 		{
 			"project": "IOPCCardFamily",
@@ -286,11 +272,11 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-12.4"
+			"tag": "IOPCIFamily-12.2"
 		},
 		{
 			"project": "IOSCSIArchitectureModelFamily",
-			"tag": "IOSCSIArchitectureModelFamily-130.3.3"
+			"tag": "IOSCSIArchitectureModelFamily-124.3.1"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -302,7 +288,7 @@
 		},
 		{
 			"project": "IOStorageFamily",
-			"tag": "IOStorageFamily-26.8"
+			"tag": "IOStorageFamily-25.5"
 		},
 		{
 			"project": "IOUSBFamily",
@@ -327,7 +313,8 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-262.2.12"
+			"tag": "Libc-262.3.2",
+			"updated": true
 		},
 		{
 			"project": "Libcompat",
@@ -343,7 +330,7 @@
 		},
 		{
 			"project": "Libm",
-			"tag": "Libm-40.11"
+			"tag": "Libm-40.2"
 		},
 		{
 			"project": "Librpcsvc",
@@ -355,7 +342,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-63.2"
+			"tag": "Libsystem-63"
 		},
 		{
 			"project": "Liby",
@@ -385,7 +372,8 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-31.2"
+			"tag": "PowerManagement-31.3",
+			"updated": true
 		},
 		{
 			"project": "Security",
@@ -401,7 +389,7 @@
 		},
 		{
 			"project": "Startup",
-			"tag": "Startup-129.2"
+			"tag": "Startup-129"
 		},
 		{
 			"project": "UserNotification",
@@ -517,11 +505,11 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-466"
+			"tag": "cctools-435.4"
 		},
 		{
 			"project": "cddafs",
-			"tag": "cddafs-210.0.5"
+			"tag": "cddafs-202.2.2"
 		},
 		{
 			"project": "configd",
@@ -834,7 +822,7 @@
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-230.7"
+			"tag": "system_cmds-230.0.2"
 		},
 		{
 			"project": "tcl",
@@ -890,7 +878,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-344.21.74",
+			"tag": "xnu-344.49",
 			"updated": true
 		},
 		{
