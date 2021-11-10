@@ -247,9 +247,6 @@
 [submodule "libtelnet"]
 	path = libtelnet
 	url = https://github.com/apple-oss-distributions/libtelnet
-[submodule "m4"]
-	path = m4
-	url = https://github.com/apple-oss-distributions/m4
 [submodule "mail_cmds"]
 	path = mail_cmds
 	url = https://github.com/apple-oss-distributions/mail_cmds
@@ -259,9 +256,6 @@
 [submodule "misc_cmds"]
 	path = misc_cmds
 	url = https://github.com/apple-oss-distributions/misc_cmds
-[submodule "ncftp"]
-	path = ncftp
-	url = https://github.com/apple-oss-distributions/ncftp
 [submodule "netinfo"]
 	path = netinfo
 	url = https://github.com/apple-oss-distributions/netinfo
@@ -490,3 +484,141 @@
 [submodule "tcpdump"]
 	path = tcpdump
 	url = https://github.com/apple-oss-distributions/tcpdump
+[submodule "Apple16X50Serial"]
+	path = Apple16X50Serial
+	url = https://github.com/apple-oss-distributions/Apple16X50Serial
+[submodule "Apple3Com3C90x"]
+	path = Apple3Com3C90x
+	url = https://github.com/apple-oss-distributions/Apple3Com3C90x
+[submodule "AppleCuda"]
+	path = AppleCuda
+	url = https://github.com/apple-oss-distributions/AppleCuda
+[submodule "AppleGenericPCATA"]
+	path = AppleGenericPCATA
+	url = https://github.com/apple-oss-distributions/AppleGenericPCATA
+[submodule "AppleIntelAC97Driver"]
+	path = AppleIntelAC97Driver
+	url = https://github.com/apple-oss-distributions/AppleIntelAC97Driver
+[submodule "AppleIntelPIIXATA"]
+	path = AppleIntelPIIXATA
+	url = https://github.com/apple-oss-distributions/AppleIntelPIIXATA
+[submodule "AppleRAID"]
+	path = AppleRAID
+	url = https://github.com/apple-oss-distributions/AppleRAID
+[submodule "DSAgent"]
+	path = DSAgent
+	url = https://github.com/apple-oss-distributions/DSAgent
+[submodule "DSLDAPPlugIn"]
+	path = DSLDAPPlugIn
+	url = https://github.com/apple-oss-distributions/DSLDAPPlugIn
+[submodule "DirectoryService"]
+	path = DirectoryService
+	url = https://github.com/apple-oss-distributions/DirectoryService
+[submodule "HeathrowATA"]
+	path = HeathrowATA
+	url = https://github.com/apple-oss-distributions/HeathrowATA
+[submodule "IOFireWireAVC"]
+	path = IOFireWireAVC
+	url = https://github.com/apple-oss-distributions/IOFireWireAVC
+[submodule "IOUSBFamily"]
+	path = IOUSBFamily
+	url = https://github.com/apple-oss-distributions/IOUSBFamily
+[submodule "Libm"]
+	path = Libm
+	url = https://github.com/apple-oss-distributions/Libm
+[submodule "MySQL"]
+	path = MySQL
+	url = https://github.com/apple-oss-distributions/MySQL
+[submodule "OpenLDAP"]
+	path = OpenLDAP
+	url = https://github.com/apple-oss-distributions/OpenLDAP
+[submodule "PowerManagement"]
+	path = PowerManagement
+	url = https://github.com/apple-oss-distributions/PowerManagement
+[submodule "SmartCardServices"]
+	path = SmartCardServices
+	url = https://github.com/apple-oss-distributions/SmartCardServices
+[submodule "am_utils"]
+	path = am_utils
+	url = https://github.com/apple-oss-distributions/am_utils
+[submodule "apache_mod_perl"]
+	path = apache_mod_perl
+	url = https://github.com/apple-oss-distributions/apache_mod_perl
+[submodule "automake"]
+	path = automake
+	url = https://github.com/apple-oss-distributions/automake
+[submodule "bash"]
+	path = bash
+	url = https://github.com/apple-oss-distributions/bash
+[submodule "bsdmanpages"]
+	path = bsdmanpages
+	url = https://github.com/apple-oss-distributions/bsdmanpages
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/apple-oss-distributions/bzip2
+[submodule "cddafs"]
+	path = cddafs
+	url = https://github.com/apple-oss-distributions/cddafs
+[submodule "crontabs"]
+	path = crontabs
+	url = https://github.com/apple-oss-distributions/crontabs
+[submodule "cscope"]
+	path = cscope
+	url = https://github.com/apple-oss-distributions/cscope
+[submodule "curl"]
+	path = curl
+	url = https://github.com/apple-oss-distributions/curl
+[submodule "gcc_select"]
+	path = gcc_select
+	url = https://github.com/apple-oss-distributions/gcc_select
+[submodule "glibtool"]
+	path = glibtool
+	url = https://github.com/apple-oss-distributions/glibtool
+[submodule "libedit"]
+	path = libedit
+	url = https://github.com/apple-oss-distributions/libedit
+[submodule "lsof"]
+	path = lsof
+	url = https://github.com/apple-oss-distributions/lsof
+[submodule "lukemftp"]
+	path = lukemftp
+	url = https://github.com/apple-oss-distributions/lukemftp
+[submodule "lukemftpd"]
+	path = lukemftpd
+	url = https://github.com/apple-oss-distributions/lukemftpd
+[submodule "msdosfs"]
+	path = msdosfs
+	url = https://github.com/apple-oss-distributions/msdosfs
+[submodule "ncurses"]
+	path = ncurses
+	url = https://github.com/apple-oss-distributions/ncurses
+[submodule "net_snmp"]
+	path = net_snmp
+	url = https://github.com/apple-oss-distributions/net_snmp
+[submodule "pam"]
+	path = pam
+	url = https://github.com/apple-oss-distributions/pam
+[submodule "pam_modules"]
+	path = pam_modules
+	url = https://github.com/apple-oss-distributions/pam_modules
+[submodule "passwordserver_sasl"]
+	path = passwordserver_sasl
+	url = https://github.com/apple-oss-distributions/passwordserver_sasl
+[submodule "python"]
+	path = python
+	url = https://github.com/apple-oss-distributions/python
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/apple-oss-distributions/ruby
+[submodule "screen"]
+	path = screen
+	url = https://github.com/apple-oss-distributions/screen
+[submodule "smb"]
+	path = smb
+	url = https://github.com/apple-oss-distributions/smb
+[submodule "texinfo"]
+	path = texinfo
+	url = https://github.com/apple-oss-distributions/texinfo
+[submodule "webdavfs"]
+	path = webdavfs
+	url = https://github.com/apple-oss-distributions/webdavfs
