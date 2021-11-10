@@ -1,10 +1,11 @@
 {
 	"major_release": "Mac OS X 10.1",
-	"release": "Mac OS X 10.1.4",
+	"release": "Mac OS X 10.1.5",
 	"projects": [
 		{
 			"project": "AppleADBButtons",
-			"tag": "AppleADBButtons-2.2"
+			"tag": "AppleADBButtons-2.3",
+			"updated": true
 		},
 		{
 			"project": "AppleADBDisplay",
@@ -32,7 +33,8 @@
 		},
 		{
 			"project": "AppleGMACEthernet",
-			"tag": "AppleGMACEthernet-1.23.1"
+			"tag": "AppleGMACEthernet-120.2.6",
+			"updated": true
 		},
 		{
 			"project": "AppleGracklePCI",
@@ -44,7 +46,8 @@
 		},
 		{
 			"project": "AppleI2C",
-			"tag": "AppleI2C-3"
+			"tag": "AppleI2C-3.1.7",
+			"updated": true
 		},
 		{
 			"project": "AppleI386PCI",
@@ -56,7 +59,8 @@
 		},
 		{
 			"project": "AppleKeyLargo",
-			"tag": "AppleKeyLargo-1.1.5d1"
+			"tag": "AppleKeyLargo-115.0.2",
+			"updated": true
 		},
 		{
 			"project": "AppleMESH",
@@ -68,11 +72,13 @@
 		},
 		{
 			"project": "AppleMacRISC2PE",
-			"tag": "AppleMacRISC2PE-1_1d7"
+			"tag": "AppleMacRISC2PE-121.0.8",
+			"updated": true
 		},
 		{
 			"project": "AppleMacRiscPCI",
-			"tag": "AppleMacRiscPCI-1"
+			"tag": "AppleMacRiscPCI-1.2.7",
+			"updated": true
 		},
 		{
 			"project": "AppleMediaBay",
@@ -80,7 +86,8 @@
 		},
 		{
 			"project": "AppleOnboardAudio",
-			"tag": "AppleOnboardAudio-172.3"
+			"tag": "AppleOnboardAudio-174.0.23",
+			"updated": true
 		},
 		{
 			"project": "ApplePS2Controller",
@@ -96,8 +103,7 @@
 		},
 		{
 			"project": "AppleSym8xx",
-			"tag": "AppleSym8xx-110.0.2",
-			"updated": true
+			"tag": "AppleSym8xx-110.0.2"
 		},
 		{
 			"project": "AppleTalk",
@@ -137,11 +143,13 @@
 		},
 		{
 			"project": "IOATABlockStorage",
-			"tag": "IOATABlockStorage-25.2"
+			"tag": "IOATABlockStorage-112.0.1",
+			"updated": true
 		},
 		{
 			"project": "IOATAFamily",
-			"tag": "IOATAFamily-1.4.9f1"
+			"tag": "IOATAFamily-151.3.1",
+			"updated": true
 		},
 		{
 			"project": "IOATAPIProtocolTransport",
@@ -149,7 +157,8 @@
 		},
 		{
 			"project": "IOAudioFamily",
-			"tag": "IOAudioFamily-1.1fc9"
+			"tag": "IOAudioFamily-121.2.1",
+			"updated": true
 		},
 		{
 			"project": "IOCDStorageFamily",
@@ -177,7 +186,8 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-16.5.2"
+			"tag": "IOGraphics-16.20",
+			"updated": true
 		},
 		{
 			"project": "IOHIDFamily",
@@ -189,11 +199,13 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-67.2.1"
+			"tag": "IOKitUser-67.15",
+			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
-			"tag": "IONetworkingFamily-4"
+			"tag": "IONetworkingFamily-4.1",
+			"updated": true
 		},
 		{
 			"project": "IOPCCardFamily",
@@ -205,11 +217,13 @@
 		},
 		{
 			"project": "IOSCSIArchitectureModelFamily",
-			"tag": "IOSCSIArchitectureModelFamily-1.1_46"
+			"tag": "IOSCSIArchitectureModelFamily-115.2.1",
+			"updated": true
 		},
 		{
 			"project": "IOSerialFamily",
-			"tag": "IOSerialFamily-14"
+			"tag": "IOSerialFamily-15",
+			"updated": true
 		},
 		{
 			"project": "IOStorageFamily",
@@ -225,7 +239,8 @@
 		},
 		{
 			"project": "KeyLargoATA",
-			"tag": "KeyLargoATA-1.0.8f3"
+			"tag": "KeyLargoATA-109.3.1",
+			"updated": true
 		},
 		{
 			"project": "Libc",
@@ -269,8 +284,7 @@
 		},
 		{
 			"project": "OpenSSH",
-			"tag": "OpenSSH-16",
-			"updated": true
+			"tag": "OpenSSH-16"
 		},
 		{
 			"project": "OpenSSL",
@@ -282,7 +296,8 @@
 		},
 		{
 			"project": "SharedIP",
-			"tag": "SharedIP-27"
+			"tag": "SharedIP-27.1",
+			"updated": true
 		},
 		{
 			"project": "Startup",
@@ -290,7 +305,7 @@
 		},
 		{
 			"project": "SystemKEXT",
-			"tag": "SystemKEXT-17",
+			"tag": "SystemKEXT-18",
 			"updated": true
 		},
 		{
@@ -303,8 +318,7 @@
 		},
 		{
 			"project": "apache",
-			"tag": "apache-650",
-			"updated": true
+			"tag": "apache-650"
 		},
 		{
 			"project": "apache_mod_dav",
@@ -316,13 +330,11 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-7",
-			"updated": true
+			"tag": "apache_mod_php-7"
 		},
 		{
 			"project": "apache_mod_ssl",
-			"tag": "apache_mod_ssl-8",
-			"updated": true
+			"tag": "apache_mod_ssl-8"
 		},
 		{
 			"project": "architecture",
@@ -410,7 +422,8 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-165"
+			"tag": "diskdev_cmds-165.3",
+			"updated": true
 		},
 		{
 			"project": "doc_cmds",
@@ -482,8 +495,7 @@
 		},
 		{
 			"project": "groff",
-			"tag": "groff-11",
-			"updated": true
+			"tag": "groff-11"
 		},
 		{
 			"project": "headerdoc",
@@ -523,8 +535,7 @@
 		},
 		{
 			"project": "mail_cmds",
-			"tag": "mail_cmds-12.1.1",
-			"updated": true
+			"tag": "mail_cmds-12.1.1"
 		},
 		{
 			"project": "man",
@@ -564,7 +575,8 @@
 		},
 		{
 			"project": "pbx_jamfiles",
-			"tag": "pbx_jamfiles-71"
+			"tag": "pbx_jamfiles-71.1",
+			"updated": true
 		},
 		{
 			"project": "perl",
@@ -592,12 +604,12 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-8.1",
-			"updated": true
+			"tag": "rsync-8.1"
 		},
 		{
 			"project": "sendmail",
-			"tag": "sendmail-26.2"
+			"tag": "sendmail-32",
+			"updated": true
 		},
 		{
 			"project": "shell_cmds",
@@ -605,7 +617,7 @@
 		},
 		{
 			"project": "sudo",
-			"tag": "sudo-5.1",
+			"tag": "sudo-9",
 			"updated": true
 		},
 		{
@@ -654,7 +666,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-201.19.3",
+			"tag": "xnu-201.42.3",
 			"updated": true
 		},
 		{
