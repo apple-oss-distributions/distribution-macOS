@@ -1054,3 +1054,12 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/apple-oss-distributions/zip
+[submodule "gcc_binary_shlibs"]
+	path = gcc_binary_shlibs
+	url = https://github.com/apple-oss-distributions/gcc_binary_shlibs
+[submodule "libsecurity_dotmacdl"]
+	path = libsecurity_dotmacdl
+	url = https://github.com/apple-oss-distributions/libsecurity_dotmacdl
+[submodule "security_dotmac_tp"]
+	path = security_dotmac_tp
+	url = https://github.com/apple-oss-distributions/security_dotmac_tp
