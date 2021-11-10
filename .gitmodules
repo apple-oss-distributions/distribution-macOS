@@ -313,9 +313,6 @@
 [submodule "volfs"]
 	path = volfs
 	url = https://github.com/apple-oss-distributions/volfs
-[submodule "xnu"]
-	path = xnu
-	url = https://github.com/apple-oss-distributions/xnu
 [submodule "yacc"]
 	path = yacc
 	url = https://github.com/apple-oss-distributions/yacc
@@ -718,9 +715,6 @@
 [submodule "file"]
 	path = file
 	url = https://github.com/apple-oss-distributions/file
-[submodule "gas"]
-	path = gas
-	url = https://github.com/apple-oss-distributions/gas
 [submodule "gcc_legacy"]
 	path = gcc_legacy
 	url = https://github.com/apple-oss-distributions/gcc_legacy

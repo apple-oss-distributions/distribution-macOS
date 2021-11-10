@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.3",
-	"release": "Mac OS X 10.3",
+	"release": "Mac OS X 10.3.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -340,7 +340,8 @@
 		},
 		{
 			"project": "IOStorageFamily",
-			"tag": "IOStorageFamily-44"
+			"tag": "IOStorageFamily-44.1",
+			"updated": true
 		},
 		{
 			"project": "IOUSBFamily",
@@ -676,7 +677,8 @@
 		},
 		{
 			"project": "fetchmail",
-			"tag": "fetchmail-9"
+			"tag": "fetchmail-10",
+			"updated": true
 		},
 		{
 			"project": "file",
@@ -693,10 +695,6 @@
 		{
 			"project": "flex",
 			"tag": "flex-11"
-		},
-		{
-			"project": "gas",
-			"tag": "gas-495"
 		},
 		{
 			"project": "gcc",
@@ -1024,15 +1022,12 @@
 		},
 		{
 			"project": "webdavfs",
-			"tag": "webdavfs-148"
+			"tag": "webdavfs-148.2",
+			"updated": true
 		},
 		{
 			"project": "xinetd",
 			"tag": "xinetd-26"
-		},
-		{
-			"project": "xnu",
-			"tag": "xnu-517"
 		},
 		{
 			"project": "yacc",
