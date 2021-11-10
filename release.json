@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.4",
-	"release": "Mac OS X 10.4.1",
+	"release": "Mac OS X 10.4.2",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -156,7 +156,8 @@
 		},
 		{
 			"project": "AppleMacRISC4PE",
-			"tag": "AppleMacRISC4PE-160.0.9"
+			"tag": "AppleMacRISC4PE-162.0.0",
+			"updated": true
 		},
 		{
 			"project": "AppleMacRiscPCI",
@@ -232,7 +233,8 @@
 		},
 		{
 			"project": "AppleUSBCDCDriver",
-			"tag": "AppleUSBCDCDriver-314.4.1"
+			"tag": "AppleUSBCDCDriver-315.4.1",
+			"updated": true
 		},
 		{
 			"project": "AppleUSBIrDA",
@@ -252,7 +254,8 @@
 		},
 		{
 			"project": "BootCache",
-			"tag": "BootCache-25"
+			"tag": "BootCache-25.1",
+			"updated": true
 		},
 		{
 			"project": "BootX",
@@ -260,12 +263,13 @@
 		},
 		{
 			"project": "CF",
-			"tag": "CF-368.1",
+			"tag": "CF-368.11",
 			"updated": true
 		},
 		{
 			"project": "CFNetwork",
-			"tag": "CFNetwork-128"
+			"tag": "CFNetwork-128.2",
+			"updated": true
 		},
 		{
 			"project": "CMD646ATA",
@@ -293,8 +297,7 @@
 		},
 		{
 			"project": "CyrusIMAP",
-			"tag": "CyrusIMAP-156.3",
-			"updated": true
+			"tag": "CyrusIMAP-156.3"
 		},
 		{
 			"project": "DSAgent",
@@ -306,7 +309,8 @@
 		},
 		{
 			"project": "DSNSLPlugins",
-			"tag": "DSNSLPlugins-112"
+			"tag": "DSNSLPlugins-112.1",
+			"updated": true
 		},
 		{
 			"project": "DSPasswordServerPlugin",
@@ -318,7 +322,7 @@
 		},
 		{
 			"project": "DirectoryService",
-			"tag": "DirectoryService-349",
+			"tag": "DirectoryService-350",
 			"updated": true
 		},
 		{
@@ -451,7 +455,8 @@
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-412"
+			"tag": "JavaScriptCore-412.3",
+			"updated": true
 		},
 		{
 			"project": "JavaScriptGlue",
@@ -483,8 +488,7 @@
 		},
 		{
 			"project": "Libm",
-			"tag": "Libm-93",
-			"updated": true
+			"tag": "Libm-93"
 		},
 		{
 			"project": "Libnotify",
@@ -540,7 +544,8 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-222"
+			"tag": "Security-223",
+			"updated": true
 		},
 		{
 			"project": "SecurityTokend",
@@ -560,7 +565,8 @@
 		},
 		{
 			"project": "SpamAssassin",
-			"tag": "SpamAssassin-124"
+			"tag": "SpamAssassin-124.1",
+			"updated": true
 		},
 		{
 			"project": "SquirrelMail",
@@ -580,7 +586,7 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-415.5",
+			"tag": "WebCore-415.11",
 			"updated": true
 		},
 		{
@@ -613,7 +619,8 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-17"
+			"tag": "apache_mod_php-18",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_ssl",
@@ -673,8 +680,7 @@
 		},
 		{
 			"project": "blojsom",
-			"tag": "blojsom-48",
-			"updated": true
+			"tag": "blojsom-48"
 		},
 		{
 			"project": "boot",
@@ -682,8 +688,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-133.3",
-			"updated": true
+			"tag": "bootp-133.3"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -707,7 +712,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-576.2",
+			"tag": "cctools-576.3",
 			"updated": true
 		},
 		{
@@ -732,7 +737,8 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-86"
+			"tag": "cups-87",
+			"updated": true
 		},
 		{
 			"project": "curl",
@@ -760,7 +766,8 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-332"
+			"tag": "diskdev_cmds-332.5",
+			"updated": true
 		},
 		{
 			"project": "disklabel",
@@ -780,11 +787,13 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-43"
+			"tag": "dyld-43.1",
+			"updated": true
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-33"
+			"tag": "eap8021x-33.1",
+			"updated": true
 		},
 		{
 			"project": "efax",
@@ -816,7 +825,8 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-467"
+			"tag": "files-469",
+			"updated": true
 		},
 		{
 			"project": "flex",
@@ -936,7 +946,8 @@
 		},
 		{
 			"project": "launchd",
-			"tag": "launchd-106"
+			"tag": "launchd-106.3",
+			"updated": true
 		},
 		{
 			"project": "ld64",
@@ -984,7 +995,8 @@
 		},
 		{
 			"project": "libsecurity_apple_x509_tp",
-			"tag": "libsecurity_apple_x509_tp-21"
+			"tag": "libsecurity_apple_x509_tp-22",
+			"updated": true
 		},
 		{
 			"project": "libsecurity_asn1",
@@ -1016,7 +1028,8 @@
 		},
 		{
 			"project": "libsecurity_cssm",
-			"tag": "libsecurity_cssm-30"
+			"tag": "libsecurity_cssm-31",
+			"updated": true
 		},
 		{
 			"project": "libsecurity_filedb",
@@ -1060,7 +1073,8 @@
 		},
 		{
 			"project": "libsecurity_utilities",
-			"tag": "libsecurity_utilities-24"
+			"tag": "libsecurity_utilities-25",
+			"updated": true
 		},
 		{
 			"project": "libsecurityd",
@@ -1120,7 +1134,8 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-88"
+			"tag": "msdosfs-88.1",
+			"updated": true
 		},
 		{
 			"project": "nano",
@@ -1132,7 +1147,8 @@
 		},
 		{
 			"project": "net_snmp",
-			"tag": "net_snmp-16"
+			"tag": "net_snmp-18",
+			"updated": true
 		},
 		{
 			"project": "netcat",
@@ -1204,7 +1220,8 @@
 		},
 		{
 			"project": "ppp",
-			"tag": "ppp-229.1"
+			"tag": "ppp-229.2",
+			"updated": true
 		},
 		{
 			"project": "prebind",
@@ -1248,7 +1265,8 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-16"
+			"tag": "security_certificates-17",
+			"updated": true
 		},
 		{
 			"project": "security_certtool",
@@ -1272,7 +1290,8 @@
 		},
 		{
 			"project": "securityd",
-			"tag": "securityd-61"
+			"tag": "securityd-67",
+			"updated": true
 		},
 		{
 			"project": "shell_cmds",
@@ -1280,7 +1299,8 @@
 		},
 		{
 			"project": "smb",
-			"tag": "smb-217"
+			"tag": "smb-217.2",
+			"updated": true
 		},
 		{
 			"project": "srm",
@@ -1312,7 +1332,8 @@
 		},
 		{
 			"project": "tcp_wrappers",
-			"tag": "tcp_wrappers-12"
+			"tag": "tcp_wrappers-14",
+			"updated": true
 		},
 		{
 			"project": "tcpdump",
@@ -1344,7 +1365,8 @@
 		},
 		{
 			"project": "usertemplate",
-			"tag": "usertemplate-41.1"
+			"tag": "usertemplate-41.2",
+			"updated": true
 		},
 		{
 			"project": "vim",
@@ -1356,7 +1378,8 @@
 		},
 		{
 			"project": "webdavfs",
-			"tag": "webdavfs-214"
+			"tag": "webdavfs-214.1",
+			"updated": true
 		},
 		{
 			"project": "wxWidgets",
@@ -1368,7 +1391,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-792.1.5",
+			"tag": "xnu-792.2.4",
 			"updated": true
 		},
 		{
