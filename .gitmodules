@@ -238,9 +238,6 @@
 [submodule "bless"]
 	path = bless
 	url = https://github.com/apple-oss-distributions/bless
-[submodule "libpcap"]
-	path = libpcap
-	url = https://github.com/apple-oss-distributions/libpcap
 [submodule "tcpdump"]
 	path = tcpdump
 	url = https://github.com/apple-oss-distributions/tcpdump
