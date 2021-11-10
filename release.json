@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.5",
-	"release": "Mac OS X 10.5",
+	"release": "Mac OS X 10.5.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -224,7 +224,8 @@
 		},
 		{
 			"project": "DSPasswordServerPlugin",
-			"tag": "DSPasswordServerPlugin-206"
+			"tag": "DSPasswordServerPlugin-207.1",
+			"updated": true
 		},
 		{
 			"project": "DSTools",
@@ -324,7 +325,8 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-376"
+			"tag": "IOKitUser-376.0.1",
+			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -468,7 +470,8 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-31122"
+			"tag": "Security-32736",
+			"updated": true
 		},
 		{
 			"project": "SecurityTokend",
@@ -736,7 +739,8 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-419"
+			"tag": "diskdev_cmds-420",
+			"updated": true
 		},
 		{
 			"project": "disklabel",
@@ -1056,7 +1060,8 @@
 		},
 		{
 			"project": "libsecurity_keychain",
-			"tag": "libsecurity_keychain-32623"
+			"tag": "libsecurity_keychain-32768",
+			"updated": true
 		},
 		{
 			"project": "libsecurity_ldap_dl",
@@ -1136,7 +1141,8 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-161.1"
+			"tag": "mDNSResponder-164",
+			"updated": true
 		},
 		{
 			"project": "mail_cmds",
@@ -1320,7 +1326,8 @@
 		},
 		{
 			"project": "samba",
-			"tag": "samba-187"
+			"tag": "samba-187.1",
+			"updated": true
 		},
 		{
 			"project": "screen",
@@ -1368,7 +1375,8 @@
 		},
 		{
 			"project": "smb",
-			"tag": "smb-344"
+			"tag": "smb-345",
+			"updated": true
 		},
 		{
 			"project": "srm",
@@ -1472,7 +1480,8 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-1228"
+			"tag": "xnu-1228.0.2",
+			"updated": true
 		},
 		{
 			"project": "zip",
