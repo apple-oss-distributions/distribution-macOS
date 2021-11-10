@@ -151,9 +151,6 @@
 [submodule "bsdmake"]
 	path = bsdmake
 	url = https://github.com/apple-oss-distributions/bsdmake
-[submodule "cc"]
-	path = cc
-	url = https://github.com/apple-oss-distributions/cc
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
@@ -343,9 +340,6 @@
 [submodule "volfs"]
 	path = volfs
 	url = https://github.com/apple-oss-distributions/volfs
-[submodule "wget"]
-	path = wget
-	url = https://github.com/apple-oss-distributions/wget
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
@@ -358,3 +352,141 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/apple-oss-distributions/zsh
+[submodule "AppleADBButtons"]
+	path = AppleADBButtons
+	url = https://github.com/apple-oss-distributions/AppleADBButtons
+[submodule "AppleADBDisplay"]
+	path = AppleADBDisplay
+	url = https://github.com/apple-oss-distributions/AppleADBDisplay
+[submodule "AppleADBKeyboard"]
+	path = AppleADBKeyboard
+	url = https://github.com/apple-oss-distributions/AppleADBKeyboard
+[submodule "AppleADBMouse"]
+	path = AppleADBMouse
+	url = https://github.com/apple-oss-distributions/AppleADBMouse
+[submodule "AppleBMacEthernet"]
+	path = AppleBMacEthernet
+	url = https://github.com/apple-oss-distributions/AppleBMacEthernet
+[submodule "AppleGMACEthernet"]
+	path = AppleGMACEthernet
+	url = https://github.com/apple-oss-distributions/AppleGMACEthernet
+[submodule "AppleGracklePCI"]
+	path = AppleGracklePCI
+	url = https://github.com/apple-oss-distributions/AppleGracklePCI
+[submodule "AppleI2C"]
+	path = AppleI2C
+	url = https://github.com/apple-oss-distributions/AppleI2C
+[submodule "AppleI386PCI"]
+	path = AppleI386PCI
+	url = https://github.com/apple-oss-distributions/AppleI386PCI
+[submodule "AppleIntel8255x"]
+	path = AppleIntel8255x
+	url = https://github.com/apple-oss-distributions/AppleIntel8255x
+[submodule "AppleMacRiscPCI"]
+	path = AppleMacRiscPCI
+	url = https://github.com/apple-oss-distributions/AppleMacRiscPCI
+[submodule "AppleMediaBay"]
+	path = AppleMediaBay
+	url = https://github.com/apple-oss-distributions/AppleMediaBay
+[submodule "AppleOnboardAudio"]
+	path = AppleOnboardAudio
+	url = https://github.com/apple-oss-distributions/AppleOnboardAudio
+[submodule "ApplePS2Controller"]
+	path = ApplePS2Controller
+	url = https://github.com/apple-oss-distributions/ApplePS2Controller
+[submodule "ApplePS2Keyboard"]
+	path = ApplePS2Keyboard
+	url = https://github.com/apple-oss-distributions/ApplePS2Keyboard
+[submodule "ApplePS2Mouse"]
+	path = ApplePS2Mouse
+	url = https://github.com/apple-oss-distributions/ApplePS2Mouse
+[submodule "AppleSym8xx"]
+	path = AppleSym8xx
+	url = https://github.com/apple-oss-distributions/AppleSym8xx
+[submodule "AppleUSBProKeyboard"]
+	path = AppleUSBProKeyboard
+	url = https://github.com/apple-oss-distributions/AppleUSBProKeyboard
+[submodule "AppleVIA"]
+	path = AppleVIA
+	url = https://github.com/apple-oss-distributions/AppleVIA
+[submodule "CMD646ATA"]
+	path = CMD646ATA
+	url = https://github.com/apple-oss-distributions/CMD646ATA
+[submodule "IOATABlockStorage"]
+	path = IOATABlockStorage
+	url = https://github.com/apple-oss-distributions/IOATABlockStorage
+[submodule "IOATAFamily"]
+	path = IOATAFamily
+	url = https://github.com/apple-oss-distributions/IOATAFamily
+[submodule "IOATAPIProtocolTransport"]
+	path = IOATAPIProtocolTransport
+	url = https://github.com/apple-oss-distributions/IOATAPIProtocolTransport
+[submodule "IOCDStorageFamily"]
+	path = IOCDStorageFamily
+	url = https://github.com/apple-oss-distributions/IOCDStorageFamily
+[submodule "IODVDStorageFamily"]
+	path = IODVDStorageFamily
+	url = https://github.com/apple-oss-distributions/IODVDStorageFamily
+[submodule "IOFWDVComponents"]
+	path = IOFWDVComponents
+	url = https://github.com/apple-oss-distributions/IOFWDVComponents
+[submodule "IOFireWireFamily"]
+	path = IOFireWireFamily
+	url = https://github.com/apple-oss-distributions/IOFireWireFamily
+[submodule "IOFireWireSBP2"]
+	path = IOFireWireSBP2
+	url = https://github.com/apple-oss-distributions/IOFireWireSBP2
+[submodule "IOFireWireSerialBusProtocolTransport"]
+	path = IOFireWireSerialBusProtocolTransport
+	url = https://github.com/apple-oss-distributions/IOFireWireSerialBusProtocolTransport
+[submodule "IOGraphics"]
+	path = IOGraphics
+	url = https://github.com/apple-oss-distributions/IOGraphics
+[submodule "IONetworkingFamily"]
+	path = IONetworkingFamily
+	url = https://github.com/apple-oss-distributions/IONetworkingFamily
+[submodule "IOPCCardFamily"]
+	path = IOPCCardFamily
+	url = https://github.com/apple-oss-distributions/IOPCCardFamily
+[submodule "IOPCIFamily"]
+	path = IOPCIFamily
+	url = https://github.com/apple-oss-distributions/IOPCIFamily
+[submodule "IOSCSIArchitectureModelFamily"]
+	path = IOSCSIArchitectureModelFamily
+	url = https://github.com/apple-oss-distributions/IOSCSIArchitectureModelFamily
+[submodule "IOStorageFamily"]
+	path = IOStorageFamily
+	url = https://github.com/apple-oss-distributions/IOStorageFamily
+[submodule "IOUSBMassStorageClass"]
+	path = IOUSBMassStorageClass
+	url = https://github.com/apple-oss-distributions/IOUSBMassStorageClass
+[submodule "IPFirewall"]
+	path = IPFirewall
+	url = https://github.com/apple-oss-distributions/IPFirewall
+[submodule "KeyLargoATA"]
+	path = KeyLargoATA
+	url = https://github.com/apple-oss-distributions/KeyLargoATA
+[submodule "Security"]
+	path = Security
+	url = https://github.com/apple-oss-distributions/Security
+[submodule "SystemKEXT"]
+	path = SystemKEXT
+	url = https://github.com/apple-oss-distributions/SystemKEXT
+[submodule "apache_mod_hfs_apple"]
+	path = apache_mod_hfs_apple
+	url = https://github.com/apple-oss-distributions/apache_mod_hfs_apple
+[submodule "bless"]
+	path = bless
+	url = https://github.com/apple-oss-distributions/bless
+[submodule "drvAppleCMD646Root"]
+	path = drvAppleCMD646Root
+	url = https://github.com/apple-oss-distributions/drvAppleCMD646Root
+[submodule "libpcap"]
+	path = libpcap
+	url = https://github.com/apple-oss-distributions/libpcap
+[submodule "portmap"]
+	path = portmap
+	url = https://github.com/apple-oss-distributions/portmap
+[submodule "tcpdump"]
+	path = tcpdump
+	url = https://github.com/apple-oss-distributions/tcpdump
