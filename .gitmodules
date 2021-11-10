@@ -628,3 +628,15 @@
 [submodule "mDNSResponder"]
 	path = mDNSResponder
 	url = https://github.com/apple-oss-distributions/mDNSResponder
+[submodule "BootCache"]
+	path = BootCache
+	url = https://github.com/apple-oss-distributions/BootCache
+[submodule "DSLDAPv3PlugIn"]
+	path = DSLDAPv3PlugIn
+	url = https://github.com/apple-oss-distributions/DSLDAPv3PlugIn
+[submodule "DSPasswordServerPlugin"]
+	path = DSPasswordServerPlugin
+	url = https://github.com/apple-oss-distributions/DSPasswordServerPlugin
+[submodule "xinetd"]
+	path = xinetd
+	url = https://github.com/apple-oss-distributions/xinetd
