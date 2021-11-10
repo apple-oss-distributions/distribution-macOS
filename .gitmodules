@@ -793,3 +793,12 @@
 [submodule "AppleUSBCDCDriver"]
 	path = AppleUSBCDCDriver
 	url = https://github.com/apple-oss-distributions/AppleUSBCDCDriver
+[submodule "SULongDoubleCompat"]
+	path = SULongDoubleCompat
+	url = https://github.com/apple-oss-distributions/SULongDoubleCompat
+[submodule "gcc_40"]
+	path = gcc_40
+	url = https://github.com/apple-oss-distributions/gcc_40
+[submodule "libxslt"]
+	path = libxslt
+	url = https://github.com/apple-oss-distributions/libxslt
