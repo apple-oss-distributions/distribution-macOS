@@ -478,9 +478,6 @@
 [submodule "ksh"]
 	path = ksh
 	url = https://github.com/apple-oss-distributions/ksh
-[submodule "launchd"]
-	path = launchd
-	url = https://github.com/apple-oss-distributions/launchd
 [submodule "libfs"]
 	path = libfs
 	url = https://github.com/apple-oss-distributions/libfs
@@ -499,9 +496,6 @@
 [submodule "libsecurity_ocspd"]
 	path = libsecurity_ocspd
 	url = https://github.com/apple-oss-distributions/libsecurity_ocspd
-[submodule "libsecurityd"]
-	path = libsecurityd
-	url = https://github.com/apple-oss-distributions/libsecurityd
 [submodule "libxslt"]
 	path = libxslt
 	url = https://github.com/apple-oss-distributions/libxslt
@@ -538,9 +532,6 @@
 [submodule "security_systemkeychain"]
 	path = security_systemkeychain
 	url = https://github.com/apple-oss-distributions/security_systemkeychain
-[submodule "securityd"]
-	path = securityd
-	url = https://github.com/apple-oss-distributions/securityd
 [submodule "syslog"]
 	path = syslog
 	url = https://github.com/apple-oss-distributions/syslog
@@ -565,12 +556,6 @@
 [submodule "KerberosHelper"]
 	path = KerberosHelper
 	url = https://github.com/apple-oss-distributions/KerberosHelper
-[submodule "PyRSS2Gen"]
-	path = PyRSS2Gen
-	url = https://github.com/apple-oss-distributions/PyRSS2Gen
-[submodule "RubyCocoa"]
-	path = RubyCocoa
-	url = https://github.com/apple-oss-distributions/RubyCocoa
 [submodule "RubyGems"]
 	path = RubyGems
 	url = https://github.com/apple-oss-distributions/RubyGems
@@ -640,9 +625,6 @@
 [submodule "libutil"]
 	path = libutil
 	url = https://github.com/apple-oss-distributions/libutil
-[submodule "pyOpenSSL"]
-	path = pyOpenSSL
-	url = https://github.com/apple-oss-distributions/pyOpenSSL
 [submodule "pyobjc"]
 	path = pyobjc
 	url = https://github.com/apple-oss-distributions/pyobjc
@@ -709,9 +691,6 @@
 [submodule "llvmCore"]
 	path = llvmCore
 	url = https://github.com/apple-oss-distributions/llvmCore
-[submodule "memcached"]
-	path = memcached
-	url = https://github.com/apple-oss-distributions/memcached
 [submodule "pcre"]
 	path = pcre
 	url = https://github.com/apple-oss-distributions/pcre
@@ -763,3 +742,24 @@
 [submodule "libsecurity_ldap_dl"]
 	path = libsecurity_ldap_dl
 	url = https://github.com/apple-oss-distributions/libsecurity_ldap_dl
+[submodule "OpenSSL098"]
+	path = OpenSSL098
+	url = https://github.com/apple-oss-distributions/OpenSSL098
+[submodule "WTF"]
+	path = WTF
+	url = https://github.com/apple-oss-distributions/WTF
+[submodule "WebInspectorUI"]
+	path = WebInspectorUI
+	url = https://github.com/apple-oss-distributions/WebInspectorUI
+[submodule "bmalloc"]
+	path = bmalloc
+	url = https://github.com/apple-oss-distributions/bmalloc
+[submodule "bootstrap_cmds"]
+	path = bootstrap_cmds
+	url = https://github.com/apple-oss-distributions/bootstrap_cmds
+[submodule "libmalloc"]
+	path = libmalloc
+	url = https://github.com/apple-oss-distributions/libmalloc
+[submodule "libpthread"]
+	path = libpthread
+	url = https://github.com/apple-oss-distributions/libpthread
