@@ -238,9 +238,6 @@
 [submodule "bless"]
 	path = bless
 	url = https://github.com/apple-oss-distributions/bless
-[submodule "libpcap"]
-	path = libpcap
-	url = https://github.com/apple-oss-distributions/libpcap
 [submodule "tcpdump"]
 	path = tcpdump
 	url = https://github.com/apple-oss-distributions/tcpdump
@@ -283,12 +280,6 @@
 [submodule "lsof"]
 	path = lsof
 	url = https://github.com/apple-oss-distributions/lsof
-[submodule "lukemftp"]
-	path = lukemftp
-	url = https://github.com/apple-oss-distributions/lukemftp
-[submodule "lukemftpd"]
-	path = lukemftpd
-	url = https://github.com/apple-oss-distributions/lukemftpd
 [submodule "msdosfs"]
 	path = msdosfs
 	url = https://github.com/apple-oss-distributions/msdosfs
@@ -373,9 +364,6 @@
 [submodule "file"]
 	path = file
 	url = https://github.com/apple-oss-distributions/file
-[submodule "gnuserv"]
-	path = gnuserv
-	url = https://github.com/apple-oss-distributions/gnuserv
 [submodule "iodbc"]
 	path = iodbc
 	url = https://github.com/apple-oss-distributions/iodbc
@@ -610,9 +598,6 @@
 [submodule "ruby_libxml"]
 	path = ruby_libxml
 	url = https://github.com/apple-oss-distributions/ruby_libxml
-[submodule "security_dotmac_tp"]
-	path = security_dotmac_tp
-	url = https://github.com/apple-oss-distributions/security_dotmac_tp
 [submodule "swig"]
 	path = swig
 	url = https://github.com/apple-oss-distributions/swig
