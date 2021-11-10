@@ -19,9 +19,6 @@
 [submodule "IOKitUser"]
 	path = IOKitUser
 	url = https://github.com/apple-oss-distributions/IOKitUser
-[submodule "IOSerialFamily"]
-	path = IOSerialFamily
-	url = https://github.com/apple-oss-distributions/IOSerialFamily
 [submodule "Libc"]
 	path = Libc
 	url = https://github.com/apple-oss-distributions/Libc
@@ -94,9 +91,6 @@
 [submodule "doc_cmds"]
 	path = doc_cmds
 	url = https://github.com/apple-oss-distributions/doc_cmds
-[submodule "emacs"]
-	path = emacs
-	url = https://github.com/apple-oss-distributions/emacs
 [submodule "file_cmds"]
 	path = file_cmds
 	url = https://github.com/apple-oss-distributions/file_cmds
@@ -199,9 +193,6 @@
 [submodule "IODVDStorageFamily"]
 	path = IODVDStorageFamily
 	url = https://github.com/apple-oss-distributions/IODVDStorageFamily
-[submodule "IOFWDVComponents"]
-	path = IOFWDVComponents
-	url = https://github.com/apple-oss-distributions/IOFWDVComponents
 [submodule "IOFireWireFamily"]
 	path = IOFireWireFamily
 	url = https://github.com/apple-oss-distributions/IOFireWireFamily
@@ -709,3 +700,9 @@
 [submodule "mDNSResponder"]
 	path = mDNSResponder
 	url = https://github.com/apple-oss-distributions/mDNSResponder
+[submodule "libpcap"]
+	path = libpcap
+	url = https://github.com/apple-oss-distributions/libpcap
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
