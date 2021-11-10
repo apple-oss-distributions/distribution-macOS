@@ -127,9 +127,6 @@
 [submodule "network_cmds"]
 	path = network_cmds
 	url = https://github.com/apple-oss-distributions/network_cmds
-[submodule "ntp"]
-	path = ntp
-	url = https://github.com/apple-oss-distributions/ntp
 [submodule "objc4"]
 	path = objc4
 	url = https://github.com/apple-oss-distributions/objc4
@@ -214,9 +211,6 @@
 [submodule "IOStorageFamily"]
 	path = IOStorageFamily
 	url = https://github.com/apple-oss-distributions/IOStorageFamily
-[submodule "IOUSBMassStorageClass"]
-	path = IOUSBMassStorageClass
-	url = https://github.com/apple-oss-distributions/IOUSBMassStorageClass
 [submodule "Security"]
 	path = Security
 	url = https://github.com/apple-oss-distributions/Security
@@ -298,9 +292,6 @@
 [submodule "webdavfs"]
 	path = webdavfs
 	url = https://github.com/apple-oss-distributions/webdavfs
-[submodule "AppleUSBIrDA"]
-	path = AppleUSBIrDA
-	url = https://github.com/apple-oss-distributions/AppleUSBIrDA
 [submodule "BerkeleyDB"]
 	path = BerkeleyDB
 	url = https://github.com/apple-oss-distributions/BerkeleyDB
@@ -310,9 +301,6 @@
 [submodule "ICU"]
 	path = ICU
 	url = https://github.com/apple-oss-distributions/ICU
-[submodule "IOFireWireIP"]
-	path = IOFireWireIP
-	url = https://github.com/apple-oss-distributions/IOFireWireIP
 [submodule "IOSCSIParallelFamily"]
 	path = IOSCSIParallelFamily
 	url = https://github.com/apple-oss-distributions/IOSCSIParallelFamily
@@ -409,9 +397,6 @@
 [submodule "autofs"]
 	path = autofs
 	url = https://github.com/apple-oss-distributions/autofs
-[submodule "cxxfilt"]
-	path = cxxfilt
-	url = https://github.com/apple-oss-distributions/cxxfilt
 [submodule "disklabel"]
 	path = disklabel
 	url = https://github.com/apple-oss-distributions/disklabel
@@ -604,9 +589,6 @@
 [submodule "libarchive"]
 	path = libarchive
 	url = https://github.com/apple-oss-distributions/libarchive
-[submodule "libauto"]
-	path = libauto
-	url = https://github.com/apple-oss-distributions/libauto
 [submodule "libclosure"]
 	path = libclosure
 	url = https://github.com/apple-oss-distributions/libclosure
@@ -628,9 +610,6 @@
 [submodule "MITKerberosShim"]
 	path = MITKerberosShim
 	url = https://github.com/apple-oss-distributions/MITKerberosShim
-[submodule "PostgreSQL"]
-	path = PostgreSQL
-	url = https://github.com/apple-oss-distributions/PostgreSQL
 [submodule "SmartcardCCID"]
 	path = SmartcardCCID
 	url = https://github.com/apple-oss-distributions/SmartcardCCID
@@ -688,9 +667,6 @@
 [submodule "libpthread"]
 	path = libpthread
 	url = https://github.com/apple-oss-distributions/libpthread
-[submodule "coreTLS"]
-	path = coreTLS
-	url = https://github.com/apple-oss-distributions/coreTLS
 [submodule "bootstrap_cmds"]
 	path = bootstrap_cmds
 	url = https://github.com/apple-oss-distributions/bootstrap_cmds
@@ -706,3 +682,6 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/apple-oss-distributions/subversion
