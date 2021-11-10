@@ -1,6 +1,6 @@
 {
 	"major_release": "OS X 10.11",
-	"release": "OS X 10.11",
+	"release": "OS X 10.11.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -60,7 +60,8 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-551.24"
+			"tag": "ICU-551.30",
+			"updated": true
 		},
 		{
 			"project": "IOATAFamily",
@@ -72,7 +73,8 @@
 		},
 		{
 			"project": "IOAudioFamily",
-			"tag": "IOAudioFamily-203.8"
+			"tag": "IOAudioFamily-204.1",
+			"updated": true
 		},
 		{
 			"project": "IOBDStorageFamily",
@@ -116,7 +118,8 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-700"
+			"tag": "IOHIDFamily-700.10.1",
+			"updated": true
 		},
 		{
 			"project": "IOKitTools",
@@ -124,7 +127,8 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1178.1.4"
+			"tag": "IOKitUser-1178.10.1",
+			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -152,7 +156,8 @@
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7601.1.56"
+			"tag": "JavaScriptCore-7601.2.3",
+			"updated": true
 		},
 		{
 			"project": "KerberosHelper",
@@ -204,7 +209,8 @@
 		},
 		{
 			"project": "OpenSSH",
-			"tag": "OpenSSH-195"
+			"tag": "OpenSSH-195.10.2",
+			"updated": true
 		},
 		{
 			"project": "OpenSSL098",
@@ -224,7 +230,8 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-57336.1.9"
+			"tag": "Security-57336.10.29",
+			"updated": true
 		},
 		{
 			"project": "SecurityTokend",
@@ -240,7 +247,8 @@
 		},
 		{
 			"project": "TimeZoneData",
-			"tag": "TimeZoneData-69"
+			"tag": "TimeZoneData-70",
+			"updated": true
 		},
 		{
 			"project": "UserNotification",
@@ -248,23 +256,28 @@
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7601.1.48"
+			"tag": "WTF-7601.2.3",
+			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7601.1.55"
+			"tag": "WebCore-7601.2.7.1",
+			"updated": true
 		},
 		{
 			"project": "WebInspectorUI",
-			"tag": "WebInspectorUI-7601.1.48"
+			"tag": "WebInspectorUI-7601.2.3",
+			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7601.1.56"
+			"tag": "WebKit-7601.2.7.2",
+			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7601.1.56"
+			"tag": "WebKit2-7601.2.7.2",
+			"updated": true
 		},
 		{
 			"project": "adv_cmds",
@@ -280,7 +293,8 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-99"
+			"tag": "apache_mod_php-100",
+			"updated": true
 		},
 		{
 			"project": "apr",
@@ -292,7 +306,8 @@
 		},
 		{
 			"project": "autofs",
-			"tag": "autofs-250"
+			"tag": "autofs-250.10.1",
+			"updated": true
 		},
 		{
 			"project": "awk",
@@ -320,7 +335,8 @@
 		},
 		{
 			"project": "bmalloc",
-			"tag": "bmalloc-7601.1.48"
+			"tag": "bmalloc-7601.2.3",
+			"updated": true
 		},
 		{
 			"project": "bootp",
@@ -336,7 +352,8 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-801.1.1"
+			"tag": "configd-801.10.2",
+			"updated": true
 		},
 		{
 			"project": "copyfile",
@@ -388,7 +405,8 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-360.14"
+			"tag": "dyld-360.17",
+			"updated": true
 		},
 		{
 			"project": "eap8021x",
@@ -480,7 +498,8 @@
 		},
 		{
 			"project": "libarchive",
-			"tag": "libarchive-32"
+			"tag": "libarchive-32.10.1",
+			"updated": true
 		},
 		{
 			"project": "libauto",
@@ -492,7 +511,8 @@
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-500.1.5"
+			"tag": "libdispatch-500.10.1",
+			"updated": true
 		},
 		{
 			"project": "libedit",
@@ -608,7 +628,8 @@
 		},
 		{
 			"project": "net_snmp",
-			"tag": "net_snmp-146"
+			"tag": "net_snmp-148",
+			"updated": true
 		},
 		{
 			"project": "netcat",
@@ -700,7 +721,8 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55051"
+			"tag": "security_certificates-55051.10.1",
+			"updated": true
 		},
 		{
 			"project": "security_certtool",
@@ -800,7 +822,8 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-3247.1.106"
+			"tag": "xnu-3247.10.11",
+			"updated": true
 		},
 		{
 			"project": "zip",
