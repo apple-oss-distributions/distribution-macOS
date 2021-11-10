@@ -706,3 +706,6 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/apple-oss-distributions/subversion
