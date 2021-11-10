@@ -1,6 +1,6 @@
 {
 	"major_release": "OS X 10.9",
-	"release": "OS X 10.9.4",
+	"release": "OS X 10.9.5",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -32,8 +32,7 @@
 		},
 		{
 			"project": "CF",
-			"tag": "CF-855.17",
-			"updated": true
+			"tag": "CF-855.17"
 		},
 		{
 			"project": "CPAN",
@@ -69,7 +68,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-511.34",
+			"tag": "ICU-511.35",
 			"updated": true
 		},
 		{
@@ -122,12 +121,11 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-471.92.1",
-			"updated": true
+			"tag": "IOGraphics-471.92.1"
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-503.200.2",
+			"tag": "IOHIDFamily-503.215.2",
 			"updated": true
 		},
 		{
@@ -144,8 +142,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-224.92.1",
-			"updated": true
+			"tag": "IOPCIFamily-224.92.1"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -165,7 +162,7 @@
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7537.77.1",
+			"tag": "JavaScriptCore-7537.78.1",
 			"updated": true
 		},
 		{
@@ -182,7 +179,8 @@
 		},
 		{
 			"project": "Libnotify",
-			"tag": "Libnotify-121"
+			"tag": "Libnotify-121.20.1",
+			"updated": true
 		},
 		{
 			"project": "Librpcsvc",
@@ -221,6 +219,11 @@
 			"tag": "OpenSSH-186"
 		},
 		{
+			"project": "OpenSSL098",
+			"tag": "OpenSSL098-52",
+			"updated": true
+		},
+		{
 			"project": "PostgreSQL",
 			"tag": "PostgreSQL-97"
 		},
@@ -242,7 +245,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-55471.14.8",
+			"tag": "Security-55471.14.18",
 			"updated": true
 		},
 		{
@@ -263,7 +266,7 @@
 		},
 		{
 			"project": "TimeZoneData",
-			"tag": "TimeZoneData-59",
+			"tag": "TimeZoneData-61",
 			"updated": true
 		},
 		{
@@ -276,17 +279,17 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7537.77.4",
+			"tag": "WebCore-7537.78.1",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7537.77.4",
+			"tag": "WebKit-7537.78.2",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7537.77.4",
+			"tag": "WebKit2-7537.78.2",
 			"updated": true
 		},
 		{
@@ -307,7 +310,8 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-87.2"
+			"tag": "apache_mod_php-87.4",
+			"updated": true
 		},
 		{
 			"project": "apr",
@@ -363,8 +367,7 @@
 		},
 		{
 			"project": "copyfile",
-			"tag": "copyfile-103.92.1",
-			"updated": true
+			"tag": "copyfile-103.92.1"
 		},
 		{
 			"project": "cron",
@@ -380,8 +383,7 @@
 		},
 		{
 			"project": "curl",
-			"tag": "curl-78.94.1",
-			"updated": true
+			"tag": "curl-78.94.1"
 		},
 		{
 			"project": "cxxfilt",
@@ -485,7 +487,8 @@
 		},
 		{
 			"project": "kext_tools",
-			"tag": "kext_tools-326.90.2"
+			"tag": "kext_tools-326.95.1",
+			"updated": true
 		},
 		{
 			"project": "keymgr",
@@ -497,8 +500,7 @@
 		},
 		{
 			"project": "launchd",
-			"tag": "launchd-842.92.1",
-			"updated": true
+			"tag": "launchd-842.92.1"
 		},
 		{
 			"project": "less",
@@ -594,8 +596,7 @@
 		},
 		{
 			"project": "lukemftp",
-			"tag": "lukemftp-13.92.1",
-			"updated": true
+			"tag": "lukemftp-13.92.1"
 		},
 		{
 			"project": "lukemftpd",
@@ -603,8 +604,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-522.92.1",
-			"updated": true
+			"tag": "mDNSResponder-522.92.1"
 		},
 		{
 			"project": "mail_cmds",
@@ -736,7 +736,8 @@
 		},
 		{
 			"project": "ruby",
-			"tag": "ruby-101"
+			"tag": "ruby-104",
+			"updated": true
 		},
 		{
 			"project": "screen",
@@ -748,7 +749,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55036.1.1",
+			"tag": "security_certificates-55036.1.3",
 			"updated": true
 		},
 		{
@@ -769,12 +770,12 @@
 		},
 		{
 			"project": "security_systemkeychain",
-			"tag": "security_systemkeychain-55191.1"
+			"tag": "security_systemkeychain-55191.2",
+			"updated": true
 		},
 		{
 			"project": "securityd",
-			"tag": "securityd-55199.3",
-			"updated": true
+			"tag": "securityd-55199.3"
 		},
 		{
 			"project": "shell_cmds",
@@ -782,7 +783,8 @@
 		},
 		{
 			"project": "smb",
-			"tag": "smb-697.92.4"
+			"tag": "smb-697.95.1",
+			"updated": true
 		},
 		{
 			"project": "srm",
@@ -858,7 +860,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-2422.110.17",
+			"tag": "xnu-2422.115.4",
 			"updated": true
 		},
 		{

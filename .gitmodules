@@ -760,3 +760,6 @@
 [submodule "libsecurity_ldap_dl"]
 	path = libsecurity_ldap_dl
 	url = https://github.com/apple-oss-distributions/libsecurity_ldap_dl
+[submodule "OpenSSL098"]
+	path = OpenSSL098
+	url = https://github.com/apple-oss-distributions/OpenSSL098
