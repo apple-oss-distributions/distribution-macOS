@@ -787,3 +787,6 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "WebCore"]
+	path = WebCore
+	url = https://github.com/apple-oss-distributions/WebCore
