@@ -652,3 +652,6 @@
 [submodule "samba"]
 	path = samba
 	url = https://github.com/apple-oss-distributions/samba
+[submodule "DSNISPlugin"]
+	path = DSNISPlugin
+	url = https://github.com/apple-oss-distributions/DSNISPlugin
