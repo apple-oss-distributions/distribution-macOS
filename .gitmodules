@@ -289,9 +289,6 @@
 [submodule "IOUSBFamily"]
 	path = IOUSBFamily
 	url = https://github.com/apple-oss-distributions/IOUSBFamily
-[submodule "Libm"]
-	path = Libm
-	url = https://github.com/apple-oss-distributions/Libm
 [submodule "OpenLDAP"]
 	path = OpenLDAP
 	url = https://github.com/apple-oss-distributions/OpenLDAP
@@ -487,9 +484,6 @@
 [submodule "CommonCrypto"]
 	path = CommonCrypto
 	url = https://github.com/apple-oss-distributions/CommonCrypto
-[submodule "DSTools"]
-	path = DSTools
-	url = https://github.com/apple-oss-distributions/DSTools
 [submodule "IOI2CFamily"]
 	path = IOI2CFamily
 	url = https://github.com/apple-oss-distributions/IOI2CFamily
@@ -676,9 +670,6 @@
 [submodule "KerberosHelper"]
 	path = KerberosHelper
 	url = https://github.com/apple-oss-distributions/KerberosHelper
-[submodule "OpenDirectory"]
-	path = OpenDirectory
-	url = https://github.com/apple-oss-distributions/OpenDirectory
 [submodule "PyRSS2Gen"]
 	path = PyRSS2Gen
 	url = https://github.com/apple-oss-distributions/PyRSS2Gen
@@ -928,3 +919,6 @@
 [submodule "libunwind"]
 	path = libunwind
 	url = https://github.com/apple-oss-distributions/libunwind
+[submodule "WebKit2"]
+	path = WebKit2
+	url = https://github.com/apple-oss-distributions/WebKit2
