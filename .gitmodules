@@ -1,21 +1,21 @@
-[submodule "IOSerialFamily"]
-	path = IOSerialFamily
-	url = https://github.com/apple-oss-distributions/IOSerialFamily
-[submodule "Libc"]
-	path = Libc
-	url = https://github.com/apple-oss-distributions/Libc
-[submodule "Libcompat"]
-	path = Libcompat
-	url = https://github.com/apple-oss-distributions/Libcompat
-[submodule "Libcurses"]
-	path = Libcurses
-	url = https://github.com/apple-oss-distributions/Libcurses
 [submodule "Libsystem"]
 	path = Libsystem
 	url = https://github.com/apple-oss-distributions/Libsystem
-[submodule "OpenSSH"]
-	path = OpenSSH
-	url = https://github.com/apple-oss-distributions/OpenSSH
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "Libinfo"]
+	path = Libinfo
+	url = https://github.com/apple-oss-distributions/Libinfo
+[submodule "configd"]
+	path = configd
+	url = https://github.com/apple-oss-distributions/configd
+[submodule "netinfo"]
+	path = netinfo
+	url = https://github.com/apple-oss-distributions/netinfo
+[submodule "network_cmds"]
+	path = network_cmds
+	url = https://github.com/apple-oss-distributions/network_cmds
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/apple-oss-distributions/ntp

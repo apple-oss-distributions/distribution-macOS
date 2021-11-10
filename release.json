@@ -1,15 +1,10 @@
 {
 	"major_release": "Mac OS X 10.0",
-	"release": "Mac OS X 10.0.1",
+	"release": "Mac OS X 10.0.2",
 	"projects": [
 		{
-			"project": "IOSerialFamily",
-			"tag": "IOSerialFamily-7",
-			"updated": true
-		},
-		{
-			"project": "Libc",
-			"tag": "Libc-167",
+			"project": "Libinfo",
+			"tag": "Libinfo-78.2",
 			"updated": true
 		},
 		{
@@ -17,12 +12,28 @@
 			"tag": "Libsystem-50"
 		},
 		{
-			"project": "OpenSSH",
-			"tag": "OpenSSH-7.1"
+			"project": "configd",
+			"tag": "configd-24.1",
+			"updated": true
+		},
+		{
+			"project": "netinfo",
+			"tag": "netinfo-208.1",
+			"updated": true
+		},
+		{
+			"project": "network_cmds",
+			"tag": "network_cmds-77",
+			"updated": true
+		},
+		{
+			"project": "ntp",
+			"tag": "ntp-13",
+			"updated": true
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-124.1",
+			"tag": "xnu-124.7",
 			"updated": true
 		}
 	]
