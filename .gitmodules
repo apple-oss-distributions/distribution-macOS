@@ -607,9 +607,6 @@
 [submodule "AppleKiwiRoot"]
 	path = AppleKiwiRoot
 	url = https://github.com/apple-oss-distributions/AppleKiwiRoot
-[submodule "AppleMacRISC4PE"]
-	path = AppleMacRISC4PE
-	url = https://github.com/apple-oss-distributions/AppleMacRISC4PE
 [submodule "ApplePCCardATA"]
 	path = ApplePCCardATA
 	url = https://github.com/apple-oss-distributions/ApplePCCardATA
@@ -790,3 +787,9 @@
 [submodule "WebCore"]
 	path = WebCore
 	url = https://github.com/apple-oss-distributions/WebCore
+[submodule "X11"]
+	path = X11
+	url = https://github.com/apple-oss-distributions/X11
+[submodule "bsm"]
+	path = bsm
+	url = https://github.com/apple-oss-distributions/bsm
