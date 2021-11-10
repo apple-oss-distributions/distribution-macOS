@@ -379,9 +379,6 @@
 [submodule "CMD646ATA"]
 	path = CMD646ATA
 	url = https://github.com/apple-oss-distributions/CMD646ATA
-[submodule "IOATABlockStorage"]
-	path = IOATABlockStorage
-	url = https://github.com/apple-oss-distributions/IOATABlockStorage
 [submodule "IOATAFamily"]
 	path = IOATAFamily
 	url = https://github.com/apple-oss-distributions/IOATAFamily
@@ -661,9 +658,6 @@
 [submodule "JavaScriptCore"]
 	path = JavaScriptCore
 	url = https://github.com/apple-oss-distributions/JavaScriptCore
-[submodule "Kerberos"]
-	path = Kerberos
-	url = https://github.com/apple-oss-distributions/Kerberos
 [submodule "Libnotify"]
 	path = Libnotify
 	url = https://github.com/apple-oss-distributions/Libnotify
