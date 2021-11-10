@@ -520,9 +520,6 @@
 [submodule "BootCache"]
 	path = BootCache
 	url = https://github.com/apple-oss-distributions/BootCache
-[submodule "CF"]
-	path = CF
-	url = https://github.com/apple-oss-distributions/CF
 [submodule "CyrusIMAP"]
 	path = CyrusIMAP
 	url = https://github.com/apple-oss-distributions/CyrusIMAP
@@ -694,9 +691,6 @@
 [submodule "AppleVIAATA"]
 	path = AppleVIAATA
 	url = https://github.com/apple-oss-distributions/AppleVIAATA
-[submodule "CFNetwork"]
-	path = CFNetwork
-	url = https://github.com/apple-oss-distributions/CFNetwork
 [submodule "ChatServer"]
 	path = ChatServer
 	url = https://github.com/apple-oss-distributions/ChatServer
@@ -1039,6 +1033,30 @@
 [submodule "libstdcxx_SUPanWheat"]
 	path = libstdcxx_SUPanWheat
 	url = https://github.com/apple-oss-distributions/libstdcxx_SUPanWheat
-[submodule "nasm"]
-	path = nasm
-	url = https://github.com/apple-oss-distributions/nasm
+[submodule "AppleAC97Audio"]
+	path = AppleAC97Audio
+	url = https://github.com/apple-oss-distributions/AppleAC97Audio
+[submodule "AppleGenericPCATA"]
+	path = AppleGenericPCATA
+	url = https://github.com/apple-oss-distributions/AppleGenericPCATA
+[submodule "AppleI386GenericPlatform"]
+	path = AppleI386GenericPlatform
+	url = https://github.com/apple-oss-distributions/AppleI386GenericPlatform
+[submodule "AppleMTRRSupport"]
+	path = AppleMTRRSupport
+	url = https://github.com/apple-oss-distributions/AppleMTRRSupport
+[submodule "AppleOnboardPCATA"]
+	path = AppleOnboardPCATA
+	url = https://github.com/apple-oss-distributions/AppleOnboardPCATA
+[submodule "ApplePS2Controller"]
+	path = ApplePS2Controller
+	url = https://github.com/apple-oss-distributions/ApplePS2Controller
+[submodule "ApplePS2Keyboard"]
+	path = ApplePS2Keyboard
+	url = https://github.com/apple-oss-distributions/ApplePS2Keyboard
+[submodule "ApplePS2Mouse"]
+	path = ApplePS2Mouse
+	url = https://github.com/apple-oss-distributions/ApplePS2Mouse
+[submodule "ApplePS2Trackpad"]
+	path = ApplePS2Trackpad
+	url = https://github.com/apple-oss-distributions/ApplePS2Trackpad
