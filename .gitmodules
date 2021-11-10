@@ -772,3 +772,6 @@
 [submodule "WebKit2"]
 	path = WebKit2
 	url = https://github.com/apple-oss-distributions/WebKit2
+[submodule "libsecurity_ldap_dl"]
+	path = libsecurity_ldap_dl
+	url = https://github.com/apple-oss-distributions/libsecurity_ldap_dl
