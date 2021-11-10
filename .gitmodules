@@ -328,9 +328,6 @@
 [submodule "AppleI2C"]
 	path = AppleI2C
 	url = https://github.com/apple-oss-distributions/AppleI2C
-[submodule "AppleI386PCI"]
-	path = AppleI386PCI
-	url = https://github.com/apple-oss-distributions/AppleI386PCI
 [submodule "AppleIntel8255x"]
 	path = AppleIntel8255x
 	url = https://github.com/apple-oss-distributions/AppleIntel8255x
@@ -400,9 +397,6 @@
 [submodule "AppleCuda"]
 	path = AppleCuda
 	url = https://github.com/apple-oss-distributions/AppleCuda
-[submodule "AppleGenericPCATA"]
-	path = AppleGenericPCATA
-	url = https://github.com/apple-oss-distributions/AppleGenericPCATA
 [submodule "DSAgent"]
 	path = DSAgent
 	url = https://github.com/apple-oss-distributions/DSAgent
@@ -688,12 +682,6 @@
 [submodule "AppleKeyswitch"]
 	path = AppleKeyswitch
 	url = https://github.com/apple-oss-distributions/AppleKeyswitch
-[submodule "AppleMTRRSupport"]
-	path = AppleMTRRSupport
-	url = https://github.com/apple-oss-distributions/AppleMTRRSupport
-[submodule "AppleOnboardPCATA"]
-	path = AppleOnboardPCATA
-	url = https://github.com/apple-oss-distributions/AppleOnboardPCATA
 [submodule "ApplePCCard16ATA"]
 	path = ApplePCCard16ATA
 	url = https://github.com/apple-oss-distributions/ApplePCCard16ATA
@@ -997,33 +985,15 @@
 [submodule "Apple16X50Serial"]
 	path = Apple16X50Serial
 	url = https://github.com/apple-oss-distributions/Apple16X50Serial
-[submodule "AppleAC97Audio"]
-	path = AppleAC97Audio
-	url = https://github.com/apple-oss-distributions/AppleAC97Audio
 [submodule "AppleAPIC"]
 	path = AppleAPIC
 	url = https://github.com/apple-oss-distributions/AppleAPIC
-[submodule "AppleI386GenericPlatform"]
-	path = AppleI386GenericPlatform
-	url = https://github.com/apple-oss-distributions/AppleI386GenericPlatform
 [submodule "AppleIntelPIIXATA"]
 	path = AppleIntelPIIXATA
 	url = https://github.com/apple-oss-distributions/AppleIntelPIIXATA
 [submodule "AppleOnboardAudio"]
 	path = AppleOnboardAudio
 	url = https://github.com/apple-oss-distributions/AppleOnboardAudio
-[submodule "ApplePS2Controller"]
-	path = ApplePS2Controller
-	url = https://github.com/apple-oss-distributions/ApplePS2Controller
-[submodule "ApplePS2Keyboard"]
-	path = ApplePS2Keyboard
-	url = https://github.com/apple-oss-distributions/ApplePS2Keyboard
-[submodule "ApplePS2Mouse"]
-	path = ApplePS2Mouse
-	url = https://github.com/apple-oss-distributions/ApplePS2Mouse
-[submodule "ApplePS2Trackpad"]
-	path = ApplePS2Trackpad
-	url = https://github.com/apple-oss-distributions/ApplePS2Trackpad
 [submodule "AppleSMBIOS"]
 	path = AppleSMBIOS
 	url = https://github.com/apple-oss-distributions/AppleSMBIOS
@@ -1066,3 +1036,12 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
+[submodule "gdbforcw"]
+	path = gdbforcw
+	url = https://github.com/apple-oss-distributions/gdbforcw
+[submodule "libstdcxx_SUPanWheat"]
+	path = libstdcxx_SUPanWheat
+	url = https://github.com/apple-oss-distributions/libstdcxx_SUPanWheat
+[submodule "nasm"]
+	path = nasm
+	url = https://github.com/apple-oss-distributions/nasm
