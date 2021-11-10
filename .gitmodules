@@ -685,3 +685,6 @@
 [submodule "SMBClient"]
 	path = SMBClient
 	url = https://github.com/apple-oss-distributions/SMBClient
+[submodule "PowerManagement"]
+	path = PowerManagement
+	url = https://github.com/apple-oss-distributions/PowerManagement
