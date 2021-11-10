@@ -1,9 +1,6 @@
 [submodule "Libsystem"]
 	path = Libsystem
 	url = https://github.com/apple-oss-distributions/Libsystem
-[submodule "xnu"]
-	path = xnu
-	url = https://github.com/apple-oss-distributions/xnu
 [submodule "Libinfo"]
 	path = Libinfo
 	url = https://github.com/apple-oss-distributions/Libinfo

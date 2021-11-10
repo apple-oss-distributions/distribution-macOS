@@ -1,11 +1,10 @@
 {
 	"major_release": "Mac OS X 10.0",
-	"release": "Mac OS X 10.0.2",
+	"release": "Mac OS X 10.0.3",
 	"projects": [
 		{
 			"project": "Libinfo",
-			"tag": "Libinfo-78.2",
-			"updated": true
+			"tag": "Libinfo-78.2"
 		},
 		{
 			"project": "Libsystem",
@@ -13,28 +12,19 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-24.1",
-			"updated": true
+			"tag": "configd-24.1"
 		},
 		{
 			"project": "netinfo",
-			"tag": "netinfo-208.1",
-			"updated": true
+			"tag": "netinfo-208.1"
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-77",
-			"updated": true
+			"tag": "network_cmds-77"
 		},
 		{
 			"project": "ntp",
-			"tag": "ntp-13",
-			"updated": true
-		},
-		{
-			"project": "xnu",
-			"tag": "xnu-124.7",
-			"updated": true
+			"tag": "ntp-13"
 		}
 	]
 }
