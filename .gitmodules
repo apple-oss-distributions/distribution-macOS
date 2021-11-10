@@ -793,3 +793,9 @@
 [submodule "bsm"]
 	path = bsm
 	url = https://github.com/apple-oss-distributions/bsm
+[submodule "AppleMacRISC4PE"]
+	path = AppleMacRISC4PE
+	url = https://github.com/apple-oss-distributions/AppleMacRISC4PE
+[submodule "AppleUSBCDCDriver"]
+	path = AppleUSBCDCDriver
+	url = https://github.com/apple-oss-distributions/AppleUSBCDCDriver
