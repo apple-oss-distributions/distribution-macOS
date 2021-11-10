@@ -685,3 +685,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/apple-oss-distributions/subversion
+[submodule "SMBClient"]
+	path = SMBClient
+	url = https://github.com/apple-oss-distributions/SMBClient
