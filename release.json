@@ -1,6 +1,6 @@
 {
 	"major_release": "Mac OS X 10.4",
-	"release": "Mac OS X 10.4.5.x86",
+	"release": "Mac OS X 10.4.6.x86",
 	"projects": [
 		{
 			"project": "Apple3Com3C90x",
@@ -72,8 +72,7 @@
 		},
 		{
 			"project": "AppleHWSensor",
-			"tag": "AppleHWSensor-150.0.2",
-			"updated": true
+			"tag": "AppleHWSensor-150.0.2"
 		},
 		{
 			"project": "AppleHeathrow",
@@ -137,8 +136,7 @@
 		},
 		{
 			"project": "AppleMacRISC4PE",
-			"tag": "AppleMacRISC4PE-201.0.0",
-			"updated": true
+			"tag": "AppleMacRISC4PE-201.0.0"
 		},
 		{
 			"project": "AppleMacRiscPCI",
@@ -159,6 +157,10 @@
 		{
 			"project": "ApplePCCardATA",
 			"tag": "ApplePCCardATA-103.3.1"
+		},
+		{
+			"project": "AppleRAID",
+			"tag": "AppleRAID-2.3.3"
 		},
 		{
 			"project": "AppleRS232Serial",
@@ -218,7 +220,8 @@
 		},
 		{
 			"project": "CFNetwork",
-			"tag": "CFNetwork-129.10"
+			"tag": "CFNetwork-129.13",
+			"updated": true
 		},
 		{
 			"project": "CMD646ATA",
@@ -246,7 +249,8 @@
 		},
 		{
 			"project": "CyrusIMAP",
-			"tag": "CyrusIMAP-156.9"
+			"tag": "CyrusIMAP-156.10",
+			"updated": true
 		},
 		{
 			"project": "DSAgent",
@@ -254,7 +258,8 @@
 		},
 		{
 			"project": "DSNISPlugin",
-			"tag": "DSNISPlugin-17.6"
+			"tag": "DSNISPlugin-17.7",
+			"updated": true
 		},
 		{
 			"project": "DSNSLPlugins",
@@ -262,7 +267,8 @@
 		},
 		{
 			"project": "DSPasswordServerPlugin",
-			"tag": "DSPasswordServerPlugin-114"
+			"tag": "DSPasswordServerPlugin-114.3",
+			"updated": true
 		},
 		{
 			"project": "DSTools",
@@ -270,7 +276,8 @@
 		},
 		{
 			"project": "DirectoryService",
-			"tag": "DirectoryService-352.1"
+			"tag": "DirectoryService-353.3",
+			"updated": true
 		},
 		{
 			"project": "DiskArbitration",
@@ -278,7 +285,8 @@
 		},
 		{
 			"project": "DynamicPowerStep",
-			"tag": "DynamicPowerStep-1.4.1"
+			"tag": "DynamicPowerStep-1.5.0",
+			"updated": true
 		},
 		{
 			"project": "FirewallTool",
@@ -290,7 +298,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-6.2.7",
+			"tag": "ICU-6.2.10",
 			"updated": true
 		},
 		{
@@ -319,7 +327,7 @@
 		},
 		{
 			"project": "IOI2CFamily",
-			"tag": "IOI2CFamily-109.0.1",
+			"tag": "IOI2CFamily-110",
 			"updated": true
 		},
 		{
@@ -328,7 +336,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-296",
+			"tag": "IOKitUser-297",
 			"updated": true
 		},
 		{
@@ -353,7 +361,8 @@
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-417.8"
+			"tag": "JavaScriptCore-417.11",
+			"updated": true
 		},
 		{
 			"project": "JavaScriptGlue",
@@ -361,7 +370,8 @@
 		},
 		{
 			"project": "Kerberos",
-			"tag": "Kerberos-65.9"
+			"tag": "Kerberos-65.10",
+			"updated": true
 		},
 		{
 			"project": "KeyLargoATA",
@@ -369,7 +379,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-391.4.1",
+			"tag": "Libc-391.4.2",
 			"updated": true
 		},
 		{
@@ -386,7 +396,8 @@
 		},
 		{
 			"project": "Libm",
-			"tag": "Libm-210.2"
+			"tag": "Libm-213",
+			"updated": true
 		},
 		{
 			"project": "Libnotify",
@@ -402,8 +413,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-88.1.5",
-			"updated": true
+			"tag": "Libsystem-88.1.5"
 		},
 		{
 			"project": "Liby",
@@ -435,8 +445,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-94.18",
-			"updated": true
+			"tag": "PowerManagement-94.18"
 		},
 		{
 			"project": "SCSIHeaderInstaller",
@@ -457,6 +466,10 @@
 		{
 			"project": "SharedIP",
 			"tag": "SharedIP-58"
+		},
+		{
+			"project": "SmartCardServices",
+			"tag": "SmartCardServices-26777"
 		},
 		{
 			"project": "SpamAssassin",
@@ -480,7 +493,7 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-417.19",
+			"tag": "WebCore-417.24",
 			"updated": true
 		},
 		{
@@ -513,7 +526,8 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-18.2"
+			"tag": "apache_mod_php-18.4",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_ssl",
@@ -541,7 +555,8 @@
 		},
 		{
 			"project": "automount",
-			"tag": "automount-133.1"
+			"tag": "automount-133.3",
+			"updated": true
 		},
 		{
 			"project": "awk",
@@ -569,7 +584,7 @@
 		},
 		{
 			"project": "bless",
-			"tag": "bless-37.1",
+			"tag": "bless-37.1.4",
 			"updated": true
 		},
 		{
@@ -626,7 +641,8 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-97"
+			"tag": "cups-97.1",
+			"updated": true
 		},
 		{
 			"project": "curl",
@@ -830,7 +846,8 @@
 		},
 		{
 			"project": "launchd",
-			"tag": "launchd-106.10"
+			"tag": "launchd-106.13",
+			"updated": true
 		},
 		{
 			"project": "ld64",
@@ -958,13 +975,11 @@
 		},
 		{
 			"project": "libsecurity_utilities",
-			"tag": "libsecurity_utilities-26545",
-			"updated": true
+			"tag": "libsecurity_utilities-26545"
 		},
 		{
 			"project": "libsecurityd",
-			"tag": "libsecurityd-26483",
-			"updated": true
+			"tag": "libsecurityd-26483"
 		},
 		{
 			"project": "libstdcxx",
@@ -1044,12 +1059,12 @@
 		},
 		{
 			"project": "netinfo",
-			"tag": "netinfo-369.3",
+			"tag": "netinfo-369.5",
 			"updated": true
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-245.11",
+			"tag": "network_cmds-245.12",
 			"updated": true
 		},
 		{
@@ -1110,7 +1125,8 @@
 		},
 		{
 			"project": "ppp",
-			"tag": "ppp-233.7"
+			"tag": "ppp-233.10",
+			"updated": true
 		},
 		{
 			"project": "prebind",
@@ -1134,7 +1150,8 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-20"
+			"tag": "rsync-24",
+			"updated": true
 		},
 		{
 			"project": "ruby",
@@ -1142,7 +1159,8 @@
 		},
 		{
 			"project": "samba",
-			"tag": "samba-92.15"
+			"tag": "samba-92.19",
+			"updated": true
 		},
 		{
 			"project": "screen",
@@ -1182,11 +1200,16 @@
 		},
 		{
 			"project": "securityd",
-			"tag": "securityd-26232"
+			"tag": "securityd-26674",
+			"updated": true
 		},
 		{
 			"project": "shell_cmds",
 			"tag": "shell_cmds-81"
+		},
+		{
+			"project": "smb",
+			"tag": "smb-217.18"
 		},
 		{
 			"project": "srm",
@@ -1206,7 +1229,7 @@
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-336.10",
+			"tag": "system_cmds-336.13",
 			"updated": true
 		},
 		{
@@ -1260,6 +1283,10 @@
 		{
 			"project": "volfs",
 			"tag": "volfs-26"
+		},
+		{
+			"project": "webdavfs",
+			"tag": "webdavfs-221.2"
 		},
 		{
 			"project": "wxWidgets",

@@ -976,3 +976,15 @@
 [submodule "nasm"]
 	path = nasm
 	url = https://github.com/apple-oss-distributions/nasm
+[submodule "AppleRAID"]
+	path = AppleRAID
+	url = https://github.com/apple-oss-distributions/AppleRAID
+[submodule "SmartCardServices"]
+	path = SmartCardServices
+	url = https://github.com/apple-oss-distributions/SmartCardServices
+[submodule "smb"]
+	path = smb
+	url = https://github.com/apple-oss-distributions/smb
+[submodule "webdavfs"]
+	path = webdavfs
+	url = https://github.com/apple-oss-distributions/webdavfs
