@@ -181,9 +181,6 @@
 [submodule "usertemplate"]
 	path = usertemplate
 	url = https://github.com/apple-oss-distributions/usertemplate
-[submodule "xnu"]
-	path = xnu
-	url = https://github.com/apple-oss-distributions/xnu
 [submodule "zlib"]
 	path = zlib
 	url = https://github.com/apple-oss-distributions/zlib
@@ -556,9 +553,6 @@
 [submodule "libffi"]
 	path = libffi
 	url = https://github.com/apple-oss-distributions/libffi
-[submodule "libgcc"]
-	path = libgcc
-	url = https://github.com/apple-oss-distributions/libgcc
 [submodule "libresolv"]
 	path = libresolv
 	url = https://github.com/apple-oss-distributions/libresolv
