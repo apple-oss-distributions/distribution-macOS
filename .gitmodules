@@ -1,12 +1,6 @@
 [submodule "AppleCore99NVRAM"]
 	path = AppleCore99NVRAM
 	url = https://github.com/apple-oss-distributions/AppleCore99NVRAM
-[submodule "AppleCore99PE"]
-	path = AppleCore99PE
-	url = https://github.com/apple-oss-distributions/AppleCore99PE
-[submodule "AppleHeathrow"]
-	path = AppleHeathrow
-	url = https://github.com/apple-oss-distributions/AppleHeathrow
 [submodule "AppleKeyLargo"]
 	path = AppleKeyLargo
 	url = https://github.com/apple-oss-distributions/AppleKeyLargo
@@ -58,9 +52,6 @@
 [submodule "Libinfo"]
 	path = Libinfo
 	url = https://github.com/apple-oss-distributions/Libinfo
-[submodule "Libkvm"]
-	path = Libkvm
-	url = https://github.com/apple-oss-distributions/Libkvm
 [submodule "Librpcsvc"]
 	path = Librpcsvc
 	url = https://github.com/apple-oss-distributions/Librpcsvc
@@ -79,9 +70,6 @@
 [submodule "OpenSSL"]
 	path = OpenSSL
 	url = https://github.com/apple-oss-distributions/OpenSSL
-[submodule "SharedIP"]
-	path = SharedIP
-	url = https://github.com/apple-oss-distributions/SharedIP
 [submodule "UserNotification"]
 	path = UserNotification
 	url = https://github.com/apple-oss-distributions/UserNotification
@@ -109,9 +97,6 @@
 [submodule "autoconf"]
 	path = autoconf
 	url = https://github.com/apple-oss-distributions/autoconf
-[submodule "automount"]
-	path = automount
-	url = https://github.com/apple-oss-distributions/automount
 [submodule "awk"]
 	path = awk
 	url = https://github.com/apple-oss-distributions/awk
@@ -124,9 +109,6 @@
 [submodule "bison"]
 	path = bison
 	url = https://github.com/apple-oss-distributions/bison
-[submodule "boot"]
-	path = boot
-	url = https://github.com/apple-oss-distributions/boot
 [submodule "bootp"]
 	path = bootp
 	url = https://github.com/apple-oss-distributions/bootp
@@ -301,15 +283,9 @@
 [submodule "usertemplate"]
 	path = usertemplate
 	url = https://github.com/apple-oss-distributions/usertemplate
-[submodule "volfs"]
-	path = volfs
-	url = https://github.com/apple-oss-distributions/volfs
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
-[submodule "yacc"]
-	path = yacc
-	url = https://github.com/apple-oss-distributions/yacc
 [submodule "zlib"]
 	path = zlib
 	url = https://github.com/apple-oss-distributions/zlib
@@ -325,21 +301,12 @@
 [submodule "AppleADBMouse"]
 	path = AppleADBMouse
 	url = https://github.com/apple-oss-distributions/AppleADBMouse
-[submodule "AppleBMacEthernet"]
-	path = AppleBMacEthernet
-	url = https://github.com/apple-oss-distributions/AppleBMacEthernet
 [submodule "AppleGMACEthernet"]
 	path = AppleGMACEthernet
 	url = https://github.com/apple-oss-distributions/AppleGMACEthernet
-[submodule "AppleGracklePCI"]
-	path = AppleGracklePCI
-	url = https://github.com/apple-oss-distributions/AppleGracklePCI
 [submodule "AppleI2C"]
 	path = AppleI2C
 	url = https://github.com/apple-oss-distributions/AppleI2C
-[submodule "AppleI386PCI"]
-	path = AppleI386PCI
-	url = https://github.com/apple-oss-distributions/AppleI386PCI
 [submodule "AppleIntel8255x"]
 	path = AppleIntel8255x
 	url = https://github.com/apple-oss-distributions/AppleIntel8255x
@@ -352,24 +319,12 @@
 [submodule "AppleOnboardAudio"]
 	path = AppleOnboardAudio
 	url = https://github.com/apple-oss-distributions/AppleOnboardAudio
-[submodule "ApplePS2Controller"]
-	path = ApplePS2Controller
-	url = https://github.com/apple-oss-distributions/ApplePS2Controller
-[submodule "ApplePS2Keyboard"]
-	path = ApplePS2Keyboard
-	url = https://github.com/apple-oss-distributions/ApplePS2Keyboard
-[submodule "ApplePS2Mouse"]
-	path = ApplePS2Mouse
-	url = https://github.com/apple-oss-distributions/ApplePS2Mouse
 [submodule "AppleSym8xx"]
 	path = AppleSym8xx
 	url = https://github.com/apple-oss-distributions/AppleSym8xx
 [submodule "AppleVIA"]
 	path = AppleVIA
 	url = https://github.com/apple-oss-distributions/AppleVIA
-[submodule "CMD646ATA"]
-	path = CMD646ATA
-	url = https://github.com/apple-oss-distributions/CMD646ATA
 [submodule "IOATAFamily"]
 	path = IOATAFamily
 	url = https://github.com/apple-oss-distributions/IOATAFamily
@@ -442,27 +397,15 @@
 [submodule "Apple3Com3C90x"]
 	path = Apple3Com3C90x
 	url = https://github.com/apple-oss-distributions/Apple3Com3C90x
-[submodule "AppleCuda"]
-	path = AppleCuda
-	url = https://github.com/apple-oss-distributions/AppleCuda
-[submodule "AppleGenericPCATA"]
-	path = AppleGenericPCATA
-	url = https://github.com/apple-oss-distributions/AppleGenericPCATA
 [submodule "AppleIntelPIIXATA"]
 	path = AppleIntelPIIXATA
 	url = https://github.com/apple-oss-distributions/AppleIntelPIIXATA
 [submodule "AppleRAID"]
 	path = AppleRAID
 	url = https://github.com/apple-oss-distributions/AppleRAID
-[submodule "DSAgent"]
-	path = DSAgent
-	url = https://github.com/apple-oss-distributions/DSAgent
 [submodule "DirectoryService"]
 	path = DirectoryService
 	url = https://github.com/apple-oss-distributions/DirectoryService
-[submodule "HeathrowATA"]
-	path = HeathrowATA
-	url = https://github.com/apple-oss-distributions/HeathrowATA
 [submodule "IOFireWireAVC"]
 	path = IOFireWireAVC
 	url = https://github.com/apple-oss-distributions/IOFireWireAVC
@@ -589,9 +532,6 @@
 [submodule "ApplePCCardATA"]
 	path = ApplePCCardATA
 	url = https://github.com/apple-oss-distributions/ApplePCCardATA
-[submodule "ApplePS2Trackpad"]
-	path = ApplePS2Trackpad
-	url = https://github.com/apple-oss-distributions/ApplePS2Trackpad
 [submodule "AppleRS232Serial"]
 	path = AppleRS232Serial
 	url = https://github.com/apple-oss-distributions/AppleRS232Serial
@@ -607,18 +547,9 @@
 [submodule "BootCache"]
 	path = BootCache
 	url = https://github.com/apple-oss-distributions/BootCache
-[submodule "CF"]
-	path = CF
-	url = https://github.com/apple-oss-distributions/CF
 [submodule "CyrusIMAP"]
 	path = CyrusIMAP
 	url = https://github.com/apple-oss-distributions/CyrusIMAP
-[submodule "DSNISPlugin"]
-	path = DSNISPlugin
-	url = https://github.com/apple-oss-distributions/DSNISPlugin
-[submodule "DSNSLPlugins"]
-	path = DSNSLPlugins
-	url = https://github.com/apple-oss-distributions/DSNSLPlugins
 [submodule "DSPasswordServerPlugin"]
 	path = DSPasswordServerPlugin
 	url = https://github.com/apple-oss-distributions/DSPasswordServerPlugin
@@ -634,9 +565,6 @@
 [submodule "IOSCSIParallelFamily"]
 	path = IOSCSIParallelFamily
 	url = https://github.com/apple-oss-distributions/IOSCSIParallelFamily
-[submodule "JBoss"]
-	path = JBoss
-	url = https://github.com/apple-oss-distributions/JBoss
 [submodule "JavaScriptCore"]
 	path = JavaScriptCore
 	url = https://github.com/apple-oss-distributions/JavaScriptCore
@@ -694,9 +622,6 @@
 [submodule "gccfast"]
 	path = gccfast
 	url = https://github.com/apple-oss-distributions/gccfast
-[submodule "gimp_print"]
-	path = gimp_print
-	url = https://github.com/apple-oss-distributions/gimp_print
 [submodule "gnuserv"]
 	path = gnuserv
 	url = https://github.com/apple-oss-distributions/gnuserv
@@ -748,21 +673,9 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/apple-oss-distributions/vim
-[submodule "xinetd"]
-	path = xinetd
-	url = https://github.com/apple-oss-distributions/xinetd
-[submodule "AppleAC97Audio"]
-	path = AppleAC97Audio
-	url = https://github.com/apple-oss-distributions/AppleAC97Audio
 [submodule "AppleAPIC"]
 	path = AppleAPIC
 	url = https://github.com/apple-oss-distributions/AppleAPIC
-[submodule "AppleBCM440XEthernet"]
-	path = AppleBCM440XEthernet
-	url = https://github.com/apple-oss-distributions/AppleBCM440XEthernet
-[submodule "AppleDP83816Ethernet"]
-	path = AppleDP83816Ethernet
-	url = https://github.com/apple-oss-distributions/AppleDP83816Ethernet
 [submodule "AppleFan"]
 	path = AppleFan
 	url = https://github.com/apple-oss-distributions/AppleFan
@@ -778,18 +691,9 @@
 [submodule "AppleHWSensor"]
 	path = AppleHWSensor
 	url = https://github.com/apple-oss-distributions/AppleHWSensor
-[submodule "AppleI386GenericPlatform"]
-	path = AppleI386GenericPlatform
-	url = https://github.com/apple-oss-distributions/AppleI386GenericPlatform
 [submodule "AppleKeyswitch"]
 	path = AppleKeyswitch
 	url = https://github.com/apple-oss-distributions/AppleKeyswitch
-[submodule "AppleMTRRSupport"]
-	path = AppleMTRRSupport
-	url = https://github.com/apple-oss-distributions/AppleMTRRSupport
-[submodule "AppleOnboardPCATA"]
-	path = AppleOnboardPCATA
-	url = https://github.com/apple-oss-distributions/AppleOnboardPCATA
 [submodule "ApplePCCard16ATA"]
 	path = ApplePCCard16ATA
 	url = https://github.com/apple-oss-distributions/ApplePCCard16ATA
@@ -808,9 +712,6 @@
 [submodule "AppleVIAATA"]
 	path = AppleVIAATA
 	url = https://github.com/apple-oss-distributions/AppleVIAATA
-[submodule "CFNetwork"]
-	path = CFNetwork
-	url = https://github.com/apple-oss-distributions/CFNetwork
 [submodule "ChatServer"]
 	path = ChatServer
 	url = https://github.com/apple-oss-distributions/ChatServer
@@ -826,9 +727,6 @@
 [submodule "DynamicPowerStep"]
 	path = DynamicPowerStep
 	url = https://github.com/apple-oss-distributions/DynamicPowerStep
-[submodule "FirewallTool"]
-	path = FirewallTool
-	url = https://github.com/apple-oss-distributions/FirewallTool
 [submodule "IOACPIFamily"]
 	path = IOACPIFamily
 	url = https://github.com/apple-oss-distributions/IOACPIFamily
@@ -862,15 +760,9 @@
 [submodule "Tokend"]
 	path = Tokend
 	url = https://github.com/apple-oss-distributions/Tokend
-[submodule "X11"]
-	path = X11
-	url = https://github.com/apple-oss-distributions/X11
 [submodule "autofs"]
 	path = autofs
 	url = https://github.com/apple-oss-distributions/autofs
-[submodule "blojsom"]
-	path = blojsom
-	url = https://github.com/apple-oss-distributions/blojsom
 [submodule "bsm"]
 	path = bsm
 	url = https://github.com/apple-oss-distributions/bsm
@@ -997,9 +889,6 @@
 [submodule "man"]
 	path = man
 	url = https://github.com/apple-oss-distributions/man
-[submodule "memberd"]
-	path = memberd
-	url = https://github.com/apple-oss-distributions/memberd
 [submodule "modemccl"]
 	path = modemccl
 	url = https://github.com/apple-oss-distributions/modemccl
@@ -1012,9 +901,6 @@
 [submodule "pdisk"]
 	path = pdisk
 	url = https://github.com/apple-oss-distributions/pdisk
-[submodule "prebind"]
-	path = prebind
-	url = https://github.com/apple-oss-distributions/prebind
 [submodule "security_authtrampoline"]
 	path = security_authtrampoline
 	url = https://github.com/apple-oss-distributions/security_authtrampoline
@@ -1054,3 +940,216 @@
 [submodule "zip"]
 	path = zip
 	url = https://github.com/apple-oss-distributions/zip
+[submodule "CPAN"]
+	path = CPAN
+	url = https://github.com/apple-oss-distributions/CPAN
+[submodule "CPANInternal"]
+	path = CPANInternal
+	url = https://github.com/apple-oss-distributions/CPANInternal
+[submodule "CrackLib"]
+	path = CrackLib
+	url = https://github.com/apple-oss-distributions/CrackLib
+[submodule "FastCGI"]
+	path = FastCGI
+	url = https://github.com/apple-oss-distributions/FastCGI
+[submodule "IOBDStorageFamily"]
+	path = IOBDStorageFamily
+	url = https://github.com/apple-oss-distributions/IOBDStorageFamily
+[submodule "KerberosHelper"]
+	path = KerberosHelper
+	url = https://github.com/apple-oss-distributions/KerberosHelper
+[submodule "OpenDirectory"]
+	path = OpenDirectory
+	url = https://github.com/apple-oss-distributions/OpenDirectory
+[submodule "PyRSS2Gen"]
+	path = PyRSS2Gen
+	url = https://github.com/apple-oss-distributions/PyRSS2Gen
+[submodule "RubyCocoa"]
+	path = RubyCocoa
+	url = https://github.com/apple-oss-distributions/RubyCocoa
+[submodule "RubyGems"]
+	path = RubyGems
+	url = https://github.com/apple-oss-distributions/RubyGems
+[submodule "RubyOnRails"]
+	path = RubyOnRails
+	url = https://github.com/apple-oss-distributions/RubyOnRails
+[submodule "TargetConfig"]
+	path = TargetConfig
+	url = https://github.com/apple-oss-distributions/TargetConfig
+[submodule "TimeZoneData"]
+	path = TimeZoneData
+	url = https://github.com/apple-oss-distributions/TimeZoneData
+[submodule "Twisted"]
+	path = Twisted
+	url = https://github.com/apple-oss-distributions/Twisted
+[submodule "TwistedWords"]
+	path = TwistedWords
+	url = https://github.com/apple-oss-distributions/TwistedWords
+[submodule "TwistedXish"]
+	path = TwistedXish
+	url = https://github.com/apple-oss-distributions/TwistedXish
+[submodule "X11apps"]
+	path = X11apps
+	url = https://github.com/apple-oss-distributions/X11apps
+[submodule "X11fonts"]
+	path = X11fonts
+	url = https://github.com/apple-oss-distributions/X11fonts
+[submodule "X11libs"]
+	path = X11libs
+	url = https://github.com/apple-oss-distributions/X11libs
+[submodule "X11misc"]
+	path = X11misc
+	url = https://github.com/apple-oss-distributions/X11misc
+[submodule "X11proto"]
+	path = X11proto
+	url = https://github.com/apple-oss-distributions/X11proto
+[submodule "X11server"]
+	path = X11server
+	url = https://github.com/apple-oss-distributions/X11server
+[submodule "amavisd"]
+	path = amavisd
+	url = https://github.com/apple-oss-distributions/amavisd
+[submodule "apache1"]
+	path = apache1
+	url = https://github.com/apple-oss-distributions/apache1
+[submodule "apache_mod_bonjour"]
+	path = apache_mod_bonjour
+	url = https://github.com/apple-oss-distributions/apache_mod_bonjour
+[submodule "apache_mod_fastcgi"]
+	path = apache_mod_fastcgi
+	url = https://github.com/apple-oss-distributions/apache_mod_fastcgi
+[submodule "apache_mod_perl1"]
+	path = apache_mod_perl1
+	url = https://github.com/apple-oss-distributions/apache_mod_perl1
+[submodule "apache_mod_php4"]
+	path = apache_mod_php4
+	url = https://github.com/apple-oss-distributions/apache_mod_php4
+[submodule "apr"]
+	path = apr
+	url = https://github.com/apple-oss-distributions/apr
+[submodule "bison1"]
+	path = bison1
+	url = https://github.com/apple-oss-distributions/bison1
+[submodule "clamav"]
+	path = clamav
+	url = https://github.com/apple-oss-distributions/clamav
+[submodule "copyfile"]
+	path = copyfile
+	url = https://github.com/apple-oss-distributions/copyfile
+[submodule "dtrace"]
+	path = dtrace
+	url = https://github.com/apple-oss-distributions/dtrace
+[submodule "expat"]
+	path = expat
+	url = https://github.com/apple-oss-distributions/expat
+[submodule "freeradius"]
+	path = freeradius
+	url = https://github.com/apple-oss-distributions/freeradius
+[submodule "gcc_42"]
+	path = gcc_42
+	url = https://github.com/apple-oss-distributions/gcc_42
+[submodule "gdbforcw"]
+	path = gdbforcw
+	url = https://github.com/apple-oss-distributions/gdbforcw
+[submodule "gssd"]
+	path = gssd
+	url = https://github.com/apple-oss-distributions/gssd
+[submodule "gutenprint"]
+	path = gutenprint
+	url = https://github.com/apple-oss-distributions/gutenprint
+[submodule "ipsec"]
+	path = ipsec
+	url = https://github.com/apple-oss-distributions/ipsec
+[submodule "libffi"]
+	path = libffi
+	url = https://github.com/apple-oss-distributions/libffi
+[submodule "libgcc"]
+	path = libgcc
+	url = https://github.com/apple-oss-distributions/libgcc
+[submodule "libmd"]
+	path = libmd
+	url = https://github.com/apple-oss-distributions/libmd
+[submodule "libresolv"]
+	path = libresolv
+	url = https://github.com/apple-oss-distributions/libresolv
+[submodule "libsecurity_cms"]
+	path = libsecurity_cms
+	url = https://github.com/apple-oss-distributions/libsecurity_cms
+[submodule "libsecurity_codesigning"]
+	path = libsecurity_codesigning
+	url = https://github.com/apple-oss-distributions/libsecurity_codesigning
+[submodule "libsecurity_dotmacdl"]
+	path = libsecurity_dotmacdl
+	url = https://github.com/apple-oss-distributions/libsecurity_dotmacdl
+[submodule "libsecurity_filevault"]
+	path = libsecurity_filevault
+	url = https://github.com/apple-oss-distributions/libsecurity_filevault
+[submodule "libstdcxx"]
+	path = libstdcxx
+	url = https://github.com/apple-oss-distributions/libstdcxx
+[submodule "libstdcxx_SUPanWheat"]
+	path = libstdcxx_SUPanWheat
+	url = https://github.com/apple-oss-distributions/libstdcxx_SUPanWheat
+[submodule "libutil"]
+	path = libutil
+	url = https://github.com/apple-oss-distributions/libutil
+[submodule "nasm"]
+	path = nasm
+	url = https://github.com/apple-oss-distributions/nasm
+[submodule "neon"]
+	path = neon
+	url = https://github.com/apple-oss-distributions/neon
+[submodule "notify"]
+	path = notify
+	url = https://github.com/apple-oss-distributions/notify
+[submodule "openmpi"]
+	path = openmpi
+	url = https://github.com/apple-oss-distributions/openmpi
+[submodule "pyOpenSSL"]
+	path = pyOpenSSL
+	url = https://github.com/apple-oss-distributions/pyOpenSSL
+[submodule "pyobjc"]
+	path = pyobjc
+	url = https://github.com/apple-oss-distributions/pyobjc
+[submodule "python23"]
+	path = python23
+	url = https://github.com/apple-oss-distributions/python23
+[submodule "python_dateutil"]
+	path = python_dateutil
+	url = https://github.com/apple-oss-distributions/python_dateutil
+[submodule "python_modules"]
+	path = python_modules
+	url = https://github.com/apple-oss-distributions/python_modules
+[submodule "remote_cmds"]
+	path = remote_cmds
+	url = https://github.com/apple-oss-distributions/remote_cmds
+[submodule "removefile"]
+	path = removefile
+	url = https://github.com/apple-oss-distributions/removefile
+[submodule "ruby_dnssd"]
+	path = ruby_dnssd
+	url = https://github.com/apple-oss-distributions/ruby_dnssd
+[submodule "ruby_libxml"]
+	path = ruby_libxml
+	url = https://github.com/apple-oss-distributions/ruby_libxml
+[submodule "security_dotmac_tp"]
+	path = security_dotmac_tp
+	url = https://github.com/apple-oss-distributions/security_dotmac_tp
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/apple-oss-distributions/subversion
+[submodule "svk"]
+	path = svk
+	url = https://github.com/apple-oss-distributions/svk
+[submodule "swig"]
+	path = swig
+	url = https://github.com/apple-oss-distributions/swig
+[submodule "uucp"]
+	path = uucp
+	url = https://github.com/apple-oss-distributions/uucp
+[submodule "xar"]
+	path = xar
+	url = https://github.com/apple-oss-distributions/xar
+[submodule "xelf"]
+	path = xelf
+	url = https://github.com/apple-oss-distributions/xelf
