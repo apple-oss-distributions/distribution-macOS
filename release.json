@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 10.13",
-	"release": "macOS 10.13.4",
+	"release": "macOS 10.13.5",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -8,8 +8,7 @@
 		},
 		{
 			"project": "AppleRAID",
-			"tag": "AppleRAID-15.50.1",
-			"updated": true
+			"tag": "AppleRAID-15.50.1"
 		},
 		{
 			"project": "AppleUSBIrDA",
@@ -17,7 +16,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-32.50.1",
+			"tag": "AvailabilityVersions-32.60.1",
 			"updated": true
 		},
 		{
@@ -26,8 +25,7 @@
 		},
 		{
 			"project": "BootCache",
-			"tag": "BootCache-130",
-			"updated": true
+			"tag": "BootCache-130"
 		},
 		{
 			"project": "CPAN",
@@ -35,13 +33,11 @@
 		},
 		{
 			"project": "Chess",
-			"tag": "Chess-325",
-			"updated": true
+			"tag": "Chess-325"
 		},
 		{
 			"project": "CommonCrypto",
-			"tag": "CommonCrypto-60118.50.1",
-			"updated": true
+			"tag": "CommonCrypto-60118.50.1"
 		},
 		{
 			"project": "CrackLib",
@@ -53,28 +49,24 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-297.50.1",
-			"updated": true
+			"tag": "DiskArbitration-297.50.1"
 		},
 		{
 			"project": "Heimdal",
-			"tag": "Heimdal-520.50.6",
-			"updated": true
+			"tag": "Heimdal-520.50.6"
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-59173.0.1",
+			"tag": "ICU-59180.0.1",
 			"updated": true
 		},
 		{
 			"project": "IOATAFamily",
-			"tag": "IOATAFamily-255.50.1",
-			"updated": true
+			"tag": "IOATAFamily-255.50.1"
 		},
 		{
 			"project": "IOATAPIProtocolTransport",
-			"tag": "IOATAPIProtocolTransport-350.50.1",
-			"updated": true
+			"tag": "IOATAPIProtocolTransport-350.50.1"
 		},
 		{
 			"project": "IOAudioFamily",
@@ -98,22 +90,21 @@
 		},
 		{
 			"project": "IOFireWireAVC",
-			"tag": "IOFireWireAVC-425"
+			"tag": "IOFireWireAVC-426",
+			"updated": true
 		},
 		{
 			"project": "IOFireWireFamily",
-			"tag": "IOFireWireFamily-470",
+			"tag": "IOFireWireFamily-472",
 			"updated": true
 		},
 		{
 			"project": "IOFireWireIP",
-			"tag": "IOFireWireIP-229",
-			"updated": true
+			"tag": "IOFireWireIP-229"
 		},
 		{
 			"project": "IOFireWireSBP2",
-			"tag": "IOFireWireSBP2-428",
-			"updated": true
+			"tag": "IOFireWireSBP2-428"
 		},
 		{
 			"project": "IOFireWireSerialBusProtocolTransport",
@@ -121,12 +112,12 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-519.15.1",
+			"tag": "IOGraphics-519.19",
 			"updated": true
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-1035.50.38",
+			"tag": "IOHIDFamily-1035.60.3",
 			"updated": true
 		},
 		{
@@ -135,23 +126,21 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1445.50.26",
+			"tag": "IOKitUser-1445.60.1",
 			"updated": true
 		},
 		{
 			"project": "IONetworkingFamily",
-			"tag": "IONetworkingFamily-124.50.3",
-			"updated": true
+			"tag": "IONetworkingFamily-124.50.3"
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-320.50.3",
+			"tag": "IOPCIFamily-320.60.2",
 			"updated": true
 		},
 		{
 			"project": "IOSCSIParallelFamily",
-			"tag": "IOSCSIParallelFamily-300.50.1",
-			"updated": true
+			"tag": "IOSCSIParallelFamily-300.50.1"
 		},
 		{
 			"project": "IOSerialFamily",
@@ -159,17 +148,15 @@
 		},
 		{
 			"project": "IOStorageFamily",
-			"tag": "IOStorageFamily-218.50.2",
-			"updated": true
+			"tag": "IOStorageFamily-218.50.2"
 		},
 		{
 			"project": "IOUSBMassStorageClass",
-			"tag": "IOUSBMassStorageClass-407.50.1",
-			"updated": true
+			"tag": "IOUSBMassStorageClass-407.50.1"
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7605.1.33.1.2",
+			"tag": "JavaScriptCore-7605.2.8",
 			"updated": true
 		},
 		{
@@ -178,8 +165,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-1244.50.9",
-			"updated": true
+			"tag": "Libc-1244.50.9"
 		},
 		{
 			"project": "Libinfo",
@@ -195,8 +181,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-1252.50.4",
-			"updated": true
+			"tag": "Libsystem-1252.50.4"
 		},
 		{
 			"project": "Liby",
@@ -208,8 +193,7 @@
 		},
 		{
 			"project": "NFS",
-			"tag": "NFS-107.50.1",
-			"updated": true
+			"tag": "NFS-107.50.1"
 		},
 		{
 			"project": "OpenAL",
@@ -225,8 +209,7 @@
 		},
 		{
 			"project": "OpenSSH",
-			"tag": "OpenSSH-220.50.1",
-			"updated": true
+			"tag": "OpenSSH-220.50.1"
 		},
 		{
 			"project": "OpenSSL098",
@@ -238,7 +221,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-703.50.24",
+			"tag": "PowerManagement-703.60.3",
 			"updated": true
 		},
 		{
@@ -247,7 +230,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-58286.51.6",
+			"tag": "Security-58286.60.28",
 			"updated": true
 		},
 		{
@@ -260,37 +243,35 @@
 		},
 		{
 			"project": "TimeZoneData",
-			"tag": "TimeZoneData-86",
-			"updated": true
+			"tag": "TimeZoneData-86"
 		},
 		{
 			"project": "UserNotification",
-			"tag": "UserNotification-30",
-			"updated": true
+			"tag": "UserNotification-30"
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7605.1.33.1.2",
+			"tag": "WTF-7605.2.8",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7605.1.33.1.2",
+			"tag": "WebCore-7605.2.8",
 			"updated": true
 		},
 		{
 			"project": "WebInspectorUI",
-			"tag": "WebInspectorUI-7605.1.33.1.2",
+			"tag": "WebInspectorUI-7605.2.8",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7605.1.33.1.2",
+			"tag": "WebKit-7605.2.8",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7605.1.33.1.2",
+			"tag": "WebKit2-7605.2.8",
 			"updated": true
 		},
 		{
@@ -299,7 +280,7 @@
 		},
 		{
 			"project": "apache",
-			"tag": "apache-825",
+			"tag": "apache-829",
 			"updated": true
 		},
 		{
@@ -312,7 +293,7 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-131",
+			"tag": "apache_mod_php-133",
 			"updated": true
 		},
 		{
@@ -345,23 +326,20 @@
 		},
 		{
 			"project": "bind9",
-			"tag": "bind9-57.3",
-			"updated": true
+			"tag": "bind9-57.3"
 		},
 		{
 			"project": "bless",
-			"tag": "bless-157",
-			"updated": true
+			"tag": "bless-157"
 		},
 		{
 			"project": "bmalloc",
-			"tag": "bmalloc-7605.1.33.1.2",
+			"tag": "bmalloc-7605.2.8",
 			"updated": true
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-359.50.1",
-			"updated": true
+			"tag": "bootp-359.50.1"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -377,18 +355,15 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-963.50.8",
-			"updated": true
+			"tag": "configd-963.50.8"
 		},
 		{
 			"project": "copyfile",
-			"tag": "copyfile-146.50.5",
-			"updated": true
+			"tag": "copyfile-146.50.5"
 		},
 		{
 			"project": "coreTLS",
-			"tag": "coreTLS-155.50.1",
-			"updated": true
+			"tag": "coreTLS-155.50.1"
 		},
 		{
 			"project": "cron",
@@ -400,7 +375,7 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-462.2",
+			"tag": "cups-462.2.1",
 			"updated": true
 		},
 		{
@@ -429,18 +404,15 @@
 		},
 		{
 			"project": "dtrace",
-			"tag": "dtrace-262.50.12",
-			"updated": true
+			"tag": "dtrace-262.50.12"
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-551.3",
-			"updated": true
+			"tag": "dyld-551.3"
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-264.50.5",
-			"updated": true
+			"tag": "eap8021x-264.50.5"
 		},
 		{
 			"project": "emacs",
@@ -460,7 +432,7 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-759.50.6",
+			"tag": "files-759.60.1",
 			"updated": true
 		},
 		{
@@ -485,13 +457,12 @@
 		},
 		{
 			"project": "gssd",
-			"tag": "gssd-77.51.2",
+			"tag": "gssd-77.60.2",
 			"updated": true
 		},
 		{
 			"project": "hfs",
-			"tag": "hfs-407.50.6",
-			"updated": true
+			"tag": "hfs-407.50.6"
 		},
 		{
 			"project": "hunspell",
@@ -507,7 +478,7 @@
 		},
 		{
 			"project": "kext_tools",
-			"tag": "kext_tools-502.50.11",
+			"tag": "kext_tools-502.60.2",
 			"updated": true
 		},
 		{
@@ -536,7 +507,7 @@
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-913.50.12",
+			"tag": "libdispatch-913.60.2",
 			"updated": true
 		},
 		{
@@ -561,23 +532,19 @@
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-51.50.1",
-			"updated": true
+			"tag": "libiconv-51.50.1"
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-140.50.6",
-			"updated": true
+			"tag": "libmalloc-140.50.6"
 		},
 		{
 			"project": "libplatform",
-			"tag": "libplatform-161.50.1",
-			"updated": true
+			"tag": "libplatform-161.50.1"
 		},
 		{
 			"project": "libpthread",
-			"tag": "libpthread-301.50.1",
-			"updated": true
+			"tag": "libpthread-301.50.1"
 		},
 		{
 			"project": "libresolv",
@@ -605,13 +572,11 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-31.10",
-			"updated": true
+			"tag": "libxml2-31.10"
 		},
 		{
 			"project": "libxslt",
-			"tag": "libxslt-15.12",
-			"updated": true
+			"tag": "libxslt-15.12"
 		},
 		{
 			"project": "llvmCore",
@@ -623,8 +588,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-878.50.17",
-			"updated": true
+			"tag": "mDNSResponder-878.50.17"
 		},
 		{
 			"project": "mail_cmds",
@@ -644,8 +608,7 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-229.50.1",
-			"updated": true
+			"tag": "msdosfs-229.50.1"
 		},
 		{
 			"project": "nano",
@@ -657,8 +620,7 @@
 		},
 		{
 			"project": "net_snmp",
-			"tag": "net_snmp-159",
-			"updated": true
+			"tag": "net_snmp-159"
 		},
 		{
 			"project": "netcat",
@@ -666,8 +628,7 @@
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-543.50.4",
-			"updated": true
+			"tag": "network_cmds-543.50.4"
 		},
 		{
 			"project": "ntfs",
@@ -683,8 +644,7 @@
 		},
 		{
 			"project": "pam_modules",
-			"tag": "pam_modules-173.50.1",
-			"updated": true
+			"tag": "pam_modules-173.50.1"
 		},
 		{
 			"project": "passwordserver_sasl",
@@ -704,13 +664,11 @@
 		},
 		{
 			"project": "perl",
-			"tag": "perl-113.51.2",
-			"updated": true
+			"tag": "perl-113.51.2"
 		},
 		{
 			"project": "postfix",
-			"tag": "postfix-271",
-			"updated": true
+			"tag": "postfix-271"
 		},
 		{
 			"project": "ppp",
@@ -722,8 +680,7 @@
 		},
 		{
 			"project": "python",
-			"tag": "python-109.50.1",
-			"updated": true
+			"tag": "python-109.50.1"
 		},
 		{
 			"project": "python_modules",
@@ -755,7 +712,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55093.50.19",
+			"tag": "security_certificates-55093.60.3",
 			"updated": true
 		},
 		{
@@ -772,8 +729,7 @@
 		},
 		{
 			"project": "security_systemkeychain",
-			"tag": "security_systemkeychain-55207.50.1",
-			"updated": true
+			"tag": "security_systemkeychain-55207.50.1"
 		},
 		{
 			"project": "shell_cmds",
@@ -781,8 +737,7 @@
 		},
 		{
 			"project": "sudo",
-			"tag": "sudo-86.50.1",
-			"updated": true
+			"tag": "sudo-86.50.1"
 		},
 		{
 			"project": "swig",
@@ -790,28 +745,23 @@
 		},
 		{
 			"project": "syslog",
-			"tag": "syslog-356.50.1",
-			"updated": true
+			"tag": "syslog-356.50.1"
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-790.50.6",
-			"updated": true
+			"tag": "system_cmds-790.50.6"
 		},
 		{
 			"project": "system_config",
-			"tag": "system_config-55.50.1",
-			"updated": true
+			"tag": "system_config-55.50.1"
 		},
 		{
 			"project": "tcl",
-			"tag": "tcl-118.50.1",
-			"updated": true
+			"tag": "tcl-118.50.1"
 		},
 		{
 			"project": "tcpdump",
-			"tag": "tcpdump-83.50.1",
-			"updated": true
+			"tag": "tcpdump-83.50.1"
 		},
 		{
 			"project": "tcsh",
@@ -843,8 +793,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-70.50.1",
-			"updated": true
+			"tag": "vim-70.50.1"
 		},
 		{
 			"project": "webdavfs",
@@ -856,7 +805,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-4570.51.1",
+			"tag": "xnu-4570.61.1",
 			"updated": true
 		},
 		{
