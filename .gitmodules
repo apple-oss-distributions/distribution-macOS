@@ -79,9 +79,6 @@
 [submodule "bootp"]
 	path = bootp
 	url = https://github.com/apple-oss-distributions/bootp
-[submodule "cctools"]
-	path = cctools
-	url = https://github.com/apple-oss-distributions/cctools
 [submodule "configd"]
 	path = configd
 	url = https://github.com/apple-oss-distributions/configd

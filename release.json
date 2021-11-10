@@ -1,6 +1,6 @@
 {
 	"major_release": "OS X 10.10",
-	"release": "OS X 10.10",
+	"release": "OS X 10.10.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -264,7 +264,8 @@
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7600.1.25"
+			"tag": "WebCore-7600.1.25.2",
+			"updated": true
 		},
 		{
 			"project": "WebInspectorUI",
@@ -345,10 +346,6 @@
 		{
 			"project": "bzip2",
 			"tag": "bzip2-36"
-		},
-		{
-			"project": "cctools",
-			"tag": "cctools-862"
 		},
 		{
 			"project": "cddafs",
