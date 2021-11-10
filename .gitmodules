@@ -970,9 +970,96 @@
 [submodule "security_dotmac_tp"]
 	path = security_dotmac_tp
 	url = https://github.com/apple-oss-distributions/security_dotmac_tp
-[submodule "libstdcxx"]
-	path = libstdcxx
-	url = https://github.com/apple-oss-distributions/libstdcxx
-[submodule "nasm"]
-	path = nasm
-	url = https://github.com/apple-oss-distributions/nasm
+[submodule "Apple16X50Serial"]
+	path = Apple16X50Serial
+	url = https://github.com/apple-oss-distributions/Apple16X50Serial
+[submodule "AppleAC97Audio"]
+	path = AppleAC97Audio
+	url = https://github.com/apple-oss-distributions/AppleAC97Audio
+[submodule "AppleAPIC"]
+	path = AppleAPIC
+	url = https://github.com/apple-oss-distributions/AppleAPIC
+[submodule "AppleFileSystemDriver"]
+	path = AppleFileSystemDriver
+	url = https://github.com/apple-oss-distributions/AppleFileSystemDriver
+[submodule "AppleI386GenericPlatform"]
+	path = AppleI386GenericPlatform
+	url = https://github.com/apple-oss-distributions/AppleI386GenericPlatform
+[submodule "AppleIntelPIIXATA"]
+	path = AppleIntelPIIXATA
+	url = https://github.com/apple-oss-distributions/AppleIntelPIIXATA
+[submodule "AppleOnboardAudio"]
+	path = AppleOnboardAudio
+	url = https://github.com/apple-oss-distributions/AppleOnboardAudio
+[submodule "ApplePS2Controller"]
+	path = ApplePS2Controller
+	url = https://github.com/apple-oss-distributions/ApplePS2Controller
+[submodule "ApplePS2Keyboard"]
+	path = ApplePS2Keyboard
+	url = https://github.com/apple-oss-distributions/ApplePS2Keyboard
+[submodule "ApplePS2Mouse"]
+	path = ApplePS2Mouse
+	url = https://github.com/apple-oss-distributions/ApplePS2Mouse
+[submodule "ApplePS2Trackpad"]
+	path = ApplePS2Trackpad
+	url = https://github.com/apple-oss-distributions/ApplePS2Trackpad
+[submodule "AppleRAID"]
+	path = AppleRAID
+	url = https://github.com/apple-oss-distributions/AppleRAID
+[submodule "AppleSMBIOS"]
+	path = AppleSMBIOS
+	url = https://github.com/apple-oss-distributions/AppleSMBIOS
+[submodule "IOAudioFamily"]
+	path = IOAudioFamily
+	url = https://github.com/apple-oss-distributions/IOAudioFamily
+[submodule "IOFireWireAVC"]
+	path = IOFireWireAVC
+	url = https://github.com/apple-oss-distributions/IOFireWireAVC
+[submodule "IOFireWireFamily"]
+	path = IOFireWireFamily
+	url = https://github.com/apple-oss-distributions/IOFireWireFamily
+[submodule "IOFireWireIP"]
+	path = IOFireWireIP
+	url = https://github.com/apple-oss-distributions/IOFireWireIP
+[submodule "IOFireWireSBP2"]
+	path = IOFireWireSBP2
+	url = https://github.com/apple-oss-distributions/IOFireWireSBP2
+[submodule "IOGraphics"]
+	path = IOGraphics
+	url = https://github.com/apple-oss-distributions/IOGraphics
+[submodule "IOHIDFamily"]
+	path = IOHIDFamily
+	url = https://github.com/apple-oss-distributions/IOHIDFamily
+[submodule "IONetworkingFamily"]
+	path = IONetworkingFamily
+	url = https://github.com/apple-oss-distributions/IONetworkingFamily
+[submodule "IOPCIFamily"]
+	path = IOPCIFamily
+	url = https://github.com/apple-oss-distributions/IOPCIFamily
+[submodule "IOSCSIParallelFamily"]
+	path = IOSCSIParallelFamily
+	url = https://github.com/apple-oss-distributions/IOSCSIParallelFamily
+[submodule "IOUSBFamily"]
+	path = IOUSBFamily
+	url = https://github.com/apple-oss-distributions/IOUSBFamily
+[submodule "SmartCardServices"]
+	path = SmartCardServices
+	url = https://github.com/apple-oss-distributions/SmartCardServices
+[submodule "cddafs"]
+	path = cddafs
+	url = https://github.com/apple-oss-distributions/cddafs
+[submodule "lsof"]
+	path = lsof
+	url = https://github.com/apple-oss-distributions/lsof
+[submodule "msdosfs"]
+	path = msdosfs
+	url = https://github.com/apple-oss-distributions/msdosfs
+[submodule "smb"]
+	path = smb
+	url = https://github.com/apple-oss-distributions/smb
+[submodule "webdavfs"]
+	path = webdavfs
+	url = https://github.com/apple-oss-distributions/webdavfs
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
