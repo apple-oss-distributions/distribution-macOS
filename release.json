@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 10.12",
-	"release": "macOS 10.12.5",
+	"release": "macOS 10.12.6",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -52,8 +52,7 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-288.60.1",
-			"updated": true
+			"tag": "DiskArbitration-288.60.1"
 		},
 		{
 			"project": "Heimdal",
@@ -61,7 +60,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-57165.0.1",
+			"tag": "ICU-57166.0.1",
 			"updated": true
 		},
 		{
@@ -114,13 +113,11 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-515.3",
-			"updated": true
+			"tag": "IOGraphics-515.3"
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-870.60.4",
-			"updated": true
+			"tag": "IOHIDFamily-870.60.4"
 		},
 		{
 			"project": "IOKitTools",
@@ -128,8 +125,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1324.60.3",
-			"updated": true
+			"tag": "IOKitUser-1324.60.3"
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -153,12 +149,11 @@
 		},
 		{
 			"project": "IOUSBMassStorageClass",
-			"tag": "IOUSBMassStorageClass-406.60.1",
-			"updated": true
+			"tag": "IOUSBMassStorageClass-406.60.1"
 		},
 		{
 			"project": "JavaScriptCore",
-			"tag": "JavaScriptCore-7603.2.4",
+			"tag": "JavaScriptCore-7603.3.8",
 			"updated": true
 		},
 		{
@@ -183,8 +178,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-1238.60.2",
-			"updated": true
+			"tag": "Libsystem-1238.60.2"
 		},
 		{
 			"project": "Liby",
@@ -224,8 +218,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-637.60.1",
-			"updated": true
+			"tag": "PowerManagement-637.60.1"
 		},
 		{
 			"project": "RubyGems",
@@ -233,8 +226,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-57740.60.18",
-			"updated": true
+			"tag": "Security-57740.60.18"
 		},
 		{
 			"project": "SecurityTokend",
@@ -246,8 +238,7 @@
 		},
 		{
 			"project": "TimeZoneData",
-			"tag": "TimeZoneData-84",
-			"updated": true
+			"tag": "TimeZoneData-84"
 		},
 		{
 			"project": "UserNotification",
@@ -255,27 +246,27 @@
 		},
 		{
 			"project": "WTF",
-			"tag": "WTF-7603.2.4",
+			"tag": "WTF-7603.3.8",
 			"updated": true
 		},
 		{
 			"project": "WebCore",
-			"tag": "WebCore-7603.2.4",
+			"tag": "WebCore-7603.3.8",
 			"updated": true
 		},
 		{
 			"project": "WebInspectorUI",
-			"tag": "WebInspectorUI-7603.2.4",
+			"tag": "WebInspectorUI-7603.3.8",
 			"updated": true
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7603.2.4",
+			"tag": "WebKit-7603.3.8",
 			"updated": true
 		},
 		{
 			"project": "WebKit2",
-			"tag": "WebKit2-7603.2.4",
+			"tag": "WebKit2-7603.3.8",
 			"updated": true
 		},
 		{
@@ -332,12 +323,11 @@
 		},
 		{
 			"project": "bless",
-			"tag": "bless-134",
-			"updated": true
+			"tag": "bless-134"
 		},
 		{
 			"project": "bmalloc",
-			"tag": "bmalloc-7603.2.4",
+			"tag": "bmalloc-7603.3.8",
 			"updated": true
 		},
 		{
@@ -358,8 +348,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-888.60.2",
-			"updated": true
+			"tag": "configd-888.60.2"
 		},
 		{
 			"project": "copyfile",
@@ -383,7 +372,8 @@
 		},
 		{
 			"project": "curl",
-			"tag": "curl-95.50.2"
+			"tag": "curl-95.70.1",
+			"updated": true
 		},
 		{
 			"project": "cxxfilt",
@@ -415,8 +405,7 @@
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-246.60.2",
-			"updated": true
+			"tag": "eap8021x-246.60.2"
 		},
 		{
 			"project": "emacs",
@@ -468,7 +457,8 @@
 		},
 		{
 			"project": "hfs",
-			"tag": "hfs-366.50.19"
+			"tag": "hfs-366.70.1",
+			"updated": true
 		},
 		{
 			"project": "hunspell",
@@ -484,7 +474,7 @@
 		},
 		{
 			"project": "kext_tools",
-			"tag": "kext_tools-460.61.1",
+			"tag": "kext_tools-460.70.2",
 			"updated": true
 		},
 		{
@@ -501,7 +491,8 @@
 		},
 		{
 			"project": "libarchive",
-			"tag": "libarchive-41.50.2"
+			"tag": "libarchive-41.70.1",
+			"updated": true
 		},
 		{
 			"project": "libauto",
@@ -549,8 +540,7 @@
 		},
 		{
 			"project": "libpthread",
-			"tag": "libpthread-218.60.3",
-			"updated": true
+			"tag": "libpthread-218.60.3"
 		},
 		{
 			"project": "libresolv",
@@ -578,7 +568,7 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-30.16",
+			"tag": "libxml2-30.17",
 			"updated": true
 		},
 		{
@@ -651,12 +641,12 @@
 		},
 		{
 			"project": "ntp",
-			"tag": "ntp-124.60.2",
-			"updated": true
+			"tag": "ntp-124.60.2"
 		},
 		{
 			"project": "objc4",
-			"tag": "objc4-709"
+			"tag": "objc4-709.1",
+			"updated": true
 		},
 		{
 			"project": "pam_modules",
@@ -780,8 +770,7 @@
 		},
 		{
 			"project": "tcpdump",
-			"tag": "tcpdump-79.60.1",
-			"updated": true
+			"tag": "tcpdump-79.60.1"
 		},
 		{
 			"project": "tcsh",
@@ -817,8 +806,7 @@
 		},
 		{
 			"project": "webdavfs",
-			"tag": "webdavfs-373.60.2",
-			"updated": true
+			"tag": "webdavfs-373.60.2"
 		},
 		{
 			"project": "xar",
@@ -826,7 +814,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-3789.60.24",
+			"tag": "xnu-3789.70.16",
 			"updated": true
 		},
 		{
