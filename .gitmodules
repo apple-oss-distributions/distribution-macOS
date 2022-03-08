@@ -1,6 +1,3 @@
-[submodule "CoreOSMakefiles"]
-	path = CoreOSMakefiles
-	url = https://github.com/apple-oss-distributions/CoreOSMakefiles
 [submodule "Csu"]
 	path = Csu
 	url = https://github.com/apple-oss-distributions/Csu
@@ -22,12 +19,6 @@
 [submodule "Libc"]
 	path = Libc
 	url = https://github.com/apple-oss-distributions/Libc
-[submodule "Libcompat"]
-	path = Libcompat
-	url = https://github.com/apple-oss-distributions/Libcompat
-[submodule "Libcurses"]
-	path = Libcurses
-	url = https://github.com/apple-oss-distributions/Libcurses
 [submodule "Libinfo"]
 	path = Libinfo
 	url = https://github.com/apple-oss-distributions/Libinfo
@@ -52,15 +43,6 @@
 [submodule "apache"]
 	path = apache
 	url = https://github.com/apple-oss-distributions/apache
-[submodule "apache_mod_dav"]
-	path = apache_mod_dav
-	url = https://github.com/apple-oss-distributions/apache_mod_dav
-[submodule "apache_mod_php"]
-	path = apache_mod_php
-	url = https://github.com/apple-oss-distributions/apache_mod_php
-[submodule "apache_mod_ssl"]
-	path = apache_mod_ssl
-	url = https://github.com/apple-oss-distributions/apache_mod_ssl
 [submodule "architecture"]
 	path = architecture
 	url = https://github.com/apple-oss-distributions/architecture
@@ -79,9 +61,6 @@
 [submodule "configd"]
 	path = configd
 	url = https://github.com/apple-oss-distributions/configd
-[submodule "configd_plugins"]
-	path = configd_plugins
-	url = https://github.com/apple-oss-distributions/configd_plugins
 [submodule "cron"]
 	path = cron
 	url = https://github.com/apple-oss-distributions/cron
@@ -103,9 +82,6 @@
 [submodule "gnutar"]
 	path = gnutar
 	url = https://github.com/apple-oss-distributions/gnutar
-[submodule "gnuzip"]
-	path = gnuzip
-	url = https://github.com/apple-oss-distributions/gnuzip
 [submodule "groff"]
 	path = groff
 	url = https://github.com/apple-oss-distributions/groff
@@ -133,21 +109,12 @@
 [submodule "patch_cmds"]
 	path = patch_cmds
 	url = https://github.com/apple-oss-distributions/patch_cmds
-[submodule "pb_makefiles"]
-	path = pb_makefiles
-	url = https://github.com/apple-oss-distributions/pb_makefiles
-[submodule "pbx_jamfiles"]
-	path = pbx_jamfiles
-	url = https://github.com/apple-oss-distributions/pbx_jamfiles
 [submodule "perl"]
 	path = perl
 	url = https://github.com/apple-oss-distributions/perl
 [submodule "ppp"]
 	path = ppp
 	url = https://github.com/apple-oss-distributions/ppp
-[submodule "project_makefiles"]
-	path = project_makefiles
-	url = https://github.com/apple-oss-distributions/project_makefiles
 [submodule "rsync"]
 	path = rsync
 	url = https://github.com/apple-oss-distributions/rsync
@@ -241,9 +208,6 @@
 [submodule "bash"]
 	path = bash
 	url = https://github.com/apple-oss-distributions/bash
-[submodule "bsdmanpages"]
-	path = bsdmanpages
-	url = https://github.com/apple-oss-distributions/bsdmanpages
 [submodule "bzip2"]
 	path = bzip2
 	url = https://github.com/apple-oss-distributions/bzip2
@@ -304,33 +268,9 @@
 [submodule "IOSCSIParallelFamily"]
 	path = IOSCSIParallelFamily
 	url = https://github.com/apple-oss-distributions/IOSCSIParallelFamily
-[submodule "JavaScriptCore"]
-	path = JavaScriptCore
-	url = https://github.com/apple-oss-distributions/JavaScriptCore
 [submodule "Libnotify"]
 	path = Libnotify
 	url = https://github.com/apple-oss-distributions/Libnotify
-[submodule "SecurityNssAsn1"]
-	path = SecurityNssAsn1
-	url = https://github.com/apple-oss-distributions/SecurityNssAsn1
-[submodule "SecurityNssPkcs12"]
-	path = SecurityNssPkcs12
-	url = https://github.com/apple-oss-distributions/SecurityNssPkcs12
-[submodule "SecurityNssSmime"]
-	path = SecurityNssSmime
-	url = https://github.com/apple-oss-distributions/SecurityNssSmime
-[submodule "SecurityTool"]
-	path = SecurityTool
-	url = https://github.com/apple-oss-distributions/SecurityTool
-[submodule "WebCore"]
-	path = WebCore
-	url = https://github.com/apple-oss-distributions/WebCore
-[submodule "apache2"]
-	path = apache2
-	url = https://github.com/apple-oss-distributions/apache2
-[submodule "apache_mod_rendezvous_apple"]
-	path = apache_mod_rendezvous_apple
-	url = https://github.com/apple-oss-distributions/apache_mod_rendezvous_apple
 [submodule "bind9"]
 	path = bind9
 	url = https://github.com/apple-oss-distributions/bind9
@@ -355,9 +295,6 @@
 [submodule "libxml2"]
 	path = libxml2
 	url = https://github.com/apple-oss-distributions/libxml2
-[submodule "mailman"]
-	path = mailman
-	url = https://github.com/apple-oss-distributions/mailman
 [submodule "netcat"]
 	path = netcat
 	url = https://github.com/apple-oss-distributions/netcat
@@ -385,9 +322,6 @@
 [submodule "CommonCrypto"]
 	path = CommonCrypto
 	url = https://github.com/apple-oss-distributions/CommonCrypto
-[submodule "Libcpp_kext"]
-	path = Libcpp_kext
-	url = https://github.com/apple-oss-distributions/Libcpp_kext
 [submodule "NFS"]
 	path = NFS
 	url = https://github.com/apple-oss-distributions/NFS
@@ -415,18 +349,6 @@
 [submodule "libfs"]
 	path = libfs
 	url = https://github.com/apple-oss-distributions/libfs
-[submodule "libsecurity_apple_file_dl"]
-	path = libsecurity_apple_file_dl
-	url = https://github.com/apple-oss-distributions/libsecurity_apple_file_dl
-[submodule "libsecurity_filedb"]
-	path = libsecurity_filedb
-	url = https://github.com/apple-oss-distributions/libsecurity_filedb
-[submodule "libsecurity_manifest"]
-	path = libsecurity_manifest
-	url = https://github.com/apple-oss-distributions/libsecurity_manifest
-[submodule "libsecurity_ocspd"]
-	path = libsecurity_ocspd
-	url = https://github.com/apple-oss-distributions/libsecurity_ocspd
 [submodule "libxslt"]
 	path = libxslt
 	url = https://github.com/apple-oss-distributions/libxslt
@@ -439,9 +361,6 @@
 [submodule "nano"]
 	path = nano
 	url = https://github.com/apple-oss-distributions/nano
-[submodule "old_ncurses"]
-	path = old_ncurses
-	url = https://github.com/apple-oss-distributions/old_ncurses
 [submodule "pdisk"]
 	path = pdisk
 	url = https://github.com/apple-oss-distributions/pdisk
@@ -475,9 +394,6 @@
 [submodule "CPAN"]
 	path = CPAN
 	url = https://github.com/apple-oss-distributions/CPAN
-[submodule "CPANInternal"]
-	path = CPANInternal
-	url = https://github.com/apple-oss-distributions/CPANInternal
 [submodule "CrackLib"]
 	path = CrackLib
 	url = https://github.com/apple-oss-distributions/CrackLib
@@ -493,21 +409,6 @@
 [submodule "TimeZoneData"]
 	path = TimeZoneData
 	url = https://github.com/apple-oss-distributions/TimeZoneData
-[submodule "apache1"]
-	path = apache1
-	url = https://github.com/apple-oss-distributions/apache1
-[submodule "apache_mod_bonjour"]
-	path = apache_mod_bonjour
-	url = https://github.com/apple-oss-distributions/apache_mod_bonjour
-[submodule "apache_mod_fastcgi"]
-	path = apache_mod_fastcgi
-	url = https://github.com/apple-oss-distributions/apache_mod_fastcgi
-[submodule "apache_mod_perl1"]
-	path = apache_mod_perl1
-	url = https://github.com/apple-oss-distributions/apache_mod_perl1
-[submodule "apache_mod_php4"]
-	path = apache_mod_php4
-	url = https://github.com/apple-oss-distributions/apache_mod_php4
 [submodule "apr"]
 	path = apr
 	url = https://github.com/apple-oss-distributions/apr
@@ -532,27 +433,15 @@
 [submodule "libresolv"]
 	path = libresolv
 	url = https://github.com/apple-oss-distributions/libresolv
-[submodule "libsecurity_filevault"]
-	path = libsecurity_filevault
-	url = https://github.com/apple-oss-distributions/libsecurity_filevault
 [submodule "libstdcxx"]
 	path = libstdcxx
 	url = https://github.com/apple-oss-distributions/libstdcxx
-[submodule "libstdcxx_SUPanWheat"]
-	path = libstdcxx_SUPanWheat
-	url = https://github.com/apple-oss-distributions/libstdcxx_SUPanWheat
 [submodule "libutil"]
 	path = libutil
 	url = https://github.com/apple-oss-distributions/libutil
 [submodule "pyobjc"]
 	path = pyobjc
 	url = https://github.com/apple-oss-distributions/pyobjc
-[submodule "python23"]
-	path = python23
-	url = https://github.com/apple-oss-distributions/python23
-[submodule "python_dateutil"]
-	path = python_dateutil
-	url = https://github.com/apple-oss-distributions/python_dateutil
 [submodule "python_modules"]
 	path = python_modules
 	url = https://github.com/apple-oss-distributions/python_modules
@@ -562,12 +451,6 @@
 [submodule "removefile"]
 	path = removefile
 	url = https://github.com/apple-oss-distributions/removefile
-[submodule "ruby_dnssd"]
-	path = ruby_dnssd
-	url = https://github.com/apple-oss-distributions/ruby_dnssd
-[submodule "ruby_libxml"]
-	path = ruby_libxml
-	url = https://github.com/apple-oss-distributions/ruby_libxml
 [submodule "swig"]
 	path = swig
 	url = https://github.com/apple-oss-distributions/swig
@@ -613,27 +496,12 @@
 [submodule "SmartcardCCID"]
 	path = SmartcardCCID
 	url = https://github.com/apple-oss-distributions/SmartcardCCID
-[submodule "apache_mod_bw"]
-	path = apache_mod_bw
-	url = https://github.com/apple-oss-distributions/apache_mod_bw
-[submodule "apache_mod_encoding2"]
-	path = apache_mod_encoding2
-	url = https://github.com/apple-oss-distributions/apache_mod_encoding2
-[submodule "apache_mod_jk"]
-	path = apache_mod_jk
-	url = https://github.com/apple-oss-distributions/apache_mod_jk
-[submodule "apache_mod_python"]
-	path = apache_mod_python
-	url = https://github.com/apple-oss-distributions/apache_mod_python
 [submodule "dcerpc"]
 	path = dcerpc
 	url = https://github.com/apple-oss-distributions/dcerpc
 [submodule "gpatch"]
 	path = gpatch
 	url = https://github.com/apple-oss-distributions/gpatch
-[submodule "libcppabi"]
-	path = libcppabi
-	url = https://github.com/apple-oss-distributions/libcppabi
 [submodule "libunwind"]
 	path = libunwind
 	url = https://github.com/apple-oss-distributions/libunwind
@@ -643,24 +511,12 @@
 [submodule "OpenAL"]
 	path = OpenAL
 	url = https://github.com/apple-oss-distributions/OpenAL
-[submodule "WebKit2"]
-	path = WebKit2
-	url = https://github.com/apple-oss-distributions/WebKit2
 [submodule "libsecurity_ldap_dl"]
 	path = libsecurity_ldap_dl
 	url = https://github.com/apple-oss-distributions/libsecurity_ldap_dl
 [submodule "OpenSSL098"]
 	path = OpenSSL098
 	url = https://github.com/apple-oss-distributions/OpenSSL098
-[submodule "WTF"]
-	path = WTF
-	url = https://github.com/apple-oss-distributions/WTF
-[submodule "WebInspectorUI"]
-	path = WebInspectorUI
-	url = https://github.com/apple-oss-distributions/WebInspectorUI
-[submodule "bmalloc"]
-	path = bmalloc
-	url = https://github.com/apple-oss-distributions/bmalloc
 [submodule "libmalloc"]
 	path = libmalloc
 	url = https://github.com/apple-oss-distributions/libmalloc
@@ -673,9 +529,6 @@
 [submodule "libplatform"]
 	path = libplatform
 	url = https://github.com/apple-oss-distributions/libplatform
-[submodule "mDNSResponder"]
-	path = mDNSResponder
-	url = https://github.com/apple-oss-distributions/mDNSResponder
 [submodule "libpcap"]
 	path = libpcap
 	url = https://github.com/apple-oss-distributions/libpcap
@@ -685,3 +538,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/apple-oss-distributions/subversion
+[submodule "SMBClient"]
+	path = SMBClient
+	url = https://github.com/apple-oss-distributions/SMBClient
