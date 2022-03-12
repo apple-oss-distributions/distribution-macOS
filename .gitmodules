@@ -1,6 +1,3 @@
-[submodule "Csu"]
-	path = Csu
-	url = https://github.com/apple-oss-distributions/Csu
 [submodule "DiskArbitration"]
 	path = DiskArbitration
 	url = https://github.com/apple-oss-distributions/DiskArbitration
@@ -91,9 +88,6 @@
 [submodule "less"]
 	path = less
 	url = https://github.com/apple-oss-distributions/less
-[submodule "libtelnet"]
-	path = libtelnet
-	url = https://github.com/apple-oss-distributions/libtelnet
 [submodule "mail_cmds"]
 	path = mail_cmds
 	url = https://github.com/apple-oss-distributions/mail_cmds
@@ -535,9 +529,9 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
-[submodule "subversion"]
-	path = subversion
-	url = https://github.com/apple-oss-distributions/subversion
 [submodule "SMBClient"]
 	path = SMBClient
 	url = https://github.com/apple-oss-distributions/SMBClient
+[submodule "mDNSResponder"]
+	path = mDNSResponder
+	url = https://github.com/apple-oss-distributions//mDNSResponder
