@@ -534,4 +534,4 @@
 	url = https://github.com/apple-oss-distributions/SMBClient
 [submodule "mDNSResponder"]
 	path = mDNSResponder
-	url = https://github.com/apple-oss-distributions//mDNSResponder
+	url = https://github.com/apple-oss-distributions/mDNSResponder

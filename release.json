@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 12",
-	"release": "macOS 12.1",
+	"release": "macOS 12.2",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-101.7",
+			"tag": "AvailabilityVersions-102.3",
 			"updated": true
 		},
 		{
@@ -100,7 +100,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-1787.61.2",
+			"tag": "IOHIDFamily-1787.80.3",
 			"updated": true
 		},
 		{
@@ -109,7 +109,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1955.60.2",
+			"tag": "IOKitUser-1955.80.2",
 			"updated": true
 		},
 		{
@@ -118,7 +118,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-484.60.4",
+			"tag": "IOPCIFamily-484.80.3",
 			"updated": true
 		},
 		{
@@ -188,7 +188,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1303.60.7",
+			"tag": "PowerManagement-1303.80.3",
 			"updated": true
 		},
 		{
@@ -201,7 +201,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-60157.60.19",
+			"tag": "Security-60157.80.4",
 			"updated": true
 		},
 		{
@@ -222,7 +222,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7612.3.6.1.6",
+			"tag": "WebKit-7612.4.9.1.5",
 			"updated": true
 		},
 		{
@@ -276,7 +276,7 @@
 		},
 		{
 			"project": "bless",
-			"tag": "bless-246.60.2",
+			"tag": "bless-246.81.2",
 			"updated": true
 		},
 		{
@@ -297,7 +297,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1163.60.3",
+			"tag": "configd-1163.80.2",
 			"updated": true
 		},
 		{
@@ -323,7 +323,8 @@
 		},
 		{
 			"project": "dcerpc",
-			"tag": "dcerpc-72"
+			"tag": "dcerpc-74",
+			"updated": true
 		},
 		{
 			"project": "diskdev_cmds",
@@ -343,7 +344,7 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-941.4",
+			"tag": "dyld-941.5",
 			"updated": true
 		},
 		{
@@ -514,7 +515,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-1556.60.9",
+			"tag": "mDNSResponder-1556.80.2",
 			"updated": true
 		},
 		{
@@ -535,7 +536,8 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-466"
+			"tag": "msdosfs-466.80.2",
+			"updated": true
 		},
 		{
 			"project": "nano",
@@ -604,7 +606,8 @@
 		},
 		{
 			"project": "python",
-			"tag": "python-170.40.2"
+			"tag": "python-170.80.2",
+			"updated": true
 		},
 		{
 			"project": "python_modules",
@@ -637,7 +640,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55218.60.4",
+			"tag": "security_certificates-55218.80.3",
 			"updated": true
 		},
 		{
@@ -733,7 +736,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-8019.61.5",
+			"tag": "xnu-8019.80.24",
 			"updated": true
 		},
 		{
