@@ -352,9 +352,6 @@
 [submodule "modemccl"]
 	path = modemccl
 	url = https://github.com/apple-oss-distributions/modemccl
-[submodule "nano"]
-	path = nano
-	url = https://github.com/apple-oss-distributions/nano
 [submodule "pdisk"]
 	path = pdisk
 	url = https://github.com/apple-oss-distributions/pdisk
@@ -496,9 +493,6 @@
 [submodule "gpatch"]
 	path = gpatch
 	url = https://github.com/apple-oss-distributions/gpatch
-[submodule "libunwind"]
-	path = libunwind
-	url = https://github.com/apple-oss-distributions/libunwind
 [submodule "AvailabilityVersions"]
 	path = AvailabilityVersions
 	url = https://github.com/apple-oss-distributions/AvailabilityVersions
