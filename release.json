@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 12",
-	"release": "macOS 12.3",
+	"release": "macOS 12.4",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-106.1",
+			"tag": "AvailabilityVersions-106.2",
 			"updated": true
 		},
 		{
@@ -42,7 +42,7 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-367.101.3"
+			"tag": "DiskArbitration-367.120.4"
 		},
 		{
 			"project": "Heimdal",
@@ -51,7 +51,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-70104",
+			"tag": "ICU-70104.2",
 			"updated": true
 		},
 		{
@@ -80,7 +80,7 @@
 		},
 		{
 			"project": "IOFireWireAVC",
-			"tag": "IOFireWireAVC-430"
+			"tag": "IOFireWireAVC-431"
 		},
 		{
 			"project": "IOFireWireFamily",
@@ -96,11 +96,11 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-594"
+			"tag": "IOGraphics-596.1"
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-1787.100.13",
+			"tag": "IOHIDFamily-1787.120.4",
 			"updated": true
 		},
 		{
@@ -109,7 +109,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1955.100.5",
+			"tag": "IOKitUser-1955.121.2",
 			"updated": true
 		},
 		{
@@ -118,7 +118,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-484.101.2",
+			"tag": "IOPCIFamily-484.120.3",
 			"updated": true
 		},
 		{
@@ -139,7 +139,7 @@
 		},
 		{
 			"project": "Libinfo",
-			"tag": "Libinfo-554"
+			"tag": "Libinfo-554.120.2"
 		},
 		{
 			"project": "Libnotify",
@@ -151,7 +151,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-1311.100.3"
+			"tag": "Libsystem-1311.120.1"
 		},
 		{
 			"project": "Liby",
@@ -183,12 +183,12 @@
 		},
 		{
 			"project": "OpenSSL098",
-			"tag": "OpenSSL098-84",
+			"tag": "OpenSSL098-84.120.1",
 			"updated": true
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1303.100.43",
+			"tag": "PowerManagement-1303.120.4",
 			"updated": true
 		},
 		{
@@ -197,11 +197,11 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-287.101.2"
+			"tag": "SMBClient-287.120.5"
 		},
 		{
 			"project": "Security",
-			"tag": "Security-60158.100.133",
+			"tag": "Security-60158.120.9",
 			"updated": true
 		},
 		{
@@ -222,7 +222,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7613.1.17.1.6",
+			"tag": "WebKit-7613.2.7.1.8",
 			"updated": true
 		},
 		{
@@ -231,7 +231,7 @@
 		},
 		{
 			"project": "apache",
-			"tag": "apache-863",
+			"tag": "apache-864",
 			"updated": true
 		},
 		{
@@ -276,7 +276,7 @@
 		},
 		{
 			"project": "bless",
-			"tag": "bless-246.101.2",
+			"tag": "bless-246.120.6",
 			"updated": true
 		},
 		{
@@ -297,7 +297,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1163.100.19.0.2",
+			"tag": "configd-1163.120.3",
 			"updated": true
 		},
 		{
@@ -315,7 +315,7 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-499.3"
+			"tag": "cups-499.4"
 		},
 		{
 			"project": "curl",
@@ -328,7 +328,7 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-685.101.3"
+			"tag": "diskdev_cmds-685.120.3"
 		},
 		{
 			"project": "disklabel",
@@ -340,11 +340,11 @@
 		},
 		{
 			"project": "dtrace",
-			"tag": "dtrace-375"
+			"tag": "dtrace-375.120.1"
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-955",
+			"tag": "dyld-957",
 			"updated": true
 		},
 		{
@@ -436,7 +436,7 @@
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-1325.100.36",
+			"tag": "libdispatch-1325.120.2",
 			"updated": true
 		},
 		{
@@ -461,7 +461,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-374.100.5",
+			"tag": "libmalloc-374.120.1",
 			"updated": true
 		},
 		{
@@ -479,7 +479,7 @@
 		},
 		{
 			"project": "libresolv",
-			"tag": "libresolv-68"
+			"tag": "libresolv-68.120.2"
 		},
 		{
 			"project": "libsecurity_ldap_dl",
@@ -495,7 +495,7 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-35.6"
+			"tag": "libxml2-35.9"
 		},
 		{
 			"project": "libxslt",
@@ -511,7 +511,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-1557.101.2",
+			"tag": "mDNSResponder-1557.120.7",
 			"updated": true
 		},
 		{
@@ -632,7 +632,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55219.100.22",
+			"tag": "security_certificates-55219.120.4",
 			"updated": true
 		},
 		{
@@ -678,7 +678,7 @@
 		},
 		{
 			"project": "tcl",
-			"tag": "tcl-134"
+			"tag": "tcl-134.121.2"
 		},
 		{
 			"project": "tcpdump",
@@ -728,20 +728,20 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-8020.101.4",
+			"tag": "xnu-8020.121.3",
 			"updated": true
 		},
 		{
 			"project": "zip",
-			"tag": "zip-18"
+			"tag": "zip-19"
 		},
 		{
 			"project": "zlib",
-			"tag": "zlib-77"
+			"tag": "zlib-77.120.1"
 		},
 		{
 			"project": "zsh",
-			"tag": "zsh-90"
+			"tag": "zsh-92"
 		}
 	]
 }
