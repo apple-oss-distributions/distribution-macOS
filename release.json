@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 12",
-	"release": "macOS 12.4",
+	"release": "macOS 12.5",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-106.2",
+			"tag": "AvailabilityVersions-106.3",
 			"updated": true
 		},
 		{
@@ -42,7 +42,8 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-367.120.4"
+			"tag": "DiskArbitration-367.120.4.0.1",
+			"updated": true
 		},
 		{
 			"project": "Heimdal",
@@ -51,7 +52,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-70104.2",
+			"tag": "ICU-70104.3",
 			"updated": true
 		},
 		{
@@ -100,7 +101,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-1787.120.4",
+			"tag": "IOHIDFamily-1787.140.2",
 			"updated": true
 		},
 		{
@@ -109,7 +110,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-1955.121.2",
+			"tag": "IOKitUser-1955.140.2",
 			"updated": true
 		},
 		{
@@ -118,7 +119,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-484.120.3",
+			"tag": "IOPCIFamily-484.140.2",
 			"updated": true
 		},
 		{
@@ -188,7 +189,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1303.120.4",
+			"tag": "PowerManagement-1303.140.2",
 			"updated": true
 		},
 		{
@@ -197,11 +198,12 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-287.120.5"
+			"tag": "SMBClient-287.140.4",
+			"updated": true
 		},
 		{
 			"project": "Security",
-			"tag": "Security-60158.120.9",
+			"tag": "Security-60158.140.3",
 			"updated": true
 		},
 		{
@@ -222,7 +224,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7613.2.7.1.8",
+			"tag": "WebKit-7613.3.9.1.5",
 			"updated": true
 		},
 		{
@@ -297,7 +299,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1163.120.3",
+			"tag": "configd-1163.140.3",
 			"updated": true
 		},
 		{
@@ -344,12 +346,12 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-957",
+			"tag": "dyld-960",
 			"updated": true
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-315.100.2",
+			"tag": "eap8021x-315.140.2",
 			"updated": true
 		},
 		{
@@ -366,7 +368,8 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-873.100.6"
+			"tag": "files-873.140.2",
+			"updated": true
 		},
 		{
 			"project": "gnudiff",
@@ -479,7 +482,8 @@
 		},
 		{
 			"project": "libresolv",
-			"tag": "libresolv-68.120.2"
+			"tag": "libresolv-68.140.2",
+			"updated": true
 		},
 		{
 			"project": "libsecurity_ldap_dl",
@@ -495,7 +499,8 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-35.9"
+			"tag": "libxml2-35.14",
+			"updated": true
 		},
 		{
 			"project": "libxslt",
@@ -511,7 +516,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-1557.120.7",
+			"tag": "mDNSResponder-1557.140.5.0.1",
 			"updated": true
 		},
 		{
@@ -553,7 +558,8 @@
 		},
 		{
 			"project": "ntfs",
-			"tag": "ntfs-126.100.3"
+			"tag": "ntfs-126.140.2",
+			"updated": true
 		},
 		{
 			"project": "objc4",
@@ -562,7 +568,8 @@
 		},
 		{
 			"project": "pam_modules",
-			"tag": "pam_modules-191"
+			"tag": "pam_modules-191.140.2",
+			"updated": true
 		},
 		{
 			"project": "passwordserver_sasl",
@@ -632,7 +639,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55219.120.4",
+			"tag": "security_certificates-55219.140.2",
 			"updated": true
 		},
 		{
@@ -678,7 +685,8 @@
 		},
 		{
 			"project": "tcl",
-			"tag": "tcl-134.121.2"
+			"tag": "tcl-134.140.2",
+			"updated": true
 		},
 		{
 			"project": "tcpdump",
@@ -714,7 +722,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-106",
+			"tag": "vim-106.140.2",
 			"updated": true
 		},
 		{
@@ -728,7 +736,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-8020.121.3",
+			"tag": "xnu-8020.140.41",
 			"updated": true
 		},
 		{
