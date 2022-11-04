@@ -1,6 +1,3 @@
-[submodule "Csu"]
-	path = Csu
-	url = https://github.com/apple-oss-distributions/Csu
 [submodule "DiskArbitration"]
 	path = DiskArbitration
 	url = https://github.com/apple-oss-distributions/DiskArbitration
@@ -79,21 +76,12 @@
 [submodule "gnudiff"]
 	path = gnudiff
 	url = https://github.com/apple-oss-distributions/gnudiff
-[submodule "gnutar"]
-	path = gnutar
-	url = https://github.com/apple-oss-distributions/gnutar
-[submodule "groff"]
-	path = groff
-	url = https://github.com/apple-oss-distributions/groff
 [submodule "hfs"]
 	path = hfs
 	url = https://github.com/apple-oss-distributions/hfs
 [submodule "less"]
 	path = less
 	url = https://github.com/apple-oss-distributions/less
-[submodule "libtelnet"]
-	path = libtelnet
-	url = https://github.com/apple-oss-distributions/libtelnet
 [submodule "mail_cmds"]
 	path = mail_cmds
 	url = https://github.com/apple-oss-distributions/mail_cmds
@@ -250,9 +238,6 @@
 [submodule "screen"]
 	path = screen
 	url = https://github.com/apple-oss-distributions/screen
-[submodule "texinfo"]
-	path = texinfo
-	url = https://github.com/apple-oss-distributions/texinfo
 [submodule "webdavfs"]
 	path = webdavfs
 	url = https://github.com/apple-oss-distributions/webdavfs
@@ -358,9 +343,6 @@
 [submodule "modemccl"]
 	path = modemccl
 	url = https://github.com/apple-oss-distributions/modemccl
-[submodule "nano"]
-	path = nano
-	url = https://github.com/apple-oss-distributions/nano
 [submodule "pdisk"]
 	path = pdisk
 	url = https://github.com/apple-oss-distributions/pdisk
@@ -499,12 +481,6 @@
 [submodule "dcerpc"]
 	path = dcerpc
 	url = https://github.com/apple-oss-distributions/dcerpc
-[submodule "gpatch"]
-	path = gpatch
-	url = https://github.com/apple-oss-distributions/gpatch
-[submodule "libunwind"]
-	path = libunwind
-	url = https://github.com/apple-oss-distributions/libunwind
 [submodule "AvailabilityVersions"]
 	path = AvailabilityVersions
 	url = https://github.com/apple-oss-distributions/AvailabilityVersions
@@ -535,9 +511,12 @@
 [submodule "xnu"]
 	path = xnu
 	url = https://github.com/apple-oss-distributions/xnu
-[submodule "subversion"]
-	path = subversion
-	url = https://github.com/apple-oss-distributions/subversion
 [submodule "SMBClient"]
 	path = SMBClient
 	url = https://github.com/apple-oss-distributions/SMBClient
+[submodule "libmd"]
+	path = libmd
+	url = https://github.com/apple-oss-distributions/libmd
+[submodule "mDNSResponder"]
+	path = mDNSResponder
+	url = https://github.com/apple-oss-distributions/mDNSResponder
