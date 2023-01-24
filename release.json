@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 13",
-	"release": "macOS 13.1",
+	"release": "macOS 13.2",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-112"
+			"tag": "AvailabilityVersions-113"
 		},
 		{
 			"project": "BerkeleyDB",
@@ -44,7 +44,7 @@
 		},
 		{
 			"project": "Heimdal",
-			"tag": "Heimdal-659.40.3"
+			"tag": "Heimdal-659.80.2"
 		},
 		{
 			"project": "ICU",
@@ -128,7 +128,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-1534.40.2"
+			"tag": "Libc-1534.81.1"
 		},
 		{
 			"project": "Libinfo",
@@ -136,7 +136,7 @@
 		},
 		{
 			"project": "Libnotify",
-			"tag": "Libnotify-306"
+			"tag": "Libnotify-309"
 		},
 		{
 			"project": "Librpcsvc",
@@ -144,7 +144,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-1319"
+			"tag": "Libsystem-1319.81.1"
 		},
 		{
 			"project": "Liby",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1436.60.7"
+			"tag": "PowerManagement-1436.80.8"
 		},
 		{
 			"project": "RubyGems",
@@ -192,7 +192,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-60420.60.24"
+			"tag": "Security-60420.81.3"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7614.3.7.1.5"
+			"tag": "WebKit-7614.4.6.1.5"
 		},
 		{
 			"project": "adv_cmds",
@@ -268,7 +268,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-441"
+			"tag": "bootp-441.80.4"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -284,7 +284,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1241.60.3.0.1"
+			"tag": "configd-1241.80.3"
 		},
 		{
 			"project": "copyfile",
@@ -300,15 +300,15 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-506"
+			"tag": "cups-506.1"
 		},
 		{
 			"project": "curl",
-			"tag": "curl-136.60.4"
+			"tag": "curl-136.80.2"
 		},
 		{
 			"project": "dcerpc",
-			"tag": "dcerpc-78"
+			"tag": "dcerpc-82"
 		},
 		{
 			"project": "diskdev_cmds",
@@ -332,7 +332,7 @@
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-335"
+			"tag": "eap8021x-335.80.2"
 		},
 		{
 			"project": "expat",
@@ -376,7 +376,7 @@
 		},
 		{
 			"project": "ipsec",
-			"tag": "ipsec-333"
+			"tag": "ipsec-333.80.2"
 		},
 		{
 			"project": "kext_tools",
@@ -428,7 +428,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-409.60.6"
+			"tag": "libmalloc-409.81.2"
 		},
 		{
 			"project": "libmd",
@@ -464,11 +464,11 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-36.14"
+			"tag": "libxml2-36.17"
 		},
 		{
 			"project": "libxslt",
-			"tag": "libxslt-19.4"
+			"tag": "libxslt-19.7"
 		},
 		{
 			"project": "llvmCore",
@@ -480,7 +480,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-1790.60.25"
+			"tag": "mDNSResponder-1790.80.10"
 		},
 		{
 			"project": "mail_cmds",
@@ -500,7 +500,7 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-529.60.4"
+			"tag": "msdosfs-529.80.4"
 		},
 		{
 			"project": "ncurses",
@@ -516,7 +516,7 @@
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-642.60.2"
+			"tag": "network_cmds-642.80.2"
 		},
 		{
 			"project": "ntfs",
@@ -536,7 +536,7 @@
 		},
 		{
 			"project": "patch_cmds",
-			"tag": "patch_cmds-45.60.6"
+			"tag": "patch_cmds-45.80.2"
 		},
 		{
 			"project": "pcre",
@@ -556,7 +556,7 @@
 		},
 		{
 			"project": "ppp",
-			"tag": "ppp-1007"
+			"tag": "ppp-1010"
 		},
 		{
 			"project": "pyobjc",
@@ -596,7 +596,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55245.60.7"
+			"tag": "security_certificates-55245.80.2"
 		},
 		{
 			"project": "security_certtool",
@@ -672,7 +672,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-133"
+			"tag": "vim-136"
 		},
 		{
 			"project": "webdavfs",
@@ -680,11 +680,11 @@
 		},
 		{
 			"project": "xar",
-			"tag": "xar-494"
+			"tag": "xar-494.81.1"
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-8792.61.2"
+			"tag": "xnu-8792.81.2"
 		},
 		{
 			"project": "zip",
