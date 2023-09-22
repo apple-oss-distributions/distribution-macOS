@@ -73,9 +73,6 @@
 [submodule "files"]
 	path = files
 	url = https://github.com/apple-oss-distributions/files
-[submodule "gnudiff"]
-	path = gnudiff
-	url = https://github.com/apple-oss-distributions/gnudiff
 [submodule "hfs"]
 	path = hfs
 	url = https://github.com/apple-oss-distributions/hfs
@@ -415,9 +412,6 @@
 [submodule "libresolv"]
 	path = libresolv
 	url = https://github.com/apple-oss-distributions/libresolv
-[submodule "libstdcxx"]
-	path = libstdcxx
-	url = https://github.com/apple-oss-distributions/libstdcxx
 [submodule "libutil"]
 	path = libutil
 	url = https://github.com/apple-oss-distributions/libutil
