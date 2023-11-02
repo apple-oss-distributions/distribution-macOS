@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 14",
-	"release": "macOS 14.0",
+	"release": "macOS 14.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-135"
+			"tag": "AvailabilityVersions-137.4"
 		},
 		{
 			"project": "BerkeleyDB",
@@ -40,15 +40,15 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-433"
+			"tag": "DiskArbitration-435"
 		},
 		{
 			"project": "Heimdal",
-			"tag": "Heimdal-682"
+			"tag": "Heimdal-685"
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-72122"
+			"tag": "ICU-72123.15"
 		},
 		{
 			"project": "IOATAFamily",
@@ -92,11 +92,11 @@
 		},
 		{
 			"project": "IOGraphics",
-			"tag": "IOGraphics-597"
+			"tag": "IOGraphics-598"
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2008.1.1"
+			"tag": "IOHIDFamily-2008.40.6"
 		},
 		{
 			"project": "IOKitTools",
@@ -104,15 +104,15 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-100065.1.1"
+			"tag": "IOKitUser-100065.40.4"
 		},
 		{
 			"project": "IONetworkingFamily",
-			"tag": "IONetworkingFamily-175.1.1"
+			"tag": "IONetworkingFamily-177"
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-617.1.1"
+			"tag": "IOPCIFamily-617.40.5.0.1"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -128,7 +128,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-1583.0.14"
+			"tag": "Libc-1583.40.7"
 		},
 		{
 			"project": "Libinfo",
@@ -156,7 +156,7 @@
 		},
 		{
 			"project": "NFS",
-			"tag": "NFS-260.0.8"
+			"tag": "NFS-260.40.2"
 		},
 		{
 			"project": "OpenAL",
@@ -172,7 +172,7 @@
 		},
 		{
 			"project": "OpenSSH",
-			"tag": "OpenSSH-319"
+			"tag": "OpenSSH-323"
 		},
 		{
 			"project": "OpenSSL098",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1630.0.33"
+			"tag": "PowerManagement-1630.40.2"
 		},
 		{
 			"project": "RubyGems",
@@ -188,11 +188,11 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-431.0.2"
+			"tag": "SMBClient-431.40.1"
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61040.1.3"
+			"tag": "Security-61040.41.1"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7616.1.27.211.1"
+			"tag": "WebKit-7616.2.9.11.7"
 		},
 		{
 			"project": "adv_cmds",
@@ -284,7 +284,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1296.0.1"
+			"tag": "configd-1296.40.6"
 		},
 		{
 			"project": "copyfile",
@@ -328,11 +328,11 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-1122.1"
+			"tag": "dyld-1122.1.2"
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-353.0.0.0.1"
+			"tag": "eap8021x-354.40.2"
 		},
 		{
 			"project": "expat",
@@ -392,7 +392,7 @@
 		},
 		{
 			"project": "libarchive",
-			"tag": "libarchive-121"
+			"tag": "libarchive-121.40.3"
 		},
 		{
 			"project": "libclosure",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-80.1.1"
+			"tag": "libiconv-86"
 		},
 		{
 			"project": "libmalloc",
@@ -432,7 +432,7 @@
 		},
 		{
 			"project": "libpcap",
-			"tag": "libpcap-124"
+			"tag": "libpcap-126.41.1"
 		},
 		{
 			"project": "libplatform",
@@ -452,11 +452,11 @@
 		},
 		{
 			"project": "libutil",
-			"tag": "libutil-70.1.1"
+			"tag": "libutil-72"
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-37.5"
+			"tag": "libxml2-37.8"
 		},
 		{
 			"project": "libxslt",
@@ -472,7 +472,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2200.0.8"
+			"tag": "mDNSResponder-2200.40.37.0.1"
 		},
 		{
 			"project": "mail_cmds",
@@ -480,7 +480,7 @@
 		},
 		{
 			"project": "man",
-			"tag": "man-47"
+			"tag": "man-50.40.1"
 		},
 		{
 			"project": "misc_cmds",
@@ -508,11 +508,11 @@
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-667"
+			"tag": "network_cmds-669"
 		},
 		{
 			"project": "ntfs",
-			"tag": "ntfs-155"
+			"tag": "ntfs-155.40.2"
 		},
 		{
 			"project": "objc4",
@@ -520,7 +520,7 @@
 		},
 		{
 			"project": "pam_modules",
-			"tag": "pam_modules-206"
+			"tag": "pam_modules-208"
 		},
 		{
 			"project": "passwordserver_sasl",
@@ -588,7 +588,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55291"
+			"tag": "security_certificates-55294"
 		},
 		{
 			"project": "security_certtool",
@@ -632,7 +632,7 @@
 		},
 		{
 			"project": "tcl",
-			"tag": "tcl-140.1.1"
+			"tag": "tcl-140.40.2.0.1"
 		},
 		{
 			"project": "tcpdump",
@@ -664,7 +664,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-146"
+			"tag": "vim-149"
 		},
 		{
 			"project": "webdavfs",
@@ -676,7 +676,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-10002.1.13"
+			"tag": "xnu-10002.41.9"
 		},
 		{
 			"project": "zip",
@@ -684,7 +684,7 @@
 		},
 		{
 			"project": "zlib",
-			"tag": "zlib-91"
+			"tag": "zlib-91.40.1.0.1"
 		},
 		{
 			"project": "zsh",
