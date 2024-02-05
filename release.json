@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 14",
-	"release": "macOS 14.2",
+	"release": "macOS 14.3",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -28,11 +28,11 @@
 		},
 		{
 			"project": "Chess",
-			"tag": "Chess-466.4.1"
+			"tag": "Chess-512.1"
 		},
 		{
 			"project": "CommonCrypto",
-			"tag": "CommonCrypto-600025"
+			"tag": "CommonCrypto-600025.80.1"
 		},
 		{
 			"project": "CrackLib",
@@ -40,11 +40,11 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-438.61.1"
+			"tag": "DiskArbitration-438.80.2"
 		},
 		{
 			"project": "Heimdal",
-			"tag": "Heimdal-685"
+			"tag": "Heimdal-687"
 		},
 		{
 			"project": "ICU",
@@ -96,7 +96,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2008.60.7"
+			"tag": "IOHIDFamily-2008.80.3.0.1"
 		},
 		{
 			"project": "IOKitTools",
@@ -104,7 +104,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-100065.60.6"
+			"tag": "IOKitUser-100065.80.2"
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -144,7 +144,7 @@
 		},
 		{
 			"project": "Libsystem",
-			"tag": "Libsystem-1336.61.1"
+			"tag": "Libsystem-1336.80.1"
 		},
 		{
 			"project": "Liby",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1630.60.5.0.1"
+			"tag": "PowerManagement-1630.60.6"
 		},
 		{
 			"project": "RubyGems",
@@ -192,7 +192,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61040.61.2"
+			"tag": "Security-61040.80.10.0.1"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7617.1.17.11.9"
+			"tag": "WebKit-7617.2.4.11.8"
 		},
 		{
 			"project": "adv_cmds",
@@ -400,7 +400,7 @@
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-1462.0.4"
+			"tag": "libdispatch-1462.80.1"
 		},
 		{
 			"project": "libedit",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libiconv",
-			"tag": "libiconv-92"
+			"tag": "libiconv-92.80.2"
 		},
 		{
 			"project": "libmalloc",
@@ -432,7 +432,7 @@
 		},
 		{
 			"project": "libpcap",
-			"tag": "libpcap-130"
+			"tag": "libpcap-131"
 		},
 		{
 			"project": "libplatform",
@@ -472,7 +472,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2200.60.25.0.4"
+			"tag": "mDNSResponder-2200.80.16"
 		},
 		{
 			"project": "mail_cmds",
@@ -588,7 +588,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55297.60.1"
+			"tag": "security_certificates-55297.80.2"
 		},
 		{
 			"project": "security_certtool",
@@ -644,7 +644,7 @@
 		},
 		{
 			"project": "text_cmds",
-			"tag": "text_cmds-165.0.4"
+			"tag": "text_cmds-165.80.1"
 		},
 		{
 			"project": "tidy",
@@ -664,7 +664,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-152"
+			"tag": "vim-155"
 		},
 		{
 			"project": "webdavfs",
@@ -676,7 +676,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-10002.61.3"
+			"tag": "xnu-10002.81.5"
 		},
 		{
 			"project": "zip",
