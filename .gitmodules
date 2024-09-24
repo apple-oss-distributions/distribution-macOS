@@ -199,9 +199,6 @@
 [submodule "cddafs"]
 	path = cddafs
 	url = https://github.com/apple-oss-distributions/cddafs
-[submodule "crontabs"]
-	path = crontabs
-	url = https://github.com/apple-oss-distributions/crontabs
 [submodule "curl"]
 	path = curl
 	url = https://github.com/apple-oss-distributions/curl
