@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 15",
-	"release": "macOS 15.2",
+	"release": "macOS 15.3",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -12,7 +12,7 @@
 		},
 		{
 			"project": "AvailabilityVersions",
-			"tag": "AvailabilityVersions-143.6"
+			"tag": "AvailabilityVersions-143.7"
 		},
 		{
 			"project": "BerkeleyDB",
@@ -40,7 +40,7 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-490.60.2"
+			"tag": "DiskArbitration-490.81.1"
 		},
 		{
 			"project": "Heimdal",
@@ -96,7 +96,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2104.61.1"
+			"tag": "IOHIDFamily-2104.80.4"
 		},
 		{
 			"project": "IOKitTools",
@@ -104,7 +104,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-100140.60.14"
+			"tag": "IOKitUser-100140.81.1"
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -112,7 +112,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-664.60.9"
+			"tag": "IOPCIFamily-664.81.2"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -156,7 +156,7 @@
 		},
 		{
 			"project": "NFS",
-			"tag": "NFS-316.0.3"
+			"tag": "NFS-316.80.1"
 		},
 		{
 			"project": "OpenAL",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1740.60.27"
+			"tag": "PowerManagement-1740.80.3"
 		},
 		{
 			"project": "RubyGems",
@@ -188,11 +188,11 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-493.60.4"
+			"tag": "SMBClient-493.80.3"
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61439.60.117"
+			"tag": "Security-61439.81.1"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7620.1.16.11.8"
+			"tag": "WebKit-7620.2.4.11.5"
 		},
 		{
 			"project": "adv_cmds",
@@ -268,7 +268,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-494.60.3"
+			"tag": "bootp-494.80.2"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -284,7 +284,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1351"
+			"tag": "configd-1351.80.2"
 		},
 		{
 			"project": "copyfile",
@@ -324,7 +324,7 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-1241.17"
+			"tag": "dyld-1245.1"
 		},
 		{
 			"project": "eap8021x",
@@ -340,7 +340,7 @@
 		},
 		{
 			"project": "file_cmds",
-			"tag": "file_cmds-448.0.3"
+			"tag": "file_cmds-448.80.1"
 		},
 		{
 			"project": "files",
@@ -356,7 +356,7 @@
 		},
 		{
 			"project": "hfs",
-			"tag": "hfs-677.60.1"
+			"tag": "hfs-677.81.4"
 		},
 		{
 			"project": "hunspell",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-657.60.21"
+			"tag": "libmalloc-657.80.3"
 		},
 		{
 			"project": "libmd",
@@ -456,7 +456,7 @@
 		},
 		{
 			"project": "libxslt",
-			"tag": "libxslt-21.2"
+			"tag": "libxslt-21.5"
 		},
 		{
 			"project": "llvmCore",
@@ -468,7 +468,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2559.60.39.0.1"
+			"tag": "mDNSResponder-2559.80.8"
 		},
 		{
 			"project": "mail_cmds",
@@ -488,7 +488,7 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-720.60.14"
+			"tag": "msdosfs-720.80.2"
 		},
 		{
 			"project": "ncurses",
@@ -536,7 +536,7 @@
 		},
 		{
 			"project": "perl",
-			"tag": "perl-165.61.2"
+			"tag": "perl-169"
 		},
 		{
 			"project": "postfix",
@@ -564,11 +564,11 @@
 		},
 		{
 			"project": "removefile",
-			"tag": "removefile-75"
+			"tag": "removefile-75.80.1"
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-91.60.3"
+			"tag": "rsync-91.81.3"
 		},
 		{
 			"project": "ruby",
@@ -584,7 +584,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55313.60.6"
+			"tag": "security_certificates-55313.80.2"
 		},
 		{
 			"project": "security_certtool",
@@ -620,7 +620,7 @@
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-1012.60.2"
+			"tag": "system_cmds-1012.80.2"
 		},
 		{
 			"project": "system_config",
@@ -644,7 +644,7 @@
 		},
 		{
 			"project": "tidy",
-			"tag": "tidy-19.8"
+			"tag": "tidy-19.9"
 		},
 		{
 			"project": "top",
@@ -672,7 +672,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-11215.61.5"
+			"tag": "xnu-11215.81.4"
 		},
 		{
 			"project": "zip",
