@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 15",
-	"release": "macOS 15.5",
+	"release": "macOS 15.6",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -40,15 +40,15 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-490.120.6.0.1"
+			"tag": "DiskArbitration-490.140.8"
 		},
 		{
 			"project": "Heimdal",
-			"tag": "Heimdal-693.100.10"
+			"tag": "Heimdal-693.140.2"
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-76104.3"
+			"tag": "ICU-76104.4"
 		},
 		{
 			"project": "IOATAFamily",
@@ -96,7 +96,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2115.100.21"
+			"tag": "IOHIDFamily-2115.140.4"
 		},
 		{
 			"project": "IOKitTools",
@@ -112,7 +112,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-681.120.3"
+			"tag": "IOPCIFamily-681.140.3"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -128,7 +128,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-1698.100.8"
+			"tag": "Libc-1698.140.3"
 		},
 		{
 			"project": "Libinfo",
@@ -156,7 +156,7 @@
 		},
 		{
 			"project": "NFS",
-			"tag": "NFS-327.120.3"
+			"tag": "NFS-327.140.2"
 		},
 		{
 			"project": "OpenAL",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1754.120.2"
+			"tag": "PowerManagement-1754.140.4"
 		},
 		{
 			"project": "RubyGems",
@@ -192,7 +192,7 @@
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61439.120.27"
+			"tag": "Security-61439.140.12"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7621.2.5.11.8"
+			"tag": "WebKit-7621.3.11.11.3"
 		},
 		{
 			"project": "adv_cmds",
@@ -268,7 +268,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-494.120.6"
+			"tag": "bootp-494.140.4"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -284,11 +284,11 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1351.120.3"
+			"tag": "configd-1351.140.5"
 		},
 		{
 			"project": "copyfile",
-			"tag": "copyfile-221.121.1"
+			"tag": "copyfile-224"
 		},
 		{
 			"project": "cron",
@@ -308,7 +308,7 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-737.100.3"
+			"tag": "diskdev_cmds-737.140.4"
 		},
 		{
 			"project": "disklabel",
@@ -316,7 +316,7 @@
 		},
 		{
 			"project": "doc_cmds",
-			"tag": "doc_cmds-67"
+			"tag": "doc_cmds-69"
 		},
 		{
 			"project": "dtrace",
@@ -324,7 +324,7 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-1285.19"
+			"tag": "dyld-1286.10"
 		},
 		{
 			"project": "eap8021x",
@@ -336,15 +336,15 @@
 		},
 		{
 			"project": "file",
-			"tag": "file-103"
+			"tag": "file-104"
 		},
 		{
 			"project": "file_cmds",
-			"tag": "file_cmds-457.120.3"
+			"tag": "file_cmds-457.140.3"
 		},
 		{
 			"project": "files",
-			"tag": "files-950.100.4"
+			"tag": "files-950.140.2"
 		},
 		{
 			"project": "gpt",
@@ -388,7 +388,7 @@
 		},
 		{
 			"project": "libarchive",
-			"tag": "libarchive-149"
+			"tag": "libarchive-151.140.2"
 		},
 		{
 			"project": "libclosure",
@@ -396,7 +396,7 @@
 		},
 		{
 			"project": "libdispatch",
-			"tag": "libdispatch-1521.120.4"
+			"tag": "libdispatch-1521.140.2"
 		},
 		{
 			"project": "libedit",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-715.120.13"
+			"tag": "libmalloc-715.140.5"
 		},
 		{
 			"project": "libmd",
@@ -432,7 +432,7 @@
 		},
 		{
 			"project": "libplatform",
-			"tag": "libplatform-349"
+			"tag": "libplatform-349.140.6"
 		},
 		{
 			"project": "libpthread",
@@ -452,11 +452,11 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-38.11"
+			"tag": "libxml2-38.15"
 		},
 		{
 			"project": "libxslt",
-			"tag": "libxslt-21.7"
+			"tag": "libxslt-21.11"
 		},
 		{
 			"project": "llvmCore",
@@ -468,7 +468,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2600.120.12"
+			"tag": "mDNSResponder-2600.140.3"
 		},
 		{
 			"project": "mail_cmds",
@@ -536,7 +536,7 @@
 		},
 		{
 			"project": "perl",
-			"tag": "perl-169"
+			"tag": "perl-171"
 		},
 		{
 			"project": "postfix",
@@ -568,7 +568,7 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-146.120.5"
+			"tag": "rsync-146.140.15"
 		},
 		{
 			"project": "ruby",
@@ -584,7 +584,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55313.120.12"
+			"tag": "security_certificates-55313.140.2"
 		},
 		{
 			"project": "security_certtool",
@@ -620,7 +620,7 @@
 		},
 		{
 			"project": "system_cmds",
-			"tag": "system_cmds-1026.100.5"
+			"tag": "system_cmds-1026.140.2"
 		},
 		{
 			"project": "system_config",
@@ -664,7 +664,7 @@
 		},
 		{
 			"project": "webdavfs",
-			"tag": "webdavfs-399"
+			"tag": "webdavfs-401"
 		},
 		{
 			"project": "xar",
@@ -672,11 +672,11 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-11417.121.6"
+			"tag": "xnu-11417.140.69"
 		},
 		{
 			"project": "zip",
-			"tag": "zip-27"
+			"tag": "zip-29"
 		},
 		{
 			"project": "zlib",
