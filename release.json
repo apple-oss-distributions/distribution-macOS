@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 26",
-	"release": "macOS 26.0",
+	"release": "macOS 26.1",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -28,7 +28,7 @@
 		},
 		{
 			"project": "Chess",
-			"tag": "Chess-560.3"
+			"tag": "Chess-570.1"
 		},
 		{
 			"project": "CommonCrypto",
@@ -40,7 +40,7 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-535.0.10"
+			"tag": "DiskArbitration-535.40.5.0.1"
 		},
 		{
 			"project": "Heimdal",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-76133"
+			"tag": "ICU-76142.2"
 		},
 		{
 			"project": "IOATAFamily",
@@ -96,7 +96,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2222.0.24"
+			"tag": "IOHIDFamily-2222.40.11"
 		},
 		{
 			"project": "IOKitTools",
@@ -104,7 +104,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-100222.0.4"
+			"tag": "IOKitUser-100222.40.4"
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -112,7 +112,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-726.0.5"
+			"tag": "IOPCIFamily-726.40.2"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -120,7 +120,7 @@
 		},
 		{
 			"project": "IOStorageFamily",
-			"tag": "IOStorageFamily-331"
+			"tag": "IOStorageFamily-333.40.1"
 		},
 		{
 			"project": "KerberosHelper",
@@ -128,7 +128,7 @@
 		},
 		{
 			"project": "Libc",
-			"tag": "Libc-1725.0.11"
+			"tag": "Libc-1725.40.4"
 		},
 		{
 			"project": "Libinfo",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1846.0.25.0.1"
+			"tag": "PowerManagement-1846.40.10"
 		},
 		{
 			"project": "RubyGems",
@@ -188,11 +188,11 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-532"
+			"tag": "SMBClient-532.40.3"
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61901.0.87.0.1"
+			"tag": "Security-61901.40.77"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7622.1.22.11.14"
+			"tag": "WebKit-7622.2.11.11.9"
 		},
 		{
 			"project": "adv_cmds",
@@ -248,7 +248,7 @@
 		},
 		{
 			"project": "bash",
-			"tag": "bash-140"
+			"tag": "bash-142"
 		},
 		{
 			"project": "basic_cmds",
@@ -268,7 +268,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-527"
+			"tag": "bootp-531"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -284,7 +284,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1385.0.7"
+			"tag": "configd-1385.40.9"
 		},
 		{
 			"project": "copyfile",
@@ -308,7 +308,7 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-751"
+			"tag": "diskdev_cmds-751.40.1.0.1"
 		},
 		{
 			"project": "disklabel",
@@ -324,11 +324,11 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-1323.3"
+			"tag": "dyld-1330"
 		},
 		{
 			"project": "eap8021x",
-			"tag": "eap8021x-368.0.3"
+			"tag": "eap8021x-368.40.2"
 		},
 		{
 			"project": "expat",
@@ -344,7 +344,7 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-968"
+			"tag": "files-968.40.2"
 		},
 		{
 			"project": "gpt",
@@ -356,7 +356,7 @@
 		},
 		{
 			"project": "hfs",
-			"tag": "hfs-704.0.3.0.2"
+			"tag": "hfs-704.40.4.0.1"
 		},
 		{
 			"project": "hunspell",
@@ -388,7 +388,7 @@
 		},
 		{
 			"project": "libarchive",
-			"tag": "libarchive-158"
+			"tag": "libarchive-160"
 		},
 		{
 			"project": "libclosure",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-792.1.1"
+			"tag": "libmalloc-792.41.1"
 		},
 		{
 			"project": "libmd",
@@ -432,7 +432,7 @@
 		},
 		{
 			"project": "libplatform",
-			"tag": "libplatform-359.1.2"
+			"tag": "libplatform-359.40.3"
 		},
 		{
 			"project": "libpthread",
@@ -456,7 +456,7 @@
 		},
 		{
 			"project": "libxslt",
-			"tag": "libxslt-21.12"
+			"tag": "libxslt-21.13"
 		},
 		{
 			"project": "llvmCore",
@@ -468,7 +468,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2881.0.25"
+			"tag": "mDNSResponder-2881.40.18"
 		},
 		{
 			"project": "mail_cmds",
@@ -488,7 +488,7 @@
 		},
 		{
 			"project": "msdosfs",
-			"tag": "msdosfs-788.0.6.0.1"
+			"tag": "msdosfs-788.40.4"
 		},
 		{
 			"project": "ncurses",
@@ -504,7 +504,7 @@
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-726"
+			"tag": "network_cmds-728.40.1"
 		},
 		{
 			"project": "ntfs",
@@ -512,11 +512,11 @@
 		},
 		{
 			"project": "objc4",
-			"tag": "objc4-950"
+			"tag": "objc4-951.1"
 		},
 		{
 			"project": "pam_modules",
-			"tag": "pam_modules-217.0.1"
+			"tag": "pam_modules-217.40.3"
 		},
 		{
 			"project": "passwordserver_sasl",
@@ -544,7 +544,7 @@
 		},
 		{
 			"project": "ppp",
-			"tag": "ppp-1020.1.1"
+			"tag": "ppp-1023"
 		},
 		{
 			"project": "pyobjc",
@@ -568,11 +568,11 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-170"
+			"tag": "rsync-174.40.1"
 		},
 		{
 			"project": "ruby",
-			"tag": "ruby-171"
+			"tag": "ruby-173"
 		},
 		{
 			"project": "screen",
@@ -584,7 +584,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55349.0.11"
+			"tag": "security_certificates-55349.40.11"
 		},
 		{
 			"project": "security_certtool",
@@ -608,7 +608,7 @@
 		},
 		{
 			"project": "sudo",
-			"tag": "sudo-114.0.2"
+			"tag": "sudo-114.40.5"
 		},
 		{
 			"project": "swig",
@@ -660,7 +660,7 @@
 		},
 		{
 			"project": "vim",
-			"tag": "vim-163"
+			"tag": "vim-163.40.3"
 		},
 		{
 			"project": "webdavfs",
@@ -672,7 +672,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-12377.1.9"
+			"tag": "xnu-12377.41.6"
 		},
 		{
 			"project": "zip",
@@ -684,7 +684,7 @@
 		},
 		{
 			"project": "zsh",
-			"tag": "zsh-110.1.1"
+			"tag": "zsh-113.40.1"
 		}
 	]
 }
