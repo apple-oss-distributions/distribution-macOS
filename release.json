@@ -1,6 +1,6 @@
 {
 	"major_release": "macOS 26",
-	"release": "macOS 26.2",
+	"release": "macOS 26.3",
 	"projects": [
 		{
 			"project": "AppleFileSystemDriver",
@@ -40,7 +40,7 @@
 		},
 		{
 			"project": "DiskArbitration",
-			"tag": "DiskArbitration-535.40.5.0.1"
+			"tag": "DiskArbitration-535.80.3"
 		},
 		{
 			"project": "Heimdal",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ICU",
-			"tag": "ICU-76142.3.1"
+			"tag": "ICU-76142.3.1.1"
 		},
 		{
 			"project": "IOATAFamily",
@@ -96,7 +96,7 @@
 		},
 		{
 			"project": "IOHIDFamily",
-			"tag": "IOHIDFamily-2222.60.11"
+			"tag": "IOHIDFamily-2222.80.22"
 		},
 		{
 			"project": "IOKitTools",
@@ -104,7 +104,7 @@
 		},
 		{
 			"project": "IOKitUser",
-			"tag": "IOKitUser-100222.60.2"
+			"tag": "IOKitUser-100222.80.4"
 		},
 		{
 			"project": "IONetworkingFamily",
@@ -172,7 +172,7 @@
 		},
 		{
 			"project": "OpenSSH",
-			"tag": "OpenSSH-354.0.3"
+			"tag": "OpenSSH-354.80.3"
 		},
 		{
 			"project": "OpenSSL098",
@@ -180,7 +180,7 @@
 		},
 		{
 			"project": "PowerManagement",
-			"tag": "PowerManagement-1846.60.12"
+			"tag": "PowerManagement-1846.81.1"
 		},
 		{
 			"project": "RubyGems",
@@ -188,11 +188,11 @@
 		},
 		{
 			"project": "SMBClient",
-			"tag": "SMBClient-532.40.3"
+			"tag": "SMBClient-532.80.3"
 		},
 		{
 			"project": "Security",
-			"tag": "Security-61901.60.40"
+			"tag": "Security-61901.80.25"
 		},
 		{
 			"project": "SecurityTokend",
@@ -212,7 +212,7 @@
 		},
 		{
 			"project": "WebKit",
-			"tag": "WebKit-7623.1.14.11.9"
+			"tag": "WebKit-7623.2.7.11.6"
 		},
 		{
 			"project": "adv_cmds",
@@ -268,7 +268,7 @@
 		},
 		{
 			"project": "bootp",
-			"tag": "bootp-531"
+			"tag": "bootp-531.80.4"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -284,7 +284,7 @@
 		},
 		{
 			"project": "configd",
-			"tag": "configd-1385.60.3"
+			"tag": "configd-1385.80.4"
 		},
 		{
 			"project": "copyfile",
@@ -296,7 +296,7 @@
 		},
 		{
 			"project": "cups",
-			"tag": "cups-522.1"
+			"tag": "cups-522.2"
 		},
 		{
 			"project": "curl",
@@ -308,7 +308,7 @@
 		},
 		{
 			"project": "diskdev_cmds",
-			"tag": "diskdev_cmds-751.40.1.0.1"
+			"tag": "diskdev_cmds-751.80.2"
 		},
 		{
 			"project": "disklabel",
@@ -324,7 +324,7 @@
 		},
 		{
 			"project": "dyld",
-			"tag": "dyld-1335"
+			"tag": "dyld-1340"
 		},
 		{
 			"project": "eap8021x",
@@ -332,7 +332,7 @@
 		},
 		{
 			"project": "expat",
-			"tag": "expat-43"
+			"tag": "expat-45"
 		},
 		{
 			"project": "file",
@@ -356,7 +356,7 @@
 		},
 		{
 			"project": "hfs",
-			"tag": "hfs-704.60.1.0.3"
+			"tag": "hfs-704.60.4"
 		},
 		{
 			"project": "hunspell",
@@ -420,7 +420,7 @@
 		},
 		{
 			"project": "libmalloc",
-			"tag": "libmalloc-792.60.6"
+			"tag": "libmalloc-792.80.2"
 		},
 		{
 			"project": "libmd",
@@ -432,11 +432,11 @@
 		},
 		{
 			"project": "libplatform",
-			"tag": "libplatform-359.60.3"
+			"tag": "libplatform-359.80.2"
 		},
 		{
 			"project": "libpthread",
-			"tag": "libpthread-539"
+			"tag": "libpthread-539.80.3"
 		},
 		{
 			"project": "libresolv",
@@ -452,7 +452,7 @@
 		},
 		{
 			"project": "libxml2",
-			"tag": "libxml2-39.8"
+			"tag": "libxml2-39.10"
 		},
 		{
 			"project": "libxslt",
@@ -468,7 +468,7 @@
 		},
 		{
 			"project": "mDNSResponder",
-			"tag": "mDNSResponder-2881.60.4"
+			"tag": "mDNSResponder-2881.80.4.0.1"
 		},
 		{
 			"project": "mail_cmds",
@@ -504,7 +504,7 @@
 		},
 		{
 			"project": "network_cmds",
-			"tag": "network_cmds-728.60.2"
+			"tag": "network_cmds-730.80.3"
 		},
 		{
 			"project": "ntfs",
@@ -568,7 +568,7 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-174.60.3"
+			"tag": "rsync-174.80.2"
 		},
 		{
 			"project": "ruby",
@@ -584,7 +584,7 @@
 		},
 		{
 			"project": "security_certificates",
-			"tag": "security_certificates-55349.60.3"
+			"tag": "security_certificates-55349.80.5"
 		},
 		{
 			"project": "security_certtool",
@@ -632,7 +632,7 @@
 		},
 		{
 			"project": "tcpdump",
-			"tag": "tcpdump-153"
+			"tag": "tcpdump-156"
 		},
 		{
 			"project": "tcsh",
@@ -672,7 +672,7 @@
 		},
 		{
 			"project": "xnu",
-			"tag": "xnu-12377.61.12"
+			"tag": "xnu-12377.81.4"
 		},
 		{
 			"project": "zip",
